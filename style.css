@@ -1,5 +1,13 @@
+@import url("https://use.typekit.net/lun6vfp.css");
+
 body{
     background-color: rgb(250, 241, 215);
+    font-family: poleno, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5em;
+    letter-spacing: 50px;
+    text-align: center;
 }
 
 
@@ -19,6 +27,6 @@ body{
  
 @media only screen and (min-width: 800px) and (max-width: 1280px) {
     body{
-        background-colors: #0000FF;
+        background-color: #0000FF;
     }
 }
