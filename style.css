@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(255,255,0);
+}
+
+span{
+    color: red;
+}
+
+div{
+    background-color: aquamarine;
+}
+
+.hero{
+    background-color: green;
+    height: 75vh;
+    width: 75vw;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    position: relative;
+}
+
+.intro{
+    background-color: bisque;
+}
+
+.fun{
+    background-color: gray;
+    height: 40px;
+    width: 200px;
+}
+
+#anthonywarnick{
+    background-color: blue;
+    position: absolute;
+    bottom:50px;
+    right:50px;
+}
+
+.grid_example{
+    width:75vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 40px 100px;
+    grid-row-gap: 5px;
+    grid-column-gap: 5px;
+    margin: auto;
+    background-color: tomato;
+}
+.item{
+    background-color: aqua;
+}
