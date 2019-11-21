@@ -1,0 +1,11 @@
+---
+permalink: /categories/
+layout: layouts/home.njk
+---
+
+<h1>Categories</h1>
+
+{% for tag in collections.everything %}
+  {% set tagUrl %}/work/{{ tag }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+{% endfor %}

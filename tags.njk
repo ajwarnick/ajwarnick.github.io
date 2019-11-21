@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.everything
+  size: 1
+  alias: tag
+permalink: work/{{ tag }}/index.html
+renderData:
+  title: Tagged “{{ tag }}”
+---
+
+<div class="work__title">
+    {{ tag | upper }}
+</div>
+    
+{% set postslist = collections[tag] %}
+{% include "partials/postlist.njk" %}

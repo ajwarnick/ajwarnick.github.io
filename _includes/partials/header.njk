@@ -1,0 +1,20 @@
+<!-- start of partials/header -->
+<div class="header">
+  <nav>
+    <ul class="menu">
+      <li>
+        {% set homeUrl %}/{% endset %}
+        <a href="{{ homeUrl | url }}" class="tag">home</a>
+      </li>
+
+      {% for tag in collections.everything %}
+        {% set tagUrl %}/work/{{ tag }}/{% endset %}
+        <li>
+          <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+        </li>
+      {% endfor %}
+      
+    </ul>
+  </nav>
+</div>
+<!-- end of partials/header -->

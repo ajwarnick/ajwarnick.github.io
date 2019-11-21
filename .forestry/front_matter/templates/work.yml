@@ -1,0 +1,22 @@
+---
+label: Work
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: process_images
+  type: image_gallery
+  config: {}
+  label: Process Images
+- name: discription
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Discription
