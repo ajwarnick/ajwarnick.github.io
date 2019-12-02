@@ -18,7 +18,7 @@
 8. Copy the content into your project folder
 
 9. Open Terminal within Visual Studio Code
-   
+   ![terminal activation in Visual Studio Code](https://github.com/ajwarnick/ajwarnick.github.io/raw/templet/.instructions/terminal.png)
 
 10. Run command 
 
