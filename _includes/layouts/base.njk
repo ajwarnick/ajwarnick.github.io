@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Anthony Warnick {% if title.length %} | {{ title }} {% endif %}</title>
+    <link rel="stylesheet" href="{{ '/css/style.css' | url}}">
+    <script src="{{ '/js/script.js' | url}}" defer></script>
+</head>
+<body>
+    {% include "partials/header.njk" %}
+
+    <div class="content">
+        {{ content | safe }}
+    </div>
+    
+    {% include "partials/footer.njk" %}
+</body>
+</html>

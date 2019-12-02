@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+
+<div class="work__title">
+    {{ title | upper }}
+</div>
+
+
+<div class="work__layout">
+    <div class="work__featured_image">
+        <img src="{{ featured_image | url }}" />
+    </div>
+    <div>
+        <h4>
+            {{ year }}
+        </h4>
+        <h4>
+            {{ type }}
+        </h4>
+        <h4>
+            {{ materials }}
+        </h4>
+        <h5>
+            {{ description }}
+        </h5>
+
+        {% for tag in tags %}
+            {%- if tag != "posts" -%}
+                {% set tagUrl %}/work/{{ tag }}/{% endset %}
+                <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+            {%- endif -%}
+        {% endfor %}
+
+        <div class="work__support_images">
+            {% for image in support_images %}
+                <img src="{{ image | url }}">
+            {% endfor %}
+        </div>
+        
+
+    </div>
+</div>
