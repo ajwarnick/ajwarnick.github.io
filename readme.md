@@ -13,7 +13,7 @@
    ```
 
 5. **[ MAC ONLY ]**  Install Xcode command line tools
-   ![Image of Xcode prompt](/Users/warnick/OneDrive - Kansas State University/Fall 2019/ART 300/instructions/xcode.png)
+   ![Image of Xcode prompt](https://github.com/ajwarnick/ajwarnick.github.io/raw/templet/.instructions/xcode.png)
 
 6. **[ MAC ONLY ]** Click Install and wait for the installation to complete
 
