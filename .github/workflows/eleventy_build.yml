@@ -5,7 +5,7 @@ jobs:
   build_deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@templet
+      - uses: actions/checkout
       - name: Build
         uses: TartanLlama/actions-eleventy@v1.1
       - name: Deploy
