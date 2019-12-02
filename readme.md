@@ -37,4 +37,13 @@
 
 ### Process
 
-Your CSS should move inside the 'css' folder, and your images should move to the 'img' folder. These will be copied over to the static site. If you want to have 
+Your CSS should move inside the 'css' folder, and your images should move to the 'img' folder. These will be copied over to the static site. Your templets should live inside the '_includes' folder, and they should be .njk files instead of .html. The only difference between these two files is inside of our .njk files we can use our variables. Please look over my files to understand how I have broken the parts of the html into a few difference files. 
+
+### Development
+
+When we are working on our projects we will need to use the terminal to launch our projects instead of our live server. We do that by running the following command:
+
+```bash
+npm run watch
+```
+
