@@ -7,11 +7,10 @@ sections:
 - type: document
   path: work
   label: work
-  match: "**/*"
 - type: heading
   label: Sidebar Heading
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: img
+public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
