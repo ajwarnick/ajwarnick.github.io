@@ -4,9 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
+- type: directory
   path: work
-  label: work
+  label: Work
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - work
 - type: heading
   label: Sidebar Heading
 upload_dir: img
