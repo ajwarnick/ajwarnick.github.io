@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: work
+  label: work
+  match: "**/*"
 - type: heading
   label: Sidebar Heading
 upload_dir: uploads
