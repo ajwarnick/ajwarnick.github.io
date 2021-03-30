@@ -1,17 +1,51 @@
-<div class="postlist">
-  {% for post in postslist %}
-    <div class="individual_item">
-      <div class="item_image">
-        <a href="{{ post.url | url }}">
-          <img src="{{ post.data.featured_image | url }}" />
-        </a>
-      </div>
-      <div class="item_title">
-        <a href="{{ post.url | url }}">
-          {{ post.data.title }}
-        </a>
-        
-      </div>
-    </div>
-  {% endfor %}
+<div class="works" id="work-list" role="main" >
+  <div class="work-sorters">
+    <!-- IMAGE -->
+    <!-- Title -->
+    <!-- Year -->
+    <!-- Warnick Number -->
+    <!-- Dimensions -->
+    <!-- Materials -->
+    <!-- Type -->
+    <!-- Color -->
+    <!-- Collaborators -->
+    <!-- Location -->
+    <!-- Price -->
+    <!-- Edition -->
+    <!-- Collection -->
+
+    <!-- Available -->
+
+    <!-- Exhibition title -->
+    <!-- Venue  -->
+    <!-- Period -->
+    <div class="image"></div>
+    <div class="sort" data-sort="title">Title</div>
+    <div class="sort" data-sort="year">Year</div>
+    <div class="sort" data-sort="warnickNumber">Warnick Number</div>
+    <div class="sort" data-sort="dimentions">Dimensions</div>
+    <div class="sort" data-sort="materials">Materials</div>
+    <div class="sort" data-sort="type">Type</div>
+  </div>
+  <ul class="list">
+    {% for post in postslist %}
+      <li>
+          <div class="image">
+            <a href="{{ post.url | url }}">
+              <img src="{{ post.data.featured_image | url }}" />
+            </a>
+          </div>
+          <div class="title">
+            <a href="{{ post.url | url }}">
+              {{ post.data.title }}
+            </a>
+          </div>
+          <div class="year">{{ post.data.year }}</div>
+          <div class="warnickNumber" data-id="1">{{ post.data.warnickNumber }}</div>
+          <div class="dimentions">{{ post.data.dimensions }}</div>
+          <div class="materials">{{ post.data.materials }}</div>
+          <div class="type">{{ post.data.type }}</div>
+      </li>
+    {% endfor %}
+  </ul>
 </div>

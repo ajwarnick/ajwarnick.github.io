@@ -1,7 +1,7 @@
 {
   "name": "eleventy-sample",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. Download and Install [Node.js](https://nodejs.org/en/)",
   "main": "index.js",
   "scripts": {
     "build": "eleventy build",
@@ -13,5 +13,13 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajwarnick/ajwarnick.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajwarnick/ajwarnick.github.io/issues"
+  },
+  "homepage": "https://github.com/ajwarnick/ajwarnick.github.io#readme"
 }

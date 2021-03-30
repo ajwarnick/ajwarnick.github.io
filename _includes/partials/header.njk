@@ -1,7 +1,10 @@
 <!-- start of partials/header -->
-<div class="header">
-  <nav>
-    <ul class="menu">
+<header id="masdivead" class="site-header" role="menu">
+  <p class="site-title">
+    <a href="#" rel="home">Anthony Warnick</a>
+  </p>
+  <nav class="main-nav">
+    <ul>
       <li>
         {% set homeUrl %}/{% endset %}
         <a href="{{ homeUrl | url }}" class="tag">home</a>
@@ -13,8 +16,9 @@
           <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
         </li>
       {% endfor %}
-      
     </ul>
   </nav>
-</div>
+</header>
 <!-- end of partials/header -->
+
+    
