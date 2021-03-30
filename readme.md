@@ -47,3 +47,8 @@ When we are working on our projects we will need to use the terminal to launch o
 npm run watch
 ```
 
+### TODO
+  - Edition
+  - Exhibitions
+  - Collaborators 
+  - Series 
