@@ -23,7 +23,7 @@ templateClass: tmpl-post
             {{ materials }}
         </h4>
         <h5>
-            {{ description }}
+            {{ description.long }}
         </h5>
 
         {% for tag in tags %}
@@ -34,9 +34,10 @@ templateClass: tmpl-post
         {% endfor %}
 
         <div class="work__support_images">
+            {% ResponsiveImage "illu_237-1.jpg", "this is an alt description", "(min-width: 30em) 50vw, 100vw" %}
             {% for image in support_images %}
-                <img src="{{ image | url }}">
-            {% endfor %}
+                <!-- <img src="{{ image | url }}"> -->
+            {% endfor %} 
         </div>
         
 
