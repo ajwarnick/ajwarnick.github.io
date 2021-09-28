@@ -73,11 +73,30 @@
     grid-row-end: 5;
   }
   
-  .work .images img {
-    float: left;
-    display: inline-block;
-    max-width: 33%;
+  .work .images div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: start;
+    align-content: start;
+    gap:10px;
   }
+
+  .work .images div:after {
+    // display: block;
+    display:none;
+    content: " placeholder ";
+    flex: 999 999 auto;
+  }
+
+  .work .images div img{
+    width: 32%;
+    flex: 0 1 auto;
+    
+  }
+
+
   
   .work .discription {
     grid-column-start: 7;

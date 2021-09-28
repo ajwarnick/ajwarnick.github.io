@@ -11,10 +11,13 @@
     margin-top: 4rem;
     /* font-size: 1.3rem; */
     /* font-weight: bold; */
-  }
-  
-  .works {
     font-weight: normal;
+  }
+
+  .tag__title{
+    font-size: 3rem;
+    margin: 5rem 3rem 0rem 3rem;
+    // border-bottom: var(--border-size) solid var(--main-color);
   }
   
   .works .work-sorters {
@@ -75,7 +78,7 @@
   }
   
   .works li:first-child {
-    margin-top: var(--gap);
+    // margin-top: var(--gap);
   }
   
   .works .image {

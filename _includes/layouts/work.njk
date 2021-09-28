@@ -14,21 +14,22 @@ templateClass: tmpl-post
     </div>
     <div class="archive_number">
         <div class="label">Warnick Number:</div>
-        00.00.00.xx
+        {{ warnickNumber }}
     </div>
     <div class="hero_image">
-        <!-- <img src="https://picsum.photos/1920/1080" alt="FPO - 16:9"> -->
-        <img src="{{ featured_image | url }}" />
+        <img src="{{ featured_image | url }}" alt="{{ description.short }}" />
     </div>
     <div class="dimensions">
         <div class="label">Dimensions:</div>
-        72" x 96" x 4"
+        {{ dimensions_test }}
     </div>
     <div class="images">
         <div class="label">Images:</div>
-        {% for image in support_images %}
-            <img src="{{ image | url }}"> 
-        {% endfor %} 
+        <div>
+            {% for image in support_images %}
+                <img src="{{ image | url }}"> 
+            {% endfor %} 
+        </div>
     </div>
     <div class="discription">
         <div class="label">Discription:</div>
@@ -37,12 +38,10 @@ templateClass: tmpl-post
     <div class="materials">
         <div class="label">Materials:</div>
         {{ materials }}
-        {% for tag in tags %}
-            {%- if tag != "posts" -%}
-                {% set tagUrl %}/work/{{ tag }}/{% endset %}
-                <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
-            {%- endif -%}
-        {% endfor %}
+        {# {% for material in materials %}
+            {% set materialUrl %}/work/{{ material | url }}/{% endset %}
+            <a href="{{ materialUrl | url }}" class="material">{{ material }}</a>
+        {% endfor %} #}
     </div>
     <div class="links">
         <div class="label">Links:</div>

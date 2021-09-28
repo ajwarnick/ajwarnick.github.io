@@ -1,9 +1,7 @@
 ---
 layout: layouts/post.njk
 tags:
-  - work
-  - "2019"
-  - print
+  - news
 title: Where Does Power Lie?
 type: Print
 
