@@ -6,6 +6,9 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('js');
     eleventyConfig.addPassthroughCopy('.nojekyll');
 
+    // eleventyConfig.ignores.add("README.md");
+    // eleventyConfig.ignores.delete("README.md");
+
     eleventyConfig.addWatchTarget("./_src/sass/");
 
     eleventyConfig.addNunjucksAsyncShortcode("ResponsiveImage", async (src, alt) => {
