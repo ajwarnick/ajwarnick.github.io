@@ -1,253 +1,31 @@
-:root {
-  --background: white;
-  --border-size: 1px;
-  --padding: 3rem;
-}
+@import 'utilities/variables';
+@import 'utilities/functions';
+@import 'utilities/mixins';
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
 
-html,
-body {
-  font-family: sans-serif;
-  background-color: rgb(255, 255, 255);
-  margin: 0;
-  padding: 0;
-}
+@import 'base/reset';
+@import 'base/typography';
+@import 'base/base';
 
-img {
-  max-width: 100%;
-  display: block;
-}
 
-a {
-  text-decoration: none;
-  color: blue;
-}
+@import 'layouts/work';
+@import 'layouts/post';
 
-a:hover {
-  color: gray;
-}
 
-a:visited {
-  color: blue;
-}
+// @import 'components/header';
+@import 'components/footer';
+@import 'components/menu';
+@import 'components/close';
+// @import 'components/forms';
+// @import 'components/buttons';
+// @import 'components/carousel';
+// @import 'components/slider';
 
-/* menu */
 
-.site-header {
-  width: calc(100vw - 6rem);
-  position: fixed;
-  top: 0;
-  left: var(--padding);
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  border-bottom: var(--border-size) solid black;
-  background-color: var(--background);
-  padding: 1rem 0 1rem 0;
-  line-height: 1.1rem;
-  margin: 0;
-  z-index: 100;
-}
+@import 'pages/home';
+@import 'pages/info';
 
-.site-title {
-  margin: 0;
-  padding: 0;
-}
 
-.main-nav {
-  margin: 0;
-  padding: 0;
-  align-self: end;
-}
 
-.main-nav ul {
-  float: right;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
 
-.main-nav li {
-  display: inline;
-  position: relative;
-  padding-right: 1rem;
-}
 
-.main-nav li:last-of-type {
-  padding-right: 0;
-}
-
-.main-nav li:after {
-  content: "/";
-  padding-left: 1rem;
-}
-
-.main-nav li:last-of-type:after {
-  content: none;
-  padding-left: 0;
-}
-
-/* footer */
-
-.footer {
-  width: calc(100vw - (var(--padding) * 2));
-  margin: auto;
-}
-
-.footer.fixed {
-}
-
-/* Table Page */
-
-.works {
-  width: 100%;
-  margin-top: var(--padding);
-}
-
-.content {
-  min-height: 100vh;
-}
-
-.works {
-  font-weight: normal;
-}
-
-.works .list {
-  margin: 0;
-  padding: 0 var(--padding);
-}
-
-.works li {
-  padding: 1rem 1rem;
-  border-bottom: var(--border-size) solid black;
-  border-spacing: 0 1rem;
-  text-align: left;
-
-  display: grid;
-  grid-template-columns: 4fr 8ch 1fr 1fr 2fr 12ch;
-  /* grid-gap: 1rem; */
-}
-
-.works li:empty {
-  border-bottom: none;
-}
-
-.works li:hover {
-  color: white;
-  cursor: pointer;
-  background-color: blue;
-}
-
-.works li:hover a {
-  color: white;
-}
-
-.works li a:hover {
-  text-decoration: underline;
-}
-
-.works li:nth-of-type(2n + 2) {
-  /* background-color: rgb(211, 204, 250); */
-}
-
-.works li:first-child {
-  /* margin-top: 2rem; */
-}
-
-.works .image {
-  max-width: 100px;
-  display: none;
-}
-
-.works .year {
-  vertical-align: top;
-}
-
-.works .title {
-  vertical-align: top;
-}
-
-.works .warnickNumber {
-  vertical-align: top;
-}
-
-.works .dimentions {
-  vertical-align: top;
-}
-
-.works .materials {
-  vertical-align: top;
-}
-
-.works .type {
-  vertical-align: top;
-}
-
-.works .work-sorters {
-  position: -webkit-sticky;
-  position: sticky;
-  top: calc(var(--border-size) + 2rem + 1.1rem);
-  background-color: white;
-  line-height: 1.1rem;
-  display: grid;
-  border-bottom: var(--border-size) solid black;
-  grid-template-columns: 4fr 8ch 1fr 1fr 2fr 12ch;
-  /* grid-gap: 1rem; */
-
-  margin: 0 var(--padding);
-}
-
-.sort {
-  /* padding: 10px; */
-  text-align: left;
-  cursor: pointer;
-  display: inline-block;
-  text-decoration: none;
-  padding: 1rem 1rem;
-}
-.sort:hover {
-  text-decoration: underline;
-  background-color: blue;
-  color: white;
-}
-.sort:focus {
-  outline: none;
-}
-.sort:after {
-  display: inline-block;
-  width: 0;
-  height: 0;
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  content: "";
-  position: relative;
-  top: -10px;
-  right: -5px;
-}
-.sort.asc:after {
-  width: 0;
-  height: 0;
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-top: 5px solid black;
-  content: "";
-  position: relative;
-  top: 4px;
-  right: -5px;
-}
-.sort.desc:after {
-  width: 0;
-  height: 0;
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-bottom: 5px solid black;
-  content: "";
-  position: relative;
-  top: -4px;
-  right: -5px;
-}

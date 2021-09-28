@@ -1,0 +1,9 @@
+/* footer */
+
+.footer {
+    width: calc(100vw - (var(--padding) * 2));
+    margin: auto;
+}
+  
+.footer.fixed {
+}

@@ -1,0 +1,66 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+
+<div class="work">
+    <div class="date">
+        <div class="label">Year:</div>
+        {{ year }}
+    </div>
+    <div class="title">
+        <div class="label">Title:</div>
+        {{ title | upper }}
+    </div>
+    <div class="archive_number">
+        <div class="label">Warnick Number:</div>
+        00.00.00.xx
+    </div>
+    <div class="hero_image">
+        <!-- <img src="https://picsum.photos/1920/1080" alt="FPO - 16:9"> -->
+        <img src="{{ featured_image | url }}" />
+    </div>
+    <div class="dimensions">
+        <div class="label">Dimensions:</div>
+        72" x 96" x 4"
+    </div>
+    <div class="images">
+        <div class="label">Images:</div>
+        {% for image in support_images %}
+            <img src="{{ image | url }}"> 
+        {% endfor %} 
+    </div>
+    <div class="discription">
+        <div class="label">Discription:</div>
+        {{ description.long }}
+    </div>
+    <div class="materials">
+        <div class="label">Materials:</div>
+        {{ materials }}
+        {% for tag in tags %}
+            {%- if tag != "posts" -%}
+                {% set tagUrl %}/work/{{ tag }}/{% endset %}
+                <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+            {%- endif -%}
+        {% endfor %}
+    </div>
+    <div class="links">
+        <div class="label">Links:</div>
+        <ul>
+            <li>
+            <a href="http://google.com">google</a>
+            </li>
+            <li>
+            <a href="http://github.com">github</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+
+
+/* Table Page */
+
+.works {
+    /* border: none; */
+    width: 100%;
+    min-height: calc(100vh - 6rem);
+    /* padding: 3rem; */
+  
+    margin-top: 4rem;
+    /* font-size: 1.3rem; */
+    /* font-weight: bold; */
+  }
+  
+  .works {
+    font-weight: normal;
+  }
+  
+  .works .work-sorters {
+    position: -webkit-sticky;
+    position: sticky;
+    top: calc(var(--border-size) + var(--gap) + 1.1rem);
+    background-color: var(--background);
+    line-height: 1.1rem;
+    display: grid;
+    border-bottom: var(--border-size) solid var(--main-color);
+    grid-template-columns: 4fr 6ch 1fr 1fr 2fr 12ch;
+    grid-gap: 1rem;
+    padding: 1rem 1rem;
+    margin: 0 var(--padding);
+  }
+  
+  .works .list {
+    margin: 0;
+    padding: 0 var(--padding);
+    list-style: none;
+  }
+  
+  .works li a {
+    padding: 1rem 1rem;
+    border-bottom: var(--border-size) solid var(--main-color);
+    border-spacing: 0 1rem;
+    text-align: left;
+  
+    display: grid;
+    grid-template-columns: 4fr 6ch 1fr 1fr 2fr 12ch;
+    grid-gap: 1rem;
+  }
+  
+  .works .list a {
+    color: var(--main-color);
+  }
+  
+  .works .list li:hover a {
+    color: var(--background);
+    text-decoration: none;
+  }
+  
+  .works li:empty {
+    border-bottom: none;
+  }
+  
+  .works li:hover {
+    cursor: pointer;
+    background-color: blue;
+  }
+  
+  /* .works li:hover a {
+    border-bottom: var(--border-size) solid white;
+  } */
+  
+  .works li:nth-of-type(2n + 2) {
+    /* background-color: rgb(211, 204, 250); */
+  }
+  
+  .works li:first-child {
+    margin-top: var(--gap);
+  }
+  
+  .works .image {
+    max-width: 300px;
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+  }
+  
+  .works li:hover .image {
+    display: block !important;
+  }
+  
+  .works .year {
+    /* background-color: red; */
+    vertical-align: top;
+  }
+  
+  .works .title {
+    /* background-color: red; */
+    vertical-align: top;
+  }
+  
+  .works .warnickNumber {
+    /* background-color: red; */
+    vertical-align: top;
+  }
+  
+  .works .dimentions {
+    /* background-color: red; */
+    vertical-align: top;
+  }
+  
+  .works .materials {
+    /* background-color: red; */
+    vertical-align: top;
+  }
+  
+  .works .type {
+    /* background-color: red; */
+    vertical-align: top;
+  }
+  
+  .sort {
+    /* padding: 10px; */
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+  }
+  .sort:hover {
+    text-decoration: underline;
+  }
+  .sort:focus {
+    outline: none;
+  }
+  .sort:after {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    content: "";
+    position: relative;
+    top: -10px;
+    right: -5px;
+  }
+  .sort.asc:after {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid var(--main-color);
+    content: "";
+    position: relative;
+    top: 4px;
+    right: -5px;
+  }
+  .sort.desc:after {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid var(--main-color);
+    content: "";
+    position: relative;
+    top: -4px;
+    right: -5px;
+  }

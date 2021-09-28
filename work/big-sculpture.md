@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/work.njk
 warnickNumber: 00.00.00.xx
 tags:
   - work
@@ -8,12 +8,18 @@ tags:
 title: Where Does Power Lie?
 type: Print
 year: "2019"
+dimensions: 72" x 96" x 4"
 featured_image: "/img/61_5-warnick-greece-show.jpg"
 materials: Altered Postcard
+edition: false
 description:
   short: A vintage postcard altered with custom stamp.
   long: A vintage postcard altered with custom stamp made my a greek craftsman in athens.
 dimensions: Dimensions Variable
+available: true
+price:
+
+visibility: true
 links:
   - [
       "title",
@@ -29,3 +35,19 @@ support_images:
 eleventyNavigation:
   key: Where Does Power Lie?
 ---
+
+
+<!-- IMAGE -->
+
+<!-- Materials -->
+<!-- Type -->
+<!-- Color -->
+<!-- Collaborators -->
+<!-- Location -->
+<!--  -->
+<!-- Collection -->
+
+
+<!-- Exhibition title -->
+<!-- Venue  -->
+<!-- Period -->
