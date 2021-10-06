@@ -5,7 +5,9 @@ tags:
 title: Where Does Power Lie?
 subtitle: 
 type: Print
-author: Willem de Rooij
+author: 
+  name: Willem de Rooij
+  link: http://johnsplace.com
 date: 2021-06-24
 
 ---

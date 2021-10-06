@@ -83,6 +83,18 @@ module.exports = function(eleventyConfig) {
         return [...tagSet];
     });
 
+    // eleventyConfig.addCollection("art", function(collectionApi) {
+    //     return collectionApi.getAllSorted().filter(function(item) {
+    //       // Only return content that was originally a markdown file
+    //       let extension = item.inputPath.split('.').pop();
+    //       return extension === "md";
+    //     });
+    //   });
+
+    eleventyConfig.addCollection("news", function(collectionApi) {
+        return collectionApi.getFilteredByGlob("news/*");
+    });
+
 
     return {
         passthroughFileCopy: true,

@@ -1,7 +1,15 @@
 ---
 layout: layouts/base.njk
 ---
+<div class="news">
+    <div class="news_intro">
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit magni accusamus at, eos odio reprehenderit
+        necessitatibus saepe quo eius excepturi minus! Aspernatur omnis accusantium ad nam similique temporibus
+        reprehenderit tenetur!
+    </p>
+    </div>
 
-
-{% set newslist = collections.news %}
-{% include "partials/newslist.njk" %}
+    {% set newslist = collections.news %}
+    {% include "partials/newslist.njk" %} 
+</div>

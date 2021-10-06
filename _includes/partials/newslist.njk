@@ -1,64 +1,11 @@
-<div class="news">
-      <div class="news_intro">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit magni accusamus at, eos odio reprehenderit
-          necessitatibus saepe quo eius excepturi minus! Aspernatur omnis accusantium ad nam similique temporibus
-          reprehenderit tenetur!
-        </p>
-      </div>
-
-      <div class="news__item">
-        <h1 class="news__title">
-          <a href="#">Flux and Reflux: A Selection of Moving Images – Ansuya Blom</a>
-        </h1>
-        <h2 class="news__subtitle"></h2>
-        <a href="http://johnsplace.com" rel="author" class="news__author">Willem de Rooij</a>
-        <time datetime="2021-06-24" class="news__date">2021-06-24</time>
-        <h3 class="news__tags">Event, Announcement</h3>
-      </div>
-      <div class="news__item">
-        <h1 class="news__title">
-          <a href="#">Flux and Reflux: A Selection of Moving Images – Xavier Robles de Medina</a>
-        </h1>
-        <h2 class="news__subtitle"></h2>
-        <a href="http://johnsplace.com" rel="author" class="news__author">Willem de Rooij</a>
-        <time datetime="2021-06-24" class="news__date">2021-06-10</time>
-        <h3 class="news__tags">Event, Announcement</h3>
-      </div>
-      <div class="news__item">
-        <h1 class="news__title">
-          <a href="#">Hajra Waheed on HUM and Abolitionist Modes of Listening</a>
-        </h1>
-        <h2 class="news__subtitle"></h2>
-        <a href="http://johnsplace.com" rel="author" class="news__author">Reece Cox</a>
-        <time datetime="2021-06-24" class="news__date">2021-01-12</time>
-        <h3 class="news__tags">Event, Announcement</h3>
-      </div>
-      <div class="news__item">
-        <h1 class="news__title">
-          <a href="#">In the Mood for Bengawan Solo</a>
-        </h1>
-        <h2 class="news__subtitle"></h2>
-        <a href="http://johnsplace.com" rel="author" class="news__author">Paula Kommoss, Arin Rungjang</a>
-        <time datetime="2021-06-24" class="news__date">2021-01-12</time>
-        <h3 class="news__tags">Event, Announcement</h3>
-      </div>
-      <div class="news__item">
-        <h1 class="news__title">
-          <a href="#">In Obscurity</a>
-        </h1>
-        <h2 class="news__subtitle"></h2>
-        <a href="http://johnsplace.com" rel="author" class="news__author">Carina Bukuts</a>
-        <time datetime="2021-06-24" class="news__date">2021-01-12</time>
-        <h3 class="news__tags">Event, Announcement</h3>
-      </div>
-      <div class="news__item">
-        <h1 class="news__title">
-          <a href="#">Flux and Reflux: A Selection of Moving Images – Xavier Robles de Medina</a>
-        </h1>
-        <h2 class="news__subtitle"></h2>
-        <a href="http://johnsplace.com" rel="author" class="news__author">Willem de Rooij</a>
-        <time datetime="2021-06-24" class="news__date">2021-06-10</time>
-        <h3 class="news__tags">Event, Announcement</h3>
-      </div>
-    </div>
+{% for post in newslist %}
+  <div class="news__item">
+    <h1 class="news__title">
+      <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    </h1>
+    <h2 class="news__subtitle">{{ post.data.subtitle }}</h2>
+    <a href="{{ post.data.author.link | url }}" rel="author" class="news__author">{{ post.data.author.name }}</a>
+    <time datetime="{{ post.data.date }}" class="news__date">{{ post.data.date.toISOString().substring(0, 10) }}</time>
+    <h3 class="news__tags">{{ post.data.type }}</h3>
+  </div>
+{% endfor %}
