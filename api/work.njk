@@ -1,0 +1,14 @@
+---
+eleventyExcludeFromCollections: true
+pagination:
+  data: collections.work
+  size: 1
+permalink: api/work/{{ pagination.pageNumber }}.json
+---
+
+
+
+{
+  "title": "{{ data.title }}"
+}
+ 

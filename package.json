@@ -16,8 +16,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-img": "^0.10.0",
+    "@11ty/eleventy": "0.12.1",
+    "@11ty/eleventy-img": "0.10.0",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "npm-run-all": "^4.1.5",
@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/ajwarnick/ajwarnick.github.io/issues"
   },
-  "homepage": "https://github.com/ajwarnick/ajwarnick.github.io#readme"
+  "homepage": "https://github.com/ajwarnick/ajwarnick.github.io#readme",
+  "dependencies": {
+    "javascript-stringify": "^2.1.0"
+  }
 }

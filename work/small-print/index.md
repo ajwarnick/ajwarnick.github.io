@@ -1,6 +1,6 @@
 ---
 layout: layouts/work.njk
-warnickNumber: 00.00.00.xx
+warnickNumber: "00.00.00.xx"
 tags:
   - work
   - "2021"
@@ -10,10 +10,12 @@ type: Photograph
 year: "2021"
 
 featured_image: "/img/illu237.jpg"
+
 materials: 
   - "Archival Pigment Print"
 edition: false
-color: #FF0000
+
+color: '#FF0000'
 description:
   short: A vintage postcard altered with custom stamp.
   long: A vintage postcard altered with custom stamp made my a greek craftsman in athens.
@@ -25,10 +27,10 @@ available: true
 price: "$4,000"
 
 collaborators:
-  - [
+  - {
     "Danni O'Brien",
     "http://www.danielleobrienart.com/"
-  ]
+  }
 
 
 visibility: true

@@ -1,4 +1,22 @@
 const Image = require("@11ty/eleventy-img");
+const stringify = require('javascript-stringify').stringify;
+
+// async function imageShortcode(src, alt, sizes) {
+//   let metadata = await Image(src, {
+//     widths: [300, 600],
+//     formats: ["avif", "jpeg"]
+//   });
+
+//   let imageAttributes = {
+//     alt,
+//     sizes,
+//     loading: "lazy",
+//     decoding: "async",
+//   };
+
+//   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+//   return Image.generateHTML(metadata, imageAttributes);
+// }
 
 
 module.exports = function(eleventyConfig) {
@@ -6,51 +24,62 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('js');
     eleventyConfig.addPassthroughCopy('.nojekyll');
 
+    eleventyConfig.addFilter('console', function(value) {
+      // const output = stringify(value, null, "\t", { maxDepth: 3 });
+      const output = JSON.stringify(value);
+      console.log(output);
+      return output;
+    });
+
+    // eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+    // eleventyConfig.addLiquidShortcode("image", imageShortcode);
+    // eleventyConfig.addJavaScriptFunction("image", imageShortcode);
+
     // eleventyConfig.ignores.add("README.md");
     // eleventyConfig.ignores.delete("README.md");
 
-    eleventyConfig.addWatchTarget("./_src/sass/");
+    // eleventyConfig.addWatchTarget("./_src/sass/");
 
-    eleventyConfig.addNunjucksAsyncShortcode("ResponsiveImage", async (src, alt) => {
-        if (!alt) {
-          throw new Error(`Missing \`alt\` on myImage from: ${src}`);
-        }
+    // eleventyConfig.addNunjucksAsyncShortcode("ResponsiveImage", async (src, alt) => {
+    //     if (!alt) {
+    //       throw new Error(`Missing \`alt\` on myImage from: ${src}`);
+    //     }
     
-        // let stats = await Image(src, {
-        //   widths: [25, 320, 640, 960, 1200, 1800, 2400],
-        //   formats: ["jpeg", "webp"],
-        //   urlPath: "/img/",
-        //   outputDir: "./_site/img/responsive/",
-        // });
+    //     // let stats = await Image(src, {
+    //     //   widths: [25, 320, 640, 960, 1200, 1800, 2400],
+    //     //   formats: ["jpeg", "webp"],
+    //     //   urlPath: "/img/",
+    //     //   outputDir: "./_site/img/responsive/",
+    //     // });
 
-        return "testss"
+    //     return "testss"
     
-        // let lowestSrc = stats["jpeg"][0];
+    //     // let lowestSrc = stats["jpeg"][0];
     
-        // const srcset = Object.keys(stats).reduce(
-        //   (acc, format) => ({
-        //     ...acc,
-        //     [format]: stats[format].reduce(
-        //       (_acc, curr) => `${_acc} ${curr.srcset} ,`,
-        //       ""
-        //     ),
-        //   }),
-        //   {}
-        // );
+    //     // const srcset = Object.keys(stats).reduce(
+    //     //   (acc, format) => ({
+    //     //     ...acc,
+    //     //     [format]: stats[format].reduce(
+    //     //       (_acc, curr) => `${_acc} ${curr.srcset} ,`,
+    //     //       ""
+    //     //     ),
+    //     //   }),
+    //     //   {}
+    //     // );
     
-        // const source = `<source type="image/webp" srcset="${srcset["webp"]}" >`;
+    //     // const source = `<source type="image/webp" srcset="${srcset["webp"]}" >`;
     
-        // const img = `<img
-        //   loading="lazy"
-        //   alt="${alt}"
-        //   src="${lowestSrc.url}"
-        //   sizes='(min-width: 1024px) 1024px, 100vw'
-        //   srcset="${srcset["jpeg"]}"
-        //   width="${lowestSrc.width}"
-        //   height="${lowestSrc.height}">`;
+    //     // const img = `<img
+    //     //   loading="lazy"
+    //     //   alt="${alt}"
+    //     //   src="${lowestSrc.url}"
+    //     //   sizes='(min-width: 1024px) 1024px, 100vw'
+    //     //   srcset="${srcset["jpeg"]}"
+    //     //   width="${lowestSrc.width}"
+    //     //   height="${lowestSrc.height}">`;
     
-        // return `<div class="image-wrapper"><picture> ${source} ${img} </picture></div>`;
-      });
+    //     // return `<div class="image-wrapper"><picture> ${source} ${img} </picture></div>`;
+    //   });
 
 
 

@@ -1,15 +1,15 @@
 ---
 layout: layouts/work.njk
-warnickNumber: 00.00.00.xx
+warnickNumber: "01.00.00.xx"
 tags:
   - work
   - "2019"
   - print
 title: Where Does Power Lie?
 type: Print
-year: "2019"
+year: "2020"
 
-featured_image: "/img/61_5-warnick-greece-show.jpg"
+featured_image: "./img/61_5-warnick-greece-show.jpg"
 materials: 
   - "Altered Postcard"
   - Stamp
@@ -26,10 +26,10 @@ available: true
 price:
 
 collaborators:
-  - [
-    "Danni O'Brien",
-    "http://www.danielleobrienart.com/"
-  ]
+  - {
+    name: "Danni O'Brien",
+    link: "http://www.danielleobrienart.com/"
+  }
 
 
 visibility: true
