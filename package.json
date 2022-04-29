@@ -1,0 +1,47 @@
+{
+  "name": "warnick",
+  "version": "1.0.0",
+  "description": "Web Portfolio for Anthony Warnick",
+  "scripts": {
+    "start": "npm-run-all --parallel watch:sass watch:js serve:eleventy",
+    "build": "npm-run-all build:*",
+    "build:eleventy": "npx @11ty/eleventy",
+    "build:sass": "sass _scss/:_site/css",
+    "build:js": "parcel build _js/*.js --dist-dir _site/js",
+    "watch:sass": "sass --watch _scss/:_site/css",
+    "watch:js": "parcel watch _js/*.js --dist-dir _site/js",
+    "watch:eleventy": "npx @11ty/eleventy --watch",
+    "serve:eleventy": "npx @11ty/eleventy --serve",
+    "start:eleventy": "npx @11ty/eleventy --serve",
+    "debug:eleventy": "DEBUG=* npx @11ty/eleventy",
+    "bench:eleventy": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
+    "forestry:preview": "npm-run-all build:*"
+  },
+  "keywords": [],
+  "author": "Anthony Warnick",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-img": "^2.0.0",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
+    "eleventy-favicon": "^1.1.2",
+    "lodash": "^4.17.21",
+    "npm-run-all": "^4.1.5",
+    "parcel": "^2.4.1",
+    "sass": "^1.42.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajwarnick/ajwarnick.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajwarnick/ajwarnick.github.io/issues"
+  },
+  "homepage": "https://github.com/ajwarnick/ajwarnick.github.io#readme",
+  "dependencies": {
+    "photoswipe": "^5.2.4",
+    "wavesurfer.js": "^6.1.0"
+  }
+}

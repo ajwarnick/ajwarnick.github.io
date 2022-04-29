@@ -1,0 +1,12 @@
+---
+permalink: /type/
+layout: layouts/home.njk
+templateClass: list-view
+---
+
+<h1>Types</h1>
+
+{% for type in collections.workByType %}
+  {% set tagUrl %}/type/{{ type.title }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="tag">{{  type.title  }}</a>
+{% endfor %}

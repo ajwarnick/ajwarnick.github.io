@@ -1,0 +1,46 @@
+<!-- start of partials/header -->
+<header id="masdivead" class="site-header" role="menu">
+  <p class="site-title">
+    {% set homeUrl %}/{% endset %}
+    <a href="{{ homeUrl | url }}" class="tag" rel="home">Anthony Warnick</a>
+  </p>
+  <nav class="main-nav">
+    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+    <div class="filters">
+      <div>
+        <div class="filter_category">Years</div>
+        {% for year in collections.worksByYear %}
+          {% set yearUrl %}/year/{{ year.title }}/{% endset %}
+          <a href="{{ yearUrl | url }}" class="year">{{ year.title }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </div>
+      <div>
+        <div class="filter_category">Types</div>
+
+        {% for type in collections.workByType %}
+          {% set tagUrl %}/type/{{ type.title }}/{% endset %}
+          <a href="{{ tagUrl | url }}" class="tag">{{  type.title | title  }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </div>
+      <div>
+        <div class="filter_category">Materials</div>
+
+        {% for material in collections.workByMaterials %}
+            {% set tagUrl %}/materials/{{ material.slug }}/{% endset %}
+            <a href="{{ tagUrl | url }}" class="tag">{{ material.title | title }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </nav>
+  <div id="hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+
+  
+
+</header>
+<!-- end of partials/header -->
+
+    

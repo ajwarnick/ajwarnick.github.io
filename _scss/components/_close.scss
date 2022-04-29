@@ -1,0 +1,49 @@
+/* Close Element */
+
+.warning_message {
+    background-color: rgb(252, 207, 207);
+    border: 5px solid red;
+    position: fixed;
+    height: auto;
+    width: auto;
+    top: 7vh;
+    bottom: var(--padding);
+    left: var(--padding);
+    right: var(--padding);
+  }
+  
+  /* close icon */
+  .close {
+    position: absolute;
+    right: 45px;
+    top: 25px;
+    cursor: pointer;
+  }
+  
+  .close:after,
+  .close:before {
+    content: "";
+    width: 40px;
+    height: 5px;
+    background-color: rgb(248, 130, 130);
+    display: block;
+    -webkit-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+  }
+  
+  .close:after {
+    transform: rotate(-45deg);
+    position: absolute;
+  }
+  
+  .close:before {
+    transform: rotate(45deg);
+    position: absolute;
+  }
+  
+  .close:hover:after,
+  .close:hover:before {
+    background-color: red;
+  }
+  
