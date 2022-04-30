@@ -1,0 +1,109 @@
+@import '../../node_modules/photoswipe/dist/photoswipe';
+
+.pswp {
+    --pswp-bg: var(--background);
+    --pswp-placeholder-bg: var(--secondary-color);
+    --pswp-root-z-index: 100000;
+    --pswp-preloader-color: rgba(79, 79, 79, 0.4);
+    --pswp-preloader-color-secondary: rgba(255, 255, 255, 0.9);
+    --pswp-icon-color: var(--main-color);
+    --pswp-icon-color-secondary: var(--main-color);
+    --pswp-icon-stroke-color: var(--main-color);
+    --pswp-icon-stroke-width: var(--border-size);
+    --pswp-error-text-color: var(--pswp-icon-color);
+    --pswp-icon-size: 20px;
+}
+
+.pswp__icn{
+    // stroke: var(--pswp-icon-stroke-color);
+    position: unset;
+    top: unset;
+    left: unset;
+    width: unset;
+    height: unset;
+
+    fill:none;
+    stroke:var(--pswp-icon-stroke-color);
+    stroke-width:var(--pswp-icon-stroke-width);
+}
+
+.pswp__button--arrow .pswp__icn{
+    top: unset;
+    margin-top: unset;
+    width: unset;
+    height: unset;
+    background: none;
+    border-radius: unset;
+}
+
+.pswp__button--arrow--next .pswp__icn{
+    left: unset;
+    right: unset;
+    transform: unset;
+}
+
+.pswp__button{
+    height: var(--pswp-icon-size);
+    width: var(--pswp-icon-size);
+    
+}
+
+.pswp__button--arrow--next{
+    margin-right: 20px;
+}
+
+.pswp__button--arrow--prev{
+    margin-left: 20px;
+}
+
+.pswp__button--zoom{
+    margin-top: 15px;
+}
+
+.pswp__button--close{
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+.pswp__counter{
+    text-shadow: unset;
+    opacity: 1;
+    line-height: var(--pswp-icon-size);
+}
+
+.pswp__google-map-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+.pswp__google-map-container iframe {
+    width: 100%;
+    height: 100%;
+    max-width: 800px;
+    max-height: 600px;
+    pointer-events: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.pswp__bunny-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+.pswp__bunny-container iframe {
+    border: none;
+    width: 100%;
+    // height: 100%;
+    max-width: 80vw;
+    aspect-ratio: 16 / 9;
+    pointer-events: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,75 @@
+---
+permalink: api/works.json
+eleventyExcludeFromCollections: true
+---
+
+{
+  "posts": [
+    {% for item in collections.work %}
+      {
+        "title": "{{ item.data.title }}",
+        "url": "{{ item.data.url }}",
+        "warnickNumber": "{{ item.data.warnickNumber }}",
+        "type": "{{ item.data.type }}",
+        "year": "{{ item.data.year }}",
+        "featured_image": "{{ item.data.featured_image }}",
+        "edition": {{ item.data.edition }},
+        "dimensions_test": "{{ item.data.dimensions_test }}",
+        "dimensions": "{{ item.data.dimensions }}",
+        "description" : {
+            "short": "{{ item.data.description.short }}",
+            "long": "{{ item.data.description.long }}"
+        },
+        "tags": [ 
+            {% for tag in item.data.tags %}
+                "{{tag}}"
+            {% if not loop.last %},{% endif %}
+            {% endfor %}
+        ],
+        "support_images" : [
+            {% for image in item.data.support_images %}
+                "{{image}}"
+            {% if not loop.last %},{% endif %}
+            {% endfor %}
+        ],
+        "collection":[
+            {% for collection in item.data.collection %}
+                "{{collection}}"
+            {% if not loop.last %},{% endif %}
+            {% endfor %}
+        ],
+        "materials":[
+            {% for material in item.data.materials %}
+                "{{material}}"
+            {% if not loop.last %},{% endif %}
+            {% endfor %}
+        ],
+        "available": {{ item.data.available }},
+        "price": "{{ item.data.price }}",
+        "visibility": {{ item.data.visibility }},
+        "location": "{{ item.data.location }}",
+        "exhibitions": [
+            {% for exhibition in item.data.exhibitions %}
+               {
+                    "title": "{{exhibition.title}}",
+                    "link": "{{exhibition.link}}",
+                    "dates": "{{exhibition.dates}}",
+                    "venue": "{{exhibition.venue}}"
+               }
+            {% if not loop.last %},{% endif %}
+            {% endfor %}
+        ],
+        "collaborators":[
+            {% for collaborator in item.data.collaborators %}
+               {
+                    "name": "{{ collaborator.name }}",
+                    "link": "{{ collaborator.link }}"
+               }
+            {% if not loop.last %},{% endif %}
+            {% endfor %}
+        ],
+        "links":""
+      }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}

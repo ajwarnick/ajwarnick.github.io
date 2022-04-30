@@ -1,0 +1,31 @@
+
+:root {
+  --background: white;
+  --main-color: black;
+  --gray: #a4a4a4;
+  --secondary-color: blue;
+  --border-size: 1px;
+  --padding: 3rem;
+  --gap: 2rem;
+
+  /* Start with axis defaults. Exclude weight, which is better controlled via the usual font-weight CSS property */
+  --MONO: 0.7; /* Monospace    */
+  --CASL: 0; /* Casual       */
+  --slnt: 0; /* Upright      */
+  --CRSV: 0.5; /* Auto Cursive */
+  --weight: 600; /* Weight      */
+}
+
+@media only screen and (max-width: 850px) {
+  :root {
+    --gap: 1rem;
+    --padding: 1rem;
+  }
+}
+
+.darkmode {
+  --background: black;
+  --main-color: white;
+  --secondary-color: rgb(255, 255, 255);
+}
+  

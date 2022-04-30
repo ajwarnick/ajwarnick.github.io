@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+
+
+<div class="news__post">
+  <div class="news__post_intro">
+    <div>
+      <h1 class="news__title">
+        <a href="#">{{ title }}</a>
+      </h1>
+      <h2 class="news__subtitle">{{ subtitle }}</h2>
+      <a href="{{ author.link }}" rel="author" class="news__author">{{ author.name }}</a>
+      <time datetime="{{ date }}" class="news__date">{{ date.toISOString().replace('-', '.').split('T')[0].replace('-', '.') }}</time>
+      <h3 class="news__tags">{{ post.data.type }}</h3>
+    </div>
+  </div>
+
+  <div class="news__post_item">
+    {{ content | safe }}
+  </div>
+</div>

@@ -1,0 +1,34 @@
+@use 'utilities/variables';
+@use 'utilities/functions';
+@use 'utilities/mixins';
+
+
+@use 'base/reset';
+@use 'base/typography';
+@use 'base/base';
+
+@use 'layouts/home';
+@use 'layouts/work';
+@use 'layouts/post';
+@use 'layouts/news';
+
+
+@use 'components/header';
+@use 'components/footer';
+@use 'components/close';
+// @import 'components/forms';
+// @import 'components/buttons';
+// @import 'components/carousel';
+// @import 'components/slider';
+@use 'components/audioplayer';
+@use 'components/lightbox';
+
+
+@use 'pages/postlist';
+@use 'pages/info';
+@use 'pages/cv';
+
+
+
+
+

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    {% include "partials/meta.njk" %}
+
+    <title>Anthony Warnick {% if title.length %} | {{ title }} {% endif %}</title>
+
+    {% include "partials/font.njk" %}    
+    
+    <link rel="stylesheet" href="{{ '/css/style.css' | url}}">
+    <script src="{{ '/js/darkmode.js' | url}}"></script>
+</head>
+<body class="{% if templateClass %} {{ templateClass }} {% endif %}">
+    {% include "partials/header.njk" %}
+
+    <div class="content">
+        {{ content | safe }}
+    </div>
+    
+    {% include "partials/footer.njk" %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+    <script src="{{ '/js/script.js' | url}}" defer></script>
+</body>
+</html>
