@@ -4,18 +4,27 @@ on:
     tags:        
       - '**'
 
-
 jobs:
   build_deploy:
     runs-on: ubuntu-18.04
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Set Node
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v2
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
         with:
-          node-version: 14
-      - name: Build
-        uses: TartanLlama/actions-eleventy@v1.1
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install dependencies & build
+        run: |
+          npm ci
+          npm run build      
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v1.1.0
         env:
