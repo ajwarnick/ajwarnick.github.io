@@ -1,0 +1,16 @@
+---
+permalink: /manifest.json
+---
+
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Anthony Warnick",
+  "short_name": "Warnick",
+  "start_url": ".",
+  "scope": ".",
+  {# "start_url": "/pwa-examples/a2hs/index.html" #}
+  "display": "fullscreen",
+  "background_color": "#000",
+  "description": "{{ site.description }}",
+  "icons": {% icons "src/_data/fav.svg" %}
+}   

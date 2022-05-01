@@ -1,0 +1,37 @@
+<!-- start of partials/footer -->
+<div class="footer">
+    <div class="triggers">
+      <div class="filter-icon filter-trigger"><div></div><div></div><div></div></div>
+      <div class="search-icon"></div>
+      <div class="trigger-gap"><span class="copy-left">🄯</span>  Anthony Warnick </div>
+      <div class="lightbox-trigger"></div>
+      <div class="grid-trigger"><div></div><div></div><div></div><div></div></div>
+      <div class="mode-toggle" aria-label="toggle dark mode"></div>
+    </div>
+    <div class="filters">
+      <div>
+        <div class="filter_category">Years</div>
+        {% for year in collections.worksByYear %}
+          {% set yearUrl %}/year/{{ year.title }}/{% endset %}
+          <a href="{{ yearUrl | url }}" class="year">{{ year.title }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </div>
+      <div>
+        <div class="filter_category">Types</div>
+
+        {% for type in collections.workByType %}
+          {% set tagUrl %}/type/{{ type.title }}/{% endset %}
+          <a href="{{ tagUrl | url }}" class="tag">{{  type.title | title  }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </div>
+      <div>
+        <div class="filter_category">Materials</div>
+
+        {% for material in collections.workByMaterials %}
+            {% set tagUrl %}/materials/{{ material.slug }}/{% endset %}
+            <a href="{{ tagUrl | url }}" class="tag">{{ material.title | title }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+</div> 
+<!-- end of partials/footer -->

@@ -1,0 +1,21 @@
+<!-- start of partials/header -->
+<header id="masdivead" class="site-header" role="menu">
+  <p class="site-title">
+    {% set homeUrl %}/{% endset %}
+    <a href="{{ homeUrl | url }}" class="tag" rel="home">Anthony Warnick</a>
+  </p>
+  <nav class="main-nav">
+    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+  </nav>
+  <div id="hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+
+  
+
+</header>
+<!-- end of partials/header -->
+
+    

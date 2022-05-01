@@ -1,0 +1,72 @@
+<div class="works " id="work-list" cellspacing="0" cellpadding="0" role="main">
+  <div class="work-sorters">
+    <!-- IMAGE -->
+    <!-- Title -->
+    <!-- Year -->
+    <!-- Warnick Number -->
+    <!-- Dimensions -->
+    <!-- Materials -->
+    <!-- Type -->
+    <!-- Color -->
+    <!-- Collaborators -->
+    <!-- Location -->
+    <!-- Price -->
+    <!-- Edition -->
+    <!-- Collection -->
+
+    <!-- Available -->
+
+    <!-- Exhibition title -->
+    <!-- Venue  -->
+    <!-- Period -->
+    <div class="image"></div>
+    <div class="sort title" data-sort="title">Title</div>
+    <div class="sort year" data-sort="year">Year</div>
+    <div class="sort warnickNumber" data-sort="warnickNumber">Warnick Number</div>
+    <div class="sort dimentions" data-sort="dimentions">Dimensions</div>
+    <div class="sort materials" data-sort="materials">Materials</div>
+    <div class="sort type" data-sort="type">Type</div>
+  </div>
+  <ul class="list">
+    {% for post in postslist %}
+      <li>
+        <a href="{{ post.url | url }}">
+          <div class="image">
+             {# <!-- url: {{  post.url  }} --> #}
+             {# <!-- fileSlug: {{  post.fileSlug  }} --> #}
+             {# <!-- filePathStem: {{  post.filePathStem  }} --> #}
+             {# <!-- inputPath: {{  post.inputPath  }} --> #}
+             {# <!-- inputPath: {{  post.inputPath  }} --> #}
+              {% if post.data.featured_image %}
+
+                {% if './' in post.data.featured_image | string  %}
+                  {% homepageImage post.data.featured_image %}
+                {% else %}
+                  {% set fullURL = post.url + post.data.featured_image | string %}
+                  {% homepageImage fullURL %}
+                {% endif %}
+
+              {% elif post.data.support_images %}
+                {% if './' in post.data.support_images[0] | string  %}
+                  {% homepageImage post.data.support_images[0] %}
+                {% else %}
+                  {% set fullURL =  post.url + post.support_images[0] | string %}
+                  {% homepageImage fullURL %}
+                {% endif %}
+              {% endif %}
+          </div>
+          <div class="title">{{ post.data.title }}</div>
+          <div class="year">{{ post.data.year }}</div>
+          <div class="warnickNumber" data-id="1">{{ post.data.warnickNumber }}</div>
+          <div class="dimentions" data-dimention="{{ post.data.dimensions_sort }}">{{ post.data.dimensions }}</div>
+          <div class="materials">
+            {% for material in post.data.materials %}
+              {{material}}{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          </div>
+          <div class="type">{{ post.data.type | title }}</div>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

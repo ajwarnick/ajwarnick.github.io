@@ -1,7 +1,5 @@
-// add serset to lightbox for images on work page
 // add halftone effect to images ????
 // style mobile menu
-// move menu on mobile
 // finish print css cv
 // make print css
 
@@ -83,10 +81,11 @@ async function imageURL(src){
 }
 
 async function featuredImage(src, alt){
-    let result = src.replace("./", "");
+    let result = src.replace("./", "src/");
 
     if(result.charAt(0) === "/"){
         result = result.substring(1, result.length);
+        result = "src/" + result;
     }
 
     let metadata = await Image(result, {
@@ -119,6 +118,7 @@ async function supportImage(src){
 
     if(result.charAt(0) === "/"){
         result = result.substring(1, result.length);
+        result = "src/" + result;
     }
 
     let metadata = await Image(result, {
@@ -154,6 +154,7 @@ async function homepageImage(src){
 
     if(result.charAt(0) === "/"){
         result = result.substring(1, result.length);
+        result = "src/" + result;
     }
 
     let metadata = await Image(result, {
@@ -178,8 +179,35 @@ async function homepageImage(src){
     </picture>`;
 }
 
+async function iconsImages(link){
+
+        let metadata = await Image(link, {
+            widths: [48, 72, 96, 144, 168, 192],
+            formats: ["png"]
+        });
+
+        return `[${Object.values(metadata.png).map((icn, i) => {
+                return `{ "src": "${icn.url}", "sizes": "${icn.height}x${icn.width}", "type": "${icn.sourceType}"} ${metadata.png.length  === i + 1 ? "" : ","}`}).join("\n")} ]`;
+}
+
+async function iconsApple(link){
+
+    let metadata = await Image(link, {
+        widths: [180],
+        formats: ["png"]
+    });
+
+    return `${Object.values(metadata.png).map((icn, i) => {
+         return `----`;
+    })}`;
+}
+
+
 module.exports = function(eleventyConfig) {
+    
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+    
 
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
     eleventyConfig.addLiquidShortcode("image", imageShortcode);
@@ -208,7 +236,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addShortcode("audio", (link) => {
         let filename = link.substring(link.lastIndexOf('/')+1);
         let newPath = 'audio/' + filename;
-        let l = link.toString();
+        let l = "src/" + link.toString();
 
         if (!fs.existsSync(path.join(__dirname, "_site/audio"))){
             fs.mkdirSync(path.join(__dirname, "_site/audio"), true);
@@ -222,6 +250,30 @@ module.exports = function(eleventyConfig) {
 
         return "./" + newPath;
     });
+
+    eleventyConfig.addShortcode("favicon", (link) => {
+
+        let filename = link.substring(link.lastIndexOf('/')+1);
+        let newPath = filename;
+
+        try {
+            if (fs.existsSync( __dirname + '/_site/' + newPath )) {
+            }else{
+                fs.copyFile( path.join(__dirname, link), path.join(__dirname, '_site/' + newPath), (err) => {
+                    if (err) throw err;
+                    console.log(`[11ty] Copying _site/${newPath} from ./${link}`);
+                });
+            }
+        } catch(err) {
+            console.error(err)
+        }
+
+        return `<link rel=”icon” type=“image/x-icon” href="/${newPath}" sizes="any" />`;
+    });
+
+    eleventyConfig.addNunjucksAsyncShortcode("icons", iconsImages);
+    eleventyConfig.addLiquidShortcode("icons", iconsImages);
+    eleventyConfig.addJavaScriptFunction("icons", iconsImages);
 
     // eleventyConfig.addPassthroughCopy({ 'work/second-work/audio.mp3': 'audio/audio.mp3' });
 
@@ -295,6 +347,7 @@ module.exports = function(eleventyConfig) {
     });
 
     eleventyConfig.addCollection("workByType", function (collection) {
+        
         const itemsPerPage = 5;
         let blogpostsByCategories = []; // The Big Fish
         let allBlogposts = collection.getFilteredByTags("work");
@@ -400,8 +453,14 @@ module.exports = function(eleventyConfig) {
     // eleventyConfig.addPassthroughCopy('js');
     // eleventyConfig.addPassthroughCopy('audio');
     eleventyConfig.addPassthroughCopy('.nojekyll');
+    eleventyConfig.addPassthroughCopy('_js/service-worker.js', '/');
+    // favicon.ico
 
     return {
+        dir: {
+            output: "_site",
+            input: "src"
+        },
         passthroughFileCopy: true,
     };
 };
