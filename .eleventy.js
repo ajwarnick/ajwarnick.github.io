@@ -58,7 +58,8 @@ async function makeSlug(s){
 async function imageShortcode(src, alt, sizes) {
     let metadata = await Image(src, {
       widths: [600, 1900],
-      formats: ["avif", "webp", "jpeg"]
+      formats: ["avif", "webp", "jpeg"],
+      outputDir: "_site/img",
     });
   
     let imageAttributes = {
@@ -75,7 +76,8 @@ async function imageShortcode(src, alt, sizes) {
 async function imageURL(src){
     let stats = await Image(src, {
         widths: [600],
-        formats: ["jpeg"]
+        formats: ["jpeg"],
+        outputDir: "_site/img",
     });
     return stats.jpeg[0].outputPath;
 }
@@ -90,7 +92,8 @@ async function featuredImage(src, alt){
 
     let metadata = await Image(result, {
         widths: [600, 1900],
-        formats: ["avif", "webp", "jpeg"]
+        formats: ["avif", "webp", "jpeg"],
+        outputDir: "_site/img",
       });
 
       return `<a href="${metadata.jpeg[1].url}" 
@@ -123,7 +126,8 @@ async function supportImage(src){
 
     let metadata = await Image(result, {
         widths: [600, 1900],
-        formats: ["avif", "webp", "jpeg"]
+        formats: ["avif", "webp", "jpeg"],
+        outputDir: "_site/img",
     });
 
     // return JSON.stringify(metadata);
@@ -159,7 +163,8 @@ async function homepageImage(src){
 
     let metadata = await Image(result, {
         widths: [200, 1900],
-        formats: ["avif", "webp", "jpeg"]
+        formats: ["avif", "webp", "jpeg"],
+        outputDir: "_site/img",
     });
     
     let lowsrc = metadata.jpeg[0];
@@ -183,7 +188,8 @@ async function iconsImages(link){
 
         let metadata = await Image(link, {
             widths: [48, 72, 96, 144, 168, 192],
-            formats: ["png"]
+            formats: ["png"],
+            outputDir: "_site/img",
         });
 
         return `[${Object.values(metadata.png).map((icn, i) => {
@@ -194,7 +200,8 @@ async function iconsApple(link){
 
     let metadata = await Image(link, {
         widths: [180],
-        formats: ["png"]
+        formats: ["png"],
+        outputDir: "_site/img",
     });
 
     return `${Object.values(metadata.png).map((icn, i) => {
