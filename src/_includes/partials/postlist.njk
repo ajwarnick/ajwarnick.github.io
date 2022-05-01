@@ -38,7 +38,7 @@
              {# <!-- filePathStem: {{  post.filePathStem  }} --> #}
              {# <!-- inputPath: {{  post.inputPath  }} --> #}
              {# <!-- inputPath: {{  post.inputPath  }} --> #}
-              {# {% if post.data.featured_image %}
+              {% if post.data.featured_image %}
 
                 {% if './' in post.data.featured_image | string  %}
                   {% homepageImage post.data.featured_image %}
@@ -54,7 +54,7 @@
                   {% set fullURL =  post.url + post.support_images[0] | string %}
                   {% homepageImage fullURL %}
                 {% endif %}
-              {% endif %} #}
+              {% endif %}
           </div>
           <div class="title">{{ post.data.title }}</div>
           <div class="year">{{ post.data.year }}</div>

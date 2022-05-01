@@ -9,7 +9,7 @@ tags:
 
 type: sculpture
 year: "2021"
-featured_image: "News_Is_Breaking-3.tif"
+featured_image: "News_Is_Breaking-3.jpeg"
 featured_audio: ""
 featured_video: ""
 
@@ -49,11 +49,11 @@ links:
     ]
 
 support_images: 
-  - "./src/work/newsisbreaking/News_Is_Breaking-1.tif"
-  - "./src/work/newsisbreaking/News_Is_Breaking-2.tif"
-  - "./src/work/newsisbreaking/News_Is_Breaking-4.tif"
-  - "./src/work/newsisbreaking/News_Is_Breaking-5.tif"
-  - "./src/work/newsisbreaking/News_Is_Breaking-6.tif"
+  - "./src/work/newsisbreaking/News_Is_Breaking-1.jpeg"
+  - "./src/work/newsisbreaking/News_Is_Breaking-2.jpeg"
+  - "./src/work/newsisbreaking/News_Is_Breaking-4.jpeg"
+  - "./src/work/newsisbreaking/News_Is_Breaking-5.jpeg"
+  - "./src/work/newsisbreaking/News_Is_Breaking-6.jpeg"
 
 video:
   - ""
