@@ -9,7 +9,13 @@ jobs:
   build_deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v1
+      steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 14
+      - run: npm install
+      - run: npm test
       - name: Build
         uses: TartanLlama/actions-eleventy@v1.1
       - name: Deploy
