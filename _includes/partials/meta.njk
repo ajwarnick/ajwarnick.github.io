@@ -1,5 +1,16 @@
 <!-- start of partials/meta -->
 
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="blue">
+<meta name="theme-color" media="(prefers-color-scheme: dark)"  content="black">
+
+{% favicon "_data/favicon.ico" %}
+{# 
+    <!-- TODO -->
+    <link rel="icon" href="/icon.svg" type="image/svg+xml"> 
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png"><!-- 180×180 -->
+#}
+<link rel="manifest" href="/manifest.json">
+
 <meta property="og:url" content="{{site.url}}{{ page.url }}" />
 <meta property="og:title" content="{% if title.length %} {{ title }} {% else %} Works {% endif %}" />
 <meta property="og:site_name" content="Anthony Warnick" />
