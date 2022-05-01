@@ -1,5 +1,7 @@
 ---
 layout: layouts/base.njk
+eleventyNavigation:
+  key: CV
 templateClass: cv
 ---
 
