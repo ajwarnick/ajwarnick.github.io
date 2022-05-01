@@ -15,6 +15,7 @@ $screen-xl-min: 1px;
     width: 100%;
     min-height: calc(100vh - 16rem);
     /* padding: 3rem; */
+    position: relative;
 
     margin-top: 4rem;
     /* font-size: 1.3rem; */
@@ -44,6 +45,45 @@ $screen-xl-min: 1px;
 
       @media (max-width: $screen-xs-max) { 
         grid-template-columns: 3fr 6ch 2fr;
+      }
+    }
+
+    .search-icon{
+      height: 1rem;
+      width: 1rem;
+
+      position: absolute;
+      right: 0;
+      top: 1rem;
+
+      &::before{
+          content: "";
+          display: block;
+          position: absolute;
+          top: 0;
+          left: 0;
+          bottom: 18%;
+          right: 18%;
+          
+          border: var(--main-color) var(--border-size) solid;
+          border-radius: 50%;
+          z-index: 10;
+      }
+
+      &::after{
+          content: "";
+          display: block;
+          position: absolute;
+          
+          bottom: 0;
+          right: 0;
+          height: 50%;
+          width: 1px;
+          background-color: var(--main-color);
+
+          transform-origin: bottom right;
+          transform: rotate(-43deg);
+          z-index: 9;
       }
     }
 

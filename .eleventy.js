@@ -251,26 +251,6 @@ module.exports = function(eleventyConfig) {
         return "./" + newPath;
     });
 
-    eleventyConfig.addShortcode("favicon", (link) => {
-
-        let filename = link.substring(link.lastIndexOf('/')+1);
-        let newPath = filename;
-
-        try {
-            if (fs.existsSync( __dirname + '/_site/' + newPath )) {
-            }else{
-                fs.copyFile( path.join(__dirname, link), path.join(__dirname, '_site/' + newPath), (err) => {
-                    if (err) throw err;
-                    console.log(`[11ty] Copying _site/${newPath} from ./${link}`);
-                });
-            }
-        } catch(err) {
-            console.error(err)
-        }
-
-        return `<link rel=”icon” type=“image/x-icon” href="/${newPath}" sizes="any" />`;
-    });
-
     eleventyConfig.addNunjucksAsyncShortcode("icons", iconsImages);
     eleventyConfig.addLiquidShortcode("icons", iconsImages);
     eleventyConfig.addJavaScriptFunction("icons", iconsImages);
@@ -453,8 +433,7 @@ module.exports = function(eleventyConfig) {
     // eleventyConfig.addPassthroughCopy('js');
     // eleventyConfig.addPassthroughCopy('audio');
     eleventyConfig.addPassthroughCopy('.nojekyll');
-    eleventyConfig.addPassthroughCopy('_js/service-worker.js', '/');
-    // favicon.ico
+    eleventyConfig.addPassthroughCopy({ "src/static" : "/" });
 
     return {
         dir: {

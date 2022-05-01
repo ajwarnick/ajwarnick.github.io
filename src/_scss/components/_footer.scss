@@ -132,41 +132,6 @@
     }
 }
 
-.search-icon{
-    height: 1.2rem;
-    width: 1.2rem;
-    position: relative;
-
-    &::before{
-        content: "";
-        display: block;
-        position: absolute;
-        top: 0;
-        left: 0;
-        bottom: 18%;
-        right: 18%;
-        
-        border: var(--main-color) var(--border-size) solid;
-        border-radius: 50%;
-        z-index: 10;
-    }
-
-    &::after{
-        content: "";
-        display: block;
-        position: absolute;
-        
-        bottom: 0;
-        right: 0;
-        height: 50%;
-        width: 1px;
-        background-color: var(--main-color);
-
-        transform-origin: bottom right;
-        transform: rotate(-43deg);
-        z-index: 9;
-    }
-}
 
 .trigger-gap{
     flex-grow: 1;
