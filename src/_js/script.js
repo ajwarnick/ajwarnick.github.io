@@ -34,6 +34,7 @@ let workList = new List("work-list", options);
     // let works = document.querySelectorAll("list li")
     document.querySelectorAll(".list li").forEach(function (obj) {
       let img = obj.querySelector(".image");
+      console.log({img});
       let x = getRandomInt(window.innerWidth - img.offsetWidth);
       let y = getRandomInt(window.innerHeight - img.offsetHeight);
 
@@ -41,9 +42,6 @@ let workList = new List("work-list", options);
       img.style.top = y + "px";
       img.style.left = x + "px";
 
-      // obj.addEventListener("click", function (e) {
-      //   console.log(e);
-      // });
     });
   }
 })();
