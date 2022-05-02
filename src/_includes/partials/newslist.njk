@@ -1,11 +1,15 @@
 {% for post in newslist %}
   <div class="news__item">
+    <time datetime="{{ post.data.date }}" class="news__date">{{ post.data.date.toISOString().substring(0, 10) }}</time>
     <h1 class="news__title">
       <a href="{{ post.url | url }}">{{ post.data.title }}</a>
     </h1>
     <h2 class="news__subtitle">{{ post.data.subtitle }}</h2>
-    <a href="{{ post.data.author.link | url }}" rel="author" class="news__author">{{ post.data.author.name }}</a>
-    <time datetime="{{ post.data.date }}" class="news__date">{{ post.data.date.toISOString().substring(0, 10) }}</time>
+    {% if post.data.author.link %}
+      <a href="{{ post.data.author.link | url }}" rel="author" class="news__author">{{ post.data.author.name }}</a>
+    {% else %}
+      <p class="news__author">{{ post.data.author.name }}</p>
+    {% endif %}
     <h3 class="news__tags">{{ post.data.type }}</h3>
   </div>
 {% endfor %}

@@ -433,7 +433,7 @@ module.exports = function(eleventyConfig) {
     });
     
     eleventyConfig.addCollection("news", function(collectionApi) {
-        return collectionApi.getFilteredByGlob("news/*");
+        return collectionApi.getFilteredByGlob("src/news/*");
     });
 
     eleventyConfig.addPassthroughCopy("img");
