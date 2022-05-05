@@ -7,13 +7,14 @@
   --border-size: 1px;
   --padding: 3rem;
   --gap: 2rem;
+  --base-font-size: 13px;
 
   /* Start with axis defaults. Exclude weight, which is better controlled via the usual font-weight CSS property */
   --MONO: 0.7; /* Monospace    */
   --CASL: 0; /* Casual       */
   --slnt: 0; /* Upright      */
   --CRSV: 0.5; /* Auto Cursive */
-  --weight: 600; /* Weight      */
+  --weight: 400; /* Weight      */
 }
 
 @media only screen and (max-width: 850px) {

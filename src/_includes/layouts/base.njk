@@ -7,7 +7,7 @@
 
     {% include "partials/meta.njk" %}
 
-    <title>Anthony Warnick {% if title.length %} | {{ title }} {% endif %}</title>
+    <title>{% if title.length %}{{ title }} | {% endif %}Anthony Warnick</title>
 
     {% include "partials/font.njk" %}    
     

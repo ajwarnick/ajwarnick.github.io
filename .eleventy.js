@@ -52,6 +52,7 @@ function slugify(string) {
   }
 
 async function makeSlug(s){
+    console.log( "slugify: " + slugify(s));
     return slugify(s);
 }
 
@@ -385,6 +386,7 @@ module.exports = function(eleventyConfig) {
         // walk over each unique category
         blogpostsCategories.forEach((material) => {
             let sanitizedCategory = lodash.deburr(material).replace(/[^a-zA-Z]+/g, '').toLowerCase();
+            console.log(sanitizedCategory);
             let slug = slugify(material);
             // create array of posts in that category
             let postsInMaterial = allBlogposts.filter((post, index) => {

@@ -1,10 +1,6 @@
 html,
 body {
-    font-family: "Recursive", sans-serif;
     color: var(--main-color);
-    // font-family: 'IBM Plex Mono', monospace;
-    
-    font-weight: var(--weight);
     background-color: var(--background);
 }
 
@@ -23,6 +19,43 @@ a:visited:hover,
 a:hover {
     color: var(--gray);
 }
+
+
+.darkmode a:hover {
+    color: 	hsl(0, 100%, 50%);
+    animation-name: a_underline;
+    animation-duration: 6s;
+    // animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+
+@keyframes a_underline {
+    0%     {color: 	hsl(0, 100%, 50%);}
+	4%     {color: 	hsl(15, 100%, 50%);}
+	8%     {color: 	hsl(30, 100%, 50%);}
+	12%    {color: 	hsl(45, 100%, 50%);}
+	16%    {color: 	hsl(60, 100%, 50%);}
+	20%    {color: 	hsl(75, 100%, 50%);}
+	24%    {color: 	hsl(90, 100%, 50%);}
+	28%    {color: 	hsl(105, 100%, 50%);}
+	32%    {color: 	hsl(120, 100%, 50%);}
+	36%    {color: 	hsl(135, 100%, 50%);}
+	40%    {color: 	hsl(150, 100%, 50%);}
+	44%    {color: 	hsl(165, 100%, 50%);}
+	48%    {color: 	hsl(180, 100%, 50%);}
+	52%    {color: 	hsl(195, 100%, 50%);}
+	56%    {color: 	hsl(210, 100%, 50%);}
+	60%    {color: 	hsl(225, 100%, 50%);}
+	64%    {color: 	hsl(240, 100%, 50%);}
+	68%    {color: 	hsl(255, 100%, 50%);}
+	72%    {color: 	hsl(270, 100%, 50%);}
+	76%    {color: 	hsl(285, 100%, 50%);}
+	80%    {color: 	hsl(300, 100%, 50%);}
+	84%    {color: 	hsl(315, 100%, 50%);}
+	88%    {color: 	hsl(330, 100%, 50%);}
+	92%    {color: 	hsl(345, 100%, 50%);}
+	96%    {color: 	hsl(0, 100%, 50%);}
+  }
   
 .darkmode{
     a {

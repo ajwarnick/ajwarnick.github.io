@@ -3,6 +3,7 @@
 .work {
   min-height: calc(100vh - (var(--padding) * 4));
 
+  font-size: 1.4rem;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: auto auto auto auto 1fr;
@@ -51,16 +52,16 @@
 }
 
 .work .label {
-  --weight: 300;
+  --weight: 400;
   font-weight: var(--weight);
-  font-size: 0.75rem; 
+  font-size: 1rem; 
   // line-height: 1.2em; 
   // min-height: var(--gap);
 
   /* font-variant: small-caps; */
   padding-bottom: 0.5rem; 
   border-bottom: var(--border-size) solid var(--main-color);
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
 
   @media only screen and (max-width: 600px) {
     font-size: .5rem;
