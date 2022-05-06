@@ -1,21 +1,21 @@
 ---
 layout: layouts/work.njk
-# permalink: work/newsisbreaking/index.html
-title: News Is Breaking
-slug: newsisbreaking
+permalink: work/abstractnewspaper/index.html
+title: Abstract Newspaper
+slug: abstractnewspaper
 warnickNumber: "00.00.00.xx"
 tags:
   - work
 
 type: sculpture
 year: "2021"
-featured_image: "News_Is_Breaking-3.jpeg"
+featured_image: "abstractnewspaper-1.jpg" 
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Clear acrylic"
-  - "Galvanized Steel"
+  - "Newsprint"
+  - "Ink"
 
 # edition: 
 #   number: 
@@ -24,15 +24,15 @@ materials:
 
 color: '#FF0000'
 description:
-  short: Public sculpture currently installed at Wassaic Project Wassaic, NY. 
-  long: Public sculpture made of clear acrylic currently installed at Wassaic Project Wassaic, NY. I think about the news as a lens through which we view the world, and the world as a backdrop to the events we live through. In the studio, I play with words as often as objects, and this billboard plays with how the attention economy has broken our consideration of information.
+  short: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form.  
+  long: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form. 
 
 
-dimensions_sort: "14400"
-dimensions: '96” x 50” x 3”'
+dimensions_sort: "858"
+dimensions: '11” x 13” x 6”'
 
 available: true
-price: "$4,000"
+# price: "$4,000"
 
 # collaborators:
 #   - {
@@ -42,18 +42,18 @@ price: "$4,000"
 
 visibility: true
 
-links:
-  - [
-      "Public Art in Wassaic",
-      "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-    ]
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
 
-support_images: 
-  - "./src/work/newsisbreaking/News_Is_Breaking-1.jpeg"
-  - "./src/work/newsisbreaking/News_Is_Breaking-2.jpeg"
-  - "./src/work/newsisbreaking/News_Is_Breaking-4.jpeg"
-  - "./src/work/newsisbreaking/News_Is_Breaking-5.jpeg"
-  - "./src/work/newsisbreaking/News_Is_Breaking-6.jpeg"
+# support_images: 
+#   - "./work/betwixtandbetween/betwixtandbetween-1.jpg"
+#   - "./work/newsisbreaking/News_Is_Breaking-2.tif"
+#   - "./work/newsisbreaking/News_Is_Breaking-4.tif"
+#   - "./work/newsisbreaking/News_Is_Breaking-5.tif"
+#   - "./work/newsisbreaking/News_Is_Breaking-6.tif"
 
 video:
   - ""
@@ -73,10 +73,10 @@ video:
 #     link: "/img/61_1-warnick-greece-show.jpg"
 #   }
 
-location: "Wassaic, NY"
+# location: ""
 
-collection:
- - "Walker Art Center"
+# collection:
+#  - ""
 
 # exhibitions:
 #   - {
