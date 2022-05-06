@@ -10,7 +10,6 @@ tags:
 type: video
 year: "2021"
 featured_image: "./src/work/betwixtandbetween/betwixtandbetween-2000.jpg" 
-# featured_image: "./src/work/newsisbreaking/News_Is_Breaking-1.jpeg"
 featured_audio: ""
 featured_video: "https://iframe.mediadelivery.net/embed/21069/e5df2630-7c05-485d-94a8-a9d2f368a6ca?autoplay=true"
 
