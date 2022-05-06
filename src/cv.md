@@ -166,10 +166,12 @@ Board of Directors, Gallery 148, 2010 - 2011
 ## Education
 
 ### 2013 - 2015  
-M.F.A (Sculpture) Cranbrook Academy of Art  
+M.F.A. (Sculpture)  
+Cranbrook Academy of Art  
 
 ### 2007 - 2011  
-B.F.A. (Web + Multimedia Environments) Minneapolis College of Art and Design  
+B.F.A. (Web + Multimedia Environments)  
+Minneapolis College of Art and Design  
 
 
 
@@ -177,18 +179,20 @@ B.F.A. (Web + Multimedia Environments) Minneapolis College of Art and Design
 ## Academic  
 
 ### 2018-Current 
+Assistant Professor in the Department of Art  
 Kansas State University, Manhattan, Kansas  
-Assistant Professor in the Department of Art
+
 
 ### 2017-2018
+Visiting Assistant Professor in Studio Art  
 Oberlin College and Conservatory, Oberlin, Ohio  
-Visiting Assistant Professor in Studio Art
+
 
 ### 2015-2018 
-Cleveland Institute of Art, Cleveland, Ohio   
 Full-time Lecturer in Sculpture + Expanded Media and Foundation  
+Cleveland Institute of Art, Cleveland, Ohio   
+ 
 
 ### 2015 
-Cranbrook Academy of Art, Bloomfield Hills, Michigan    
 Visiting Lecturer in Sculpture - Leading theory seminars  
-
+Cranbrook Academy of Art, Bloomfield Hills, Michigan    
