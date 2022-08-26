@@ -1,7 +1,5 @@
 ---
 layout: layouts/base.njk
-eleventyNavigation:
-  key: CV
 templateClass: cv
 ---
 
@@ -17,18 +15,18 @@ anthony@anthonywarnick.com
 *AOVx* at Minnesota Museum of American Art, St. Paul, MN (*Forthcoming*)  
 *Color* at CICA Museum, Gimpo-si, Gyeonggi-do, Korea (*Forthcoming*)  
 Salina Biennial at Salina Art Center, Salina, KS  
-[*UNDERCURRENTS*](https://elycenter.org/undercurrent) at Ely Center of Contemporary Art, New Haven, CT  
+*UNDERCURRENTS* at Ely Center of Contemporary Art, New Haven, CT  
 
 ### 2021
-[Public Sculpture](https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918) at Wassaic Project, Wassaic, NY  
+Public Sculpture at Wassaic Project, Wassaic, NY  
 Group Show at Shrine Gallery, New York, NY  
-[*Uncompressed*](https://www.coastal.edu/gallery/pastexhibitions/) at Rebecca Randall Bryan Art Gallery, Coastal Carolina University, Conway, SC  
+*Uncompressed* at Rebecca Randall Bryan Art Gallery, Coastal Carolina University, Conway, SC  
 
 ### 2020
 *Catalyst* (NCECA satellite) at Cherry Gallery, Richmond, VA (Canceled due to COVID-19)  
 
 ### 2019
-[*On the Tip of My Tongue*](https://carnationcontemporary.com/On-the-Tip-of-My-Tongue-Katherine-Spinella-Kristin-Hough) at Carnation Contemporary, Portland, OR  
+*On the Tip of My Tongue* at Carnation Contemporary, Portland, OR  
 *Habits of Thought, Patterns of Action* at Plug Projects, Kansas City, MO  
 *Breaching the Margins* at Urban Institute for Contemporary Arts, Grand Rapids, MI  
 *What Makes Democracy?* (Solo) with FaveLAB, Athens, Greece  
@@ -104,14 +102,24 @@ SOMA Summer, Mexico City, Mexico 2016
 Ten Chances, St. Paul, MN 2014  
 Futurefarmers, San Francisco, CA 2011  
 Art of This, Minneapolis, MN 2010  
+Youth With A Mission, Perth, Australia 2005/2006  
 
 
 ## Awards/Honors
 Faculty Enhancement Program, Kansas State University, 2020-2021  
 The Hopper Prize (Shortlist), 2019  
 Ohio Arts Council Individual Excellence Award, 2017  
+Museum Committee Purchase Award, Cranbrook Academy of Art, 2015  
+Fulbright Alternate, Croatia, 2015  
+The President's Award, Cranbrook Academy of Art, 2014 - 2015  
+Sculpture Second Year Merit Scholarship, Cranbrook Academy of Art, 2014 - 2015  
 Artist on the Verge Fellowship, Northern Lights.mn, 2012 - 2013  
- 
+Ethel Morrison Van Derlip Award in Media Arts, MCAD, 2012  
+Penny Grant, The Penny Grant Foundation, 2011  
+Student Commencement Speaker, MCAD, December 2011  
+Media Arts Senior Merit Scholarship, MCAD, 2011  
+Honorable Mention - Made @ MCAD, MCAD, 2010 (Diane Mullin, Juror)  
+Web and Multimedia Environments Merit Scholarship, MCAD, 2010  
 
 
 ## Invited Talks / Presentations  
