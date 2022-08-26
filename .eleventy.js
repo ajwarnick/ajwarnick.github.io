@@ -46,6 +46,7 @@ function slugify(string) {
       .replace(p, c => b.charAt(a.indexOf(c))) // Replace special characters
       .replace(/&/g, '-and-') // Replace & with 'and'
       .replace(/[^\w\-]+/g, '') // Remove all non-word characters
+      .replace(/\(|\)/g, '') // Remove parentheses
       .replace(/\-\-+/g, '-') // Replace multiple - with single -
       .replace(/^-+/, '') // Trim - from start of text
       .replace(/-+$/, '') // Trim - from end of text
@@ -240,6 +241,14 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addNunjucksAsyncShortcode("slug", makeSlug);
     eleventyConfig.addLiquidShortcode("slug", makeSlug);
     eleventyConfig.addJavaScriptFunction("slug", makeSlug);
+
+    eleventyConfig.addNunjucksFilter("materialslug", (s)=>{
+        return slugify(s);
+    });
+    eleventyConfig.addLiquidFilter("materialslug", (s)=>{
+        return slugify(s);
+    });
+    
 
     eleventyConfig.addShortcode("audio", (link) => {
         let filename = link.substring(link.lastIndexOf('/')+1);

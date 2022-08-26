@@ -6,9 +6,6 @@ templateClass: cv
 ---
 
 Anthony Warnick  
-1916 Hunting Ave.  
-Manhattan, Kansas 66502  
-(913) 963-9654  
 anthony@anthonywarnick.com  
 
 ## Exhibitions

@@ -68,7 +68,7 @@ templateClass: tmpl-work
             <div class="materials">
                 <div class="label">Materials:</div>
                 {% for material in materials %}
-                    {% set materialUrl %}/materials/{{ material | slug }}/{% endset %}
+                    {% set materialUrl %}/materials/{{  material | materialslug }}/{% endset %}
                     <a href="{{ materialUrl | url }}" class="material">{{ material }}</a>{% if not loop.last %}, {% endif %}
                 {% endfor %}
             </div>
