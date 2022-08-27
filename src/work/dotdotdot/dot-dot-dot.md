@@ -7,7 +7,7 @@ tags:
 - work
 type: video
 year: "2021"
-featured_image: ''
+featured_image: './src/work/dotdotdot/dotsmall.jpeg'
 featured_audio: ''
 featured_video: https://iframe.mediadelivery.net/embed/21069/c1759cf6-8c17-4d3e-ae9c-abe7519c7d26?autoplay=true
 materials:
