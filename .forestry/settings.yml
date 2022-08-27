@@ -5,10 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: work
+  path: src/work
   label: Work Item
   create: all
   match: "**/*"
+  templates:
+  - work-item
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
