@@ -9,8 +9,6 @@ sections:
   label: Work Item
   create: all
   match: "**/*"
-  templates:
-  - work-item
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
