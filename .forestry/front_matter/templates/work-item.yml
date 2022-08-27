@@ -80,3 +80,5 @@ fields:
 - type: list
   name: collection
   label: collection
+pages:
+- src/work/dotdotdot/dot-dot-dot.md
