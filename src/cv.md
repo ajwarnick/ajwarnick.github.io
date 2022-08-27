@@ -13,7 +13,7 @@ anthony@anthonywarnick.com
 ### 2022
 *AOVx* at Minnesota Museum of American Art, St. Paul, MN (*Forthcoming*)  
 *Color* at CICA Museum, Gimpo-si, Gyeonggi-do, Korea (*Forthcoming*)  
-Salina Biennial at Salina Art Center, Salina, KS  
+[*Salina Biennial*](https://www.salinaartcenter.org/2022-salina-biennial) at Salina Art Center, Salina, KS  
 [*UNDERCURRENTS*](https://elycenter.org/undercurrent) at Ely Center of Contemporary Art, New Haven, CT  
 
 ### 2021
@@ -26,7 +26,7 @@ Group Show at Shrine Gallery, New York, NY
 
 ### 2019
 [*On the Tip of My Tongue*](https://carnationcontemporary.com/On-the-Tip-of-My-Tongue-Katherine-Spinella-Kristin-Hough) at Carnation Contemporary, Portland, OR  
-*Habits of Thought, Patterns of Action* at Plug Projects, Kansas City, MO  
+*Habits of Thought, Patterns of Action* (Two Person) at Plug Projects, Kansas City, MO  
 *Breaching the Margins* at Urban Institute for Contemporary Arts, Grand Rapids, MI  
 *What Makes Democracy?* (Solo) with FaveLAB, Athens, Greece  
 *Vitrine* at Plexus Projects, Brooklyn, NY  
@@ -34,14 +34,14 @@ Group Show at Shrine Gallery, New York, NY
 ### 2018  
 *NON//SENSE* at the Gordon Square Arts Space, Cleveland, OH  
 *Uncommon Senses II* at Concordia University, Montreal, QC  
-The Sculpture Center (Solo), Cleveland, OH  
+[*Language Games*](https://sculpturecenter.org/anthony_warnick/) (solo) at The Sculpture Center, Cleveland, OH  
 
 ### 2017   
-Christensen Gallery at the Augsburg College (Solo), Minneapolis, MN  
+[*The Logic Of The Exception*](https://www.augsburg.edu/galleries/2017/10/20/anthonywarnick/) (Solor) Christensen Gallery at the Augsburg College, Minneapolis, MN  
 CIA Faculty Exhibition at Reinberger Gallery, Cleveland, OH  
 *SONIC REBELLION: MUSIC AS RESISTANCE* at Museum of Contemporary Art Detroit, Detroit, MI  
 Elsewhere Museum, Greensboro, NC  
-SPACES Gallery (Solo), Cleveland, OH  
+[*Except As A Punishment for Crime*](https://www.spacescle.org/exhibitions/2016/12/01/except-as-a-punishment-for-crime) (Solo) at SPACES Gallery, Cleveland, OH  
 
 ### 2016  
 CIA Faculty Exhibition at Reinberger Gallery, Cleveland, OH  

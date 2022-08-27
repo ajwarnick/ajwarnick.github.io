@@ -126,63 +126,64 @@ templateClass: tmpl-work
 
 
     <div class="images">
+        {% if support_images or audio or video %}
 
-        <div class="label">Images:</div>
-        <div class="support_images" id="support_images">
+            <div class="label">Images:</div>
+            <div class="support_images" id="support_images">
 
-            {# {% for track in audio %}
-                {% set audiolink = track %}
-                {% include "components/audioplayer.njk" %}
-            {% endfor %} #}
+                {% for track in audio %}
+                    {% set audiolink = track %}
+                    {% include "components/audioplayer.njk" %}
+                {% endfor %} 
+                
+                {% for bunny in video %}
+                    {% include "components/bunny-lightbox.njk" %}
+                {% endfor %}  
 
-            {#  
-
-            {% for bunny in video %}
-                {% include "components/bunny-lightbox.njk" %}
-            {% endfor %}  
-            
-            #}
-
-            {% for image in support_images %}
-                <div class="support_image">
-                    {% if image %}
-                        {% set myURL = image | string %}
-                        {% if './' in myURL %}
-                            {% supportImage image %}
-                            <!-- {% image image, description.short, "(min-width: 30em) 50vw, 100vw"  %} -->
-                        {% else %}
-                            {% set canonical = "." + page.url + image %}
-                            {% image canonical, description.short, "(min-width: 30em) 50vw, 100vw"  %}
+                {% for image in support_images %}
+                    <div class="support_image">
+                        {% if image %}
+                            {% set myURL = image | string %}
+                            {% if './' in myURL %}
+                                {% supportImage image %}
+                                <!-- {% image image, description.short, "(min-width: 30em) 50vw, 100vw"  %} -->
+                            {% else %}
+                                {% set canonical = "." + page.url + image %}
+                                {% image canonical, description.short, "(min-width: 30em) 50vw, 100vw"  %}
+                            {% endif %}
                         {% endif %}
-                    {% endif %}
-                </div>
-            {% endfor %} 
-            
-        </div>
+                    </div>
+                {% endfor %} 
+            </div>
+
+        {% endif %}
     </div>
 
     <div class="links">
-        <div class="label">Links:</div>
-        <ul>
-            {% for link in links %}
-                <li>
-                    <a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a>
-                </li>
-            {% endfor %}
-        </ul>
-
-        {% if assets %} 
-            <br/>
-            <div class="label">Assets:</div>
+        {% if links or assets %}
+            <div class="label">Links:</div>
             <ul>
-                {% for assets in assets %} 
+                {% for link in links %}
                     <li>
-                        <a class="{{ assets.type }}" href="{{ assets.link }}">{{ assets.title }}</a>
+                        <a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a>
                     </li>
                 {% endfor %}
             </ul>
+
+            {% if assets %} 
+                <br/>
+                <div class="label">Assets:</div>
+                <ul>
+                    {% for assets in assets %} 
+                        <li>
+                            <a class="{{ assets.type }}" href="{{ assets.link }}">{{ assets.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
         {% endif %}
     </div>
+    
 </div>
 
 

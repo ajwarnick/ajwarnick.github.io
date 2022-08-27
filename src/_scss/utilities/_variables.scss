@@ -1,9 +1,6 @@
 
 :root {
-  --background: white;
-  --main-color: black;
-  --gray: #a4a4a4;
-  --secondary-color: blue;
+  
   --border-size: 1px;
   --padding: 3rem;
   --gap: 2rem;
@@ -15,6 +12,20 @@
   --slnt: 0; /* Upright      */
   --CRSV: 0.5; /* Auto Cursive */
   --weight: 400; /* Weight      */
+}
+
+:root[color-mode="light"] {
+  --background: rgb(255, 255, 255);
+  --main-color: rgb(0, 0, 0);
+  --gray: rgb(164, 164, 164);
+  --secondary-color: rgb(0, 0, 255);
+}
+
+:root[color-mode="dark"] {
+  --background: rgb(0, 0, 0);
+  --main-color: rgb(255, 255, 255);
+  --gray: rgb(164, 164, 164);
+  --secondary-color: rgb(255, 255, 255);
 }
 
 @media only screen and (max-width: 850px) {

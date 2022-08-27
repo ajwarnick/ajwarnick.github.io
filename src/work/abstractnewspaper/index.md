@@ -55,8 +55,8 @@ visibility: true
 #   - "./work/newsisbreaking/News_Is_Breaking-5.tif"
 #   - "./work/newsisbreaking/News_Is_Breaking-6.tif"
 
-video:
-  - ""
+# video:
+#   - ""
 
 # audio:
 #   - "/audio/audio.mp3"

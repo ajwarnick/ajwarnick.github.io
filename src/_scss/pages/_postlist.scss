@@ -246,7 +246,7 @@ $screen-xl-min: 1px;
   }
 }
 
-.darkmode{
+:root[color-mode="dark"] {
   .list a {
     text-decoration: none;
     color: var(--main-color);

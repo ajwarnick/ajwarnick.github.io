@@ -17,7 +17,6 @@
       </div>
       <div>
         <div class="filter_category">Types</div>
-
         {% for type in collections.workByType %}
           {% set tagUrl %}/type/{{ type.title }}/{% endset %}
           <a href="{{ tagUrl | url }}" class="tag">{{  type.title | title  }}</a>{% if not loop.last %}, {% endif %}

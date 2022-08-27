@@ -313,7 +313,7 @@
   font-weight: var(--weight);
 }
 
-.darkmode .news__post_item code {
+:root[color-mode="dark"] .news__post_item code {
   background-color: hsla(0, 0%, 95%, 0.25);
 }
   

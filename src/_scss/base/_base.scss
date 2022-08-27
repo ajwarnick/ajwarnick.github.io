@@ -21,7 +21,7 @@ a:hover {
 }
 
 
-.darkmode a:hover {
+:root[color-mode="dark"] a:hover {
     color: 	hsl(0, 100%, 50%);
     animation-name: a_underline;
     animation-duration: 6s;
@@ -57,7 +57,7 @@ a:hover {
 	96%    {color: 	hsl(0, 100%, 50%);}
   }
   
-.darkmode{
+:root[color-mode="dark"] {
     a {
         text-decoration: underline;
         // color: var(--secondary-color);
