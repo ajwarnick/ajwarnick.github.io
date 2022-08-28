@@ -1,38 +1,41 @@
 ---
 layout: layouts/work.njk
-permalink: work/abstractnewspaper/index.html
-title: Abstract Newspaper
-slug: abstractnewspaper
-warnickNumber: "00.00.00.xx"
+# permalink: work/newsisbreaking/index.html
+title: Madlibs
+slug: madlibs
+warnickNumber: "xx.00.22.003"
+
 tags:
   - work
 
-type: sculpture
+type: "print"
 year: "2021"
-featured_image: "abstractnewspaper-1.jpg" 
-# featured_audio: ""
-# featured_video: ""
+featured_image: "madlib_2.jpg"
+featured_audio: ""
+featured_video: ""
 
 materials: 
-  - "Newsprint"
-  - "Ink"
+  - "Custom Software"
+  - "Toner"
+  - "Bond Paper"
 
-# edition: 
+edition: 
 #   number: 
 #   proofs: 
-#   limitless: true
+  limitless: true
 
-color: '#FF0000'
+# color: ''
+
 description:
-  short: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form.  
-  long: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form. 
+  short: "Unique limitless takeaways germinated by a piece of custom software written to scrape the New York Times for headlines and convert them to Madlibs"
+  long: "Unique limitless takeaways germinated by a piece of custom software written to scrape the New York Times for headlines and convert them to Madlibs"
 
 
-dimensions_sort: "858"
-dimensions: '11” x 13” x 6”'
+dimensions_sort: "187"
+dimensions: '11” x 17”'
 
 available: true
-# price: "$4,000"
+price: ""
 
 # collaborators:
 #   - {
@@ -42,18 +45,15 @@ available: true
 
 visibility: true
 
-# links:
-#   - [
-#       "Public Art in Wassaic",
-#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-#     ]
+links:
+  - [
+      "Live generated Mad Libs",
+      "http://projectspace.anthonywarnick.com/madlibs/",
+    ]
 
-# support_images: 
-#   - "./work/betwixtandbetween/betwixtandbetween-1.jpg"
-#   - "./work/newsisbreaking/News_Is_Breaking-2.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-4.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-5.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-6.tif"
+support_images: 
+  - "./src/work/madlibs/madlib_1.png"
+#   - "./src/work/madlibs/madlib_3.jpg"
 
 # video:
 #   - ""

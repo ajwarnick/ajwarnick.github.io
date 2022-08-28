@@ -1,38 +1,39 @@
 ---
 layout: layouts/work.njk
-permalink: work/abstractnewspaper/index.html
-title: Abstract Newspaper
-slug: abstractnewspaper
-warnickNumber: "00.00.00.xx"
+# permalink: work/newsisbreaking/index.html
+title: Criamos O Que Não Temos
+slug: criamosoquenaotemos
+warnickNumber: " xx.00.22.003"
 tags:
   - work
 
-type: sculpture
-year: "2021"
-featured_image: "abstractnewspaper-1.jpg" 
-# featured_audio: ""
-# featured_video: ""
+type: print
+year: "2022"
+featured_image: "criamos_1.jpg"
+featured_audio: ""
+featured_video: ""
 
 materials: 
-  - "Newsprint"
-  - "Ink"
+  - "Toner"
+  - "Bond Paper"
 
-# edition: 
-#   number: 
-#   proofs: 
-#   limitless: true
+edition: 
+  number: 300
+  proofs: 0
+  limitless: true
 
-color: '#FF0000'
+# color: ''
+
 description:
-  short: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form.  
-  long: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form. 
+  short: ""
+  long: ""
 
 
-dimensions_sort: "858"
-dimensions: '11” x 13” x 6”'
+dimensions_sort: "1260"
+dimensions: '30cm x 42cm'
 
 available: true
-# price: "$4,000"
+price: "NSF"
 
 # collaborators:
 #   - {
@@ -48,12 +49,11 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-# support_images: 
-#   - "./work/betwixtandbetween/betwixtandbetween-1.jpg"
-#   - "./work/newsisbreaking/News_Is_Breaking-2.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-4.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-5.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-6.tif"
+support_images: 
+  - "criamos_2.jpg"
+  - "criamos_3.jpg"
+  - "criamos_4.jpg"
+  - "takeaway.jpg"
 
 # video:
 #   - ""

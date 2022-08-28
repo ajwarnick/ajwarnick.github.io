@@ -1,38 +1,40 @@
 ---
 layout: layouts/work.njk
-permalink: work/abstractnewspaper/index.html
-title: Abstract Newspaper
-slug: abstractnewspaper
-warnickNumber: "00.00.00.xx"
+# permalink: work/newsisbreaking/index.html
+title: An Incomplete Archive Of A Year
+slug: anincompletearchiveofayear
+warnickNumber: "xx.00.22.003"
+
 tags:
   - work
 
-type: sculpture
-year: "2021"
-featured_image: "abstractnewspaper-1.jpg" 
-# featured_audio: ""
-# featured_video: ""
+type: "photography"
+year: "2020"
+featured_image: "2020_01_12_img_4.jpg.print.5x7.jpg"
+featured_audio: ""
+featured_video: ""
 
 materials: 
-  - "Newsprint"
-  - "Ink"
+  - "Chromogenic Prints"
+  - "Custom Software"
 
 # edition: 
 #   number: 
 #   proofs: 
 #   limitless: true
 
-color: '#FF0000'
+# color: ''
+
 description:
-  short: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form.  
-  long: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form. 
+  short: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
+  long: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
 
 
-dimensions_sort: "858"
-dimensions: '11” x 13” x 6”'
+dimensions_sort: "20000"
+dimensions: 'Dimensions Variable'
 
 available: true
-# price: "$4,000"
+price: ""
 
 # collaborators:
 #   - {
@@ -48,12 +50,14 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-# support_images: 
-#   - "./work/betwixtandbetween/betwixtandbetween-1.jpg"
-#   - "./work/newsisbreaking/News_Is_Breaking-2.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-4.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-5.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-6.tif"
+support_images: 
+  - "./src/work/anincompletearchiveofayear/test.jpg"
+  - "./src/work/anincompletearchiveofayear/2020_02_15_img_0.jpg.print.5x10.jpg"
+  - "./src/work/anincompletearchiveofayear/2020_02_14_img_1.jpg.print.4x6.jpg"
+  - "./src/work/anincompletearchiveofayear/2020_01_30_img_4.jpg.print.5x10.jpg"
+  - "./src/work/anincompletearchiveofayear/2020_01_18_img_1.jpg.print.5x7.jpg"
+  - "./src/work/anincompletearchiveofayear/2020_01_12_img_4.jpg.print.5x7.jpg"
+
 
 # video:
 #   - ""

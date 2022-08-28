@@ -93,7 +93,7 @@ async function featuredImage(src, alt){
     }
 
     let metadata = await Image(result, {
-        widths: [600, 1900],
+        widths: [600, 1800],
         formats: ["avif", "webp", "jpeg"],
         outputDir: "_site/img",
       });
@@ -127,7 +127,7 @@ async function supportImage(src){
     }
 
     let metadata = await Image(result, {
-        widths: [600, 1900],
+        widths: [600, 1800],
         formats: ["avif", "webp", "jpeg"],
         outputDir: "_site/img",
     });

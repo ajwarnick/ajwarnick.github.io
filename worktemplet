@@ -1,38 +1,40 @@
 ---
 layout: layouts/work.njk
-permalink: work/abstractnewspaper/index.html
-title: Abstract Newspaper
-slug: abstractnewspaper
-warnickNumber: "00.00.00.xx"
+# permalink: work/newsisbreaking/index.html
+title: 
+slug: 
+warnickNumber: 
+
 tags:
   - work
 
-type: sculpture
-year: "2021"
-featured_image: "abstractnewspaper-1.jpg" 
-# featured_audio: ""
-# featured_video: ""
+type: ""
+year: ""
+featured_image: ""
+featured_audio: ""
+featured_video: ""
 
 materials: 
-  - "Newsprint"
-  - "Ink"
+  - ""
+  - ""
 
 # edition: 
 #   number: 
 #   proofs: 
 #   limitless: true
 
-color: '#FF0000'
+# color: ''
+
 description:
-  short: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form.  
-  long: A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form. 
+  short: ""
+  long: ""
 
 
-dimensions_sort: "858"
-dimensions: '11” x 13” x 6”'
+dimensions_sort: ""
+dimensions: ''
 
 available: true
-# price: "$4,000"
+price: ""
 
 # collaborators:
 #   - {
@@ -49,11 +51,10 @@ visibility: true
 #     ]
 
 # support_images: 
-#   - "./work/betwixtandbetween/betwixtandbetween-1.jpg"
-#   - "./work/newsisbreaking/News_Is_Breaking-2.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-4.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-5.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-6.tif"
+#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
+#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
+#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
+#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
 
 # video:
 #   - ""
