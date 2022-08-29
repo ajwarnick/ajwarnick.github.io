@@ -277,7 +277,7 @@ $screen-xl-min: 1px;
       aspect-ratio: 1 / 1;
 
         a{
-          display: block;
+          display: flex;
           height: 100%;
           border-bottom: unset;
         }

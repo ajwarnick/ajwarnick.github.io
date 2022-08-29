@@ -1,6 +1,6 @@
 .content{
     min-height: 100vh;
-    padding: calc(var(--padding) * 2) var(--padding) var(--padding) var(--padding);
+    padding: calc(var(--padding) * 2) var(--padding) calc(var(--padding) * 2) var(--padding);
 
     @media screen and (min-width: 600px ) and (max-width: 850px) {
         padding: calc(var(--padding) * 4) var(--padding) var(--padding) var(--padding);

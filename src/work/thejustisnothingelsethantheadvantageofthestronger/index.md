@@ -1,22 +1,23 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: An Incomplete Archive Of A Year
-slug: anincompletearchiveofayear
+title: "The Just Is Nothing Else Than The Advantage Of The Stronger"
+slug: thejustisnothingelsethantheadvantageofthestronger
 warnickNumber: "xx.00.22.003"
 
 tags:
   - work
 
-type: "photography"
-year: "2020"
-featured_image: "2020_01_12_img_4.jpg.print.5x7.jpg"
+type: "sculpture"
+year: "2019"
+featured_image: "thejustisnothingelsethantheadvantageofthestronger_1.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Chromogenic Prints"
-  - "Custom Software"
+  - "Gold"
+  - "Marble Brick from the Acropolis of Athens"
+  - "Surplus Military Blankets"
 
 # edition: 
 #   number: 
@@ -26,21 +27,16 @@ materials:
 # color: ''
 
 description:
-  short: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
-  long: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
+  short: ""
+  long: ""
 
 
-dimensions_sort: "20000"
+dimensions_sort: "1728"
 dimensions: 'Dimensions Variable'
+# 9" x 16" x 12"
 
 available: true
-price: ""
-
-# collaborators:
-#   - {
-#     name: "Danni O'Brien",
-#     link: "http://www.danielleobrienart.com/"
-#   }
+price: "NFS"
 
 visibility: true
 
@@ -51,16 +47,13 @@ visibility: true
 #     ]
 
 support_images: 
-  - "./src/work/anincompletearchiveofayear/test.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_15_img_0.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_14_img_1.jpg.print.4x6.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_30_img_4.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_18_img_1.jpg.print.5x7.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_12_img_4.jpg.print.5x7.jpg"
- 
+  - "./src/work/thejustisnothingelsethantheadvantageofthestronger/thejustisnothingelsethantheadvantageofthestronger_2.jpg"
 
-# video:
-#   - ""
+video:
+  - {
+    thumb: "https://vz-6d76e30c-3d3.b-cdn.net/9897d27c-1d83-4ac5-87e6-4948fbd840e7/preview.webp",
+    video: "https://iframe.mediadelivery.net/embed/21069/9897d27c-1d83-4ac5-87e6-4948fbd840e7"
+    }
 
 # audio:
 #   - "/audio/audio.mp3"

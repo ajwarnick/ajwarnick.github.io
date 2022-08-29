@@ -1,40 +1,35 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: An Incomplete Archive Of A Year
-slug: anincompletearchiveofayear
+title: Unnatural Deeds Do Breed Unnatural Troubles
+slug: unnaturaldeedsdobreedunnaturaltroubles
 warnickNumber: "xx.00.22.003"
 
 tags:
   - work
 
-type: "photography"
-year: "2020"
-featured_image: "2020_01_12_img_4.jpg.print.5x7.jpg"
+type: "sculpture"
+year: "2019"
+featured_image: "unnaturaldeedsdobreedunnaturaltroubles_2.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Chromogenic Prints"
-  - "Custom Software"
-
-# edition: 
-#   number: 
-#   proofs: 
-#   limitless: true
+  - "Gold"
+  - "Prisoner Produced Pillow"
 
 # color: ''
 
 description:
-  short: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
-  long: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
+  short: "A gilded textured vinyl covered pillow produced by and for those incarcerated. The pillow was manufactured by those incarcerated at Allen-Oakwood Correctional Institution in Lima, Ohio."
+  long: "A gilded textured vinyl covered pillow produced by and for those incarcerated. The pillow was manufactured by those incarcerated at Allen-Oakwood Correctional Institution in Lima, Ohio."
 
 
-dimensions_sort: "20000"
-dimensions: 'Dimensions Variable'
+dimensions_sort: "1620"
+dimensions: '18" x 15" x 6"'
 
 available: true
-price: ""
+price: "NFS"
 
 # collaborators:
 #   - {
@@ -51,13 +46,7 @@ visibility: true
 #     ]
 
 support_images: 
-  - "./src/work/anincompletearchiveofayear/test.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_15_img_0.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_14_img_1.jpg.print.4x6.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_30_img_4.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_18_img_1.jpg.print.5x7.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_12_img_4.jpg.print.5x7.jpg"
- 
+  - "./src/work/unnaturaldeedsdobreedunnaturaltroubles/unnaturaldeedsdobreedunnaturaltroubles_1.jpg"
 
 # video:
 #   - ""

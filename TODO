@@ -5,3 +5,27 @@
 - document work flow (with and without node_modules)
 - image url issues??
 - place holder if no featured image grid view
+
+- Deal with smaller images
+----------------------------------------------------------
+- Document does not have a meta description
+- Max width for grid view
+
+- Remove lazy load from main work image
+- cache policy
+- serve font from same domain???
+
+- [aria-*] attributes do not match their roles
+
+- Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children.
+
+- Remove auto play on video
+- Consider marking your touch and wheel event listeners as passive to improve your page's scroll performance. (PLYR ISSUE)
+
+- <frame> or <iframe> elements do not have a title
+
+- Links do not have a discernible name
+
+https://web.dev/aria-allowed-attr/?utm_source=lighthouse&utm_medium=devtools
+https://web.dev/aria-required-children/?utm_source=lighthouse&utm_medium=devtools
+https://web.dev/meta-description/?utm_source=lighthouse&utm_medium=devtools

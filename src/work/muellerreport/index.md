@@ -1,40 +1,40 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: An Incomplete Archive Of A Year
-slug: anincompletearchiveofayear
+title: Mueller Report (After Jenny Holzer) (For Kazimir Malevich)
+slug: muellerreport
 warnickNumber: "xx.00.22.003"
 
 tags:
   - work
 
-type: "photography"
-year: "2020"
-featured_image: "2020_01_12_img_4.jpg.print.5x7.jpg"
+type: "print"
+year: "2019"
+featured_image: "muellerreport-1.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Chromogenic Prints"
-  - "Custom Software"
+  - "Bond Paper"
+  - "Toner"
 
-# edition: 
+edition: 
 #   number: 
 #   proofs: 
-#   limitless: true
+  limitless: true
 
 # color: ''
 
 description:
-  short: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
-  long: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
+  short: ""
+  long: ""
 
 
-dimensions_sort: "20000"
-dimensions: 'Dimensions Variable'
+dimensions_sort: "187"
+dimensions: '11” x 17”'
 
 available: true
-price: ""
+price: "Free"
 
 # collaborators:
 #   - {
@@ -50,14 +50,11 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-support_images: 
-  - "./src/work/anincompletearchiveofayear/test.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_15_img_0.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_14_img_1.jpg.print.4x6.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_30_img_4.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_18_img_1.jpg.print.5x7.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_12_img_4.jpg.print.5x7.jpg"
- 
+# support_images: 
+#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
+#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
+#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
+#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
 
 # video:
 #   - ""

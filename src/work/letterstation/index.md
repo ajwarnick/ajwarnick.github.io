@@ -1,37 +1,38 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: An Incomplete Archive Of A Year
-slug: anincompletearchiveofayear
+title: Letter Station
+slug: letterstation
 warnickNumber: "xx.00.22.003"
 
 tags:
   - work
 
-type: "photography"
-year: "2020"
-featured_image: "2020_01_12_img_4.jpg.print.5x7.jpg"
+type: "Sound"
+year: "2021"
+featured_image: "letterstation.jpg"
 featured_audio: ""
-featured_video: ""
+featured_video: "https://iframe.mediadelivery.net/embed/21069/03124172-414d-458c-ae2a-10660923326d"
 
 materials: 
-  - "Chromogenic Prints"
+  - "Radio Broadcast"
   - "Custom Software"
+  - "New York Times Headlines"
 
-# edition: 
-#   number: 
-#   proofs: 
+edition: 
+  number: 4
+  proofs: 1
 #   limitless: true
 
 # color: ''
 
 description:
-  short: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
-  long: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
+  short: "This work broadcasts a voice reading the current New York Times headlines in NATO code."
+  long: "This work broadcasts a voice reading the current New York Times headlines in NATO code."
 
 
-dimensions_sort: "20000"
-dimensions: 'Dimensions Variable'
+dimensions_sort: "10000"
+dimensions: 'Live Feed'
 
 available: true
 price: ""
@@ -50,14 +51,11 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-support_images: 
-  - "./src/work/anincompletearchiveofayear/test.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_15_img_0.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_14_img_1.jpg.print.4x6.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_30_img_4.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_18_img_1.jpg.print.5x7.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_12_img_4.jpg.print.5x7.jpg"
- 
+# support_images: 
+#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
+#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
+#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
+#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
 
 # video:
 #   - ""

@@ -8,7 +8,7 @@
     width: calc(100vw - (var(--padding) * 2));
     margin: auto;
 
-    // background-color: var(--background);
+    background-color: var(--background);
     display: grid;
     grid-template-columns: 1fr auto;
     transition: all 1s;

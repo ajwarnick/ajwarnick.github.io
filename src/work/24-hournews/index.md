@@ -1,40 +1,39 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: An Incomplete Archive Of A Year
-slug: anincompletearchiveofayear
+title: "15 24-Hour News Sources"
+slug: 24-hournews
 warnickNumber: "xx.00.22.003"
 
 tags:
   - work
 
-type: "photography"
-year: "2020"
-featured_image: "2020_01_12_img_4.jpg.print.5x7.jpg"
+type: "video"
+year: "2019"
+featured_image: "24-hournews-1.png"
 featured_audio: ""
-featured_video: ""
+featured_video: "https://iframe.mediadelivery.net/embed/21069/56016cb9-4fc6-4d91-8a51-652d31b76211"
 
 materials: 
-  - "Chromogenic Prints"
-  - "Custom Software"
+  - "Video (Color, Sound)"
 
-# edition: 
-#   number: 
-#   proofs: 
+edition: 
+  number: 4
+  proofs: 1
 #   limitless: true
 
 # color: ''
 
 description:
-  short: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
-  long: "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
+  short: "This work is a stream of the following news channels: BBC News Channel, Sky News, Euronews, France 24, RT, Deutsche Welle, NHK World, CCTV News Channel, New Delhi Television (NDTV), Al Jazeera, Al Arabiya, A24, SABC News, CNN, Fox News Channel, and MSNBC"
+  long: "This work is a stream of the following news channels: BBC News Channel, Sky News, Euronews, France 24, RT, Deutsche Welle, NHK World, CCTV News Channel, New Delhi Television (NDTV), Al Jazeera, Al Arabiya, A24, SABC News, CNN, Fox News Channel, and MSNBC"
 
 
-dimensions_sort: "20000"
-dimensions: 'Dimensions Variable'
+dimensions_sort: "10000"
+dimensions: 'Live Feed'
 
 available: true
-price: ""
+price: "$1,500"
 
 # collaborators:
 #   - {
@@ -51,13 +50,9 @@ visibility: true
 #     ]
 
 support_images: 
-  - "./src/work/anincompletearchiveofayear/test.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_15_img_0.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_02_14_img_1.jpg.print.4x6.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_30_img_4.jpg.print.5x10.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_18_img_1.jpg.print.5x7.jpg"
-  - "./src/work/anincompletearchiveofayear/2020_01_12_img_4.jpg.print.5x7.jpg"
- 
+  - "./src/work/24-hournews/24-hournews-1.png"
+  - "./src/work/24-hournews/24-hournews-2.png"
+  - "./src/work/24-hournews/24-hournews-3.png"
 
 # video:
 #   - ""
