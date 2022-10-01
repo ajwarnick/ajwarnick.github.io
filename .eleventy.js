@@ -111,7 +111,6 @@ async function featuredImage(src, alt){
                   src="${metadata.jpeg[1].url}"
                   width="${metadata.jpeg[1].width}"
                   height="${metadata.jpeg[1].height}"
-                  loading="lazy"
                   decoding="async"
                   alt=${alt}>
           </picture>

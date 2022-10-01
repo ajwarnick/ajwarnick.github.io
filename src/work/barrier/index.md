@@ -7,6 +7,7 @@ warnickNumber: "xx"
 
 tags:
   - work
+  - pada
 
 type: "sculpture"
 year: "2022"

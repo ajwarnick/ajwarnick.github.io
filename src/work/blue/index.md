@@ -7,10 +7,11 @@ warnickNumber: "xx.00.22.003"
 
 tags:
   - work
+  - pada
 
 type: "drawing"
 year: "2022"
-featured_image: "IMG_4380.jpg"
+# featured_image: "IMG_4380.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -29,8 +30,8 @@ description:
   long: ""
 
 
-dimensions_sort: ""
-dimensions: ''
+dimensions_sort: "450"
+dimensions: '30" x 15"'
 
 available: false
 price: "NFS"
@@ -50,10 +51,13 @@ visibility: true
 #     ]
 
 support_images: 
-  - "./src/work/untitled-blue/IMG_4396.jpg"
-  - "./src/work/untitled-blue/IMG_4400.jpg"
-  - "./src/work/untitled-blue/IMG_4422.jpg"
-  - "./src/work/untitled-blue/IMG_4429.jpg"
+  # - "./src/work/blue/IMG_4377.jpg"
+  # - "./src/work/blue/IMG_4380.jpg"
+  # - "./src/work/blue/IMG_4396.jpg"
+  # - "./src/work/blue/IMG_4400.jpg"
+  # - "./src/work/blue/IMG_4422.jpg"
+  # - "./src/work/blue/IMG_4429.jpg"
+
 
 
 # video:

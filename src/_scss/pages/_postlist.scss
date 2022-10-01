@@ -295,6 +295,13 @@ $screen-xl-min: 1px;
         .image{
           display: block !important;
           position: unset;
+
+          &:empty {
+            height: calc(100% - 0.1rem);
+            border: var(--border-size) solid var(--main-color);
+            width: calc(100% - 0.1rem);
+            // margin-top: 1.5rem;
+          }
         }
     
         .image img {

@@ -51,12 +51,12 @@ links:
 support_images: 
   - "./src/work/newsisbreaking/News_Is_Breaking-1.jpeg"
   - "./src/work/newsisbreaking/News_Is_Breaking-2.jpeg"
-  - "./src/work/newsisbreaking/News_Is_Breaking-4.jpeg"
-  - "./src/work/newsisbreaking/News_Is_Breaking-5.jpeg"
-  - "./src/work/newsisbreaking/News_Is_Breaking-6.jpeg"
+#   - "./src/work/newsisbreaking/News_Is_Breaking-4.jpeg"
+#   - "./src/work/newsisbreaking/News_Is_Breaking-5.jpeg"
+#   - "./src/work/newsisbreaking/News_Is_Breaking-6.jpeg"
 
-video:
-  - ""
+# video:
+#   - ""
 
 # audio:
 #   - "/audio/audio.mp3"

@@ -31,31 +31,30 @@
   <ul class="list">
     {% for post in postslist %}
       <li>
+
+          {# <!-- url: {{  post.url  }} --> #}
+          {# <!-- fileSlug: {{  post.fileSlug  }} --> #}
+          {# <!-- filePathStem: {{  post.filePathStem  }} --> #}
+          {# <!-- inputPath: {{  post.inputPath  }} --> #}
+          {# <!-- inputPath: {{  post.inputPath  }} --> #}
+          {# {% if post.data.featured_image %} #}
+            {# {% if './' in post.data.featured_image | string  %} #}
+              {# {% homepageImage post.data.featured_image %} #}
+            {# {% else %} #}
+              {# {% set fullURL = post.url + post.data.featured_image | string %} #}
+              {# {% homepageImage fullURL %} #}
+            {# {% endif %} #}
+          {# {% elif post.data.support_images %} #}
+            {# {% if './' in post.data.support_images[0] | string  %} #}
+              {# {% homepageImage post.data.support_images[0] %} #}
+            {# {% else %} #}
+              {# {% set fullURL =  post.url + post.support_images[0] | string %} #}
+              {# {% homepageImage fullURL %} #}
+            {# {% endif %} #}
+          {# {% endif %} #}
+
         <a href="{{ post.url | url }}">
-          <div class="image">
-             {# <!-- url: {{  post.url  }} --> #}
-             {# <!-- fileSlug: {{  post.fileSlug  }} --> #}
-             {# <!-- filePathStem: {{  post.filePathStem  }} --> #}
-             {# <!-- inputPath: {{  post.inputPath  }} --> #}
-             {# <!-- inputPath: {{  post.inputPath  }} --> #}
-              {% if post.data.featured_image %}
-
-                {% if './' in post.data.featured_image | string  %}
-                  {% homepageImage post.data.featured_image %}
-                {% else %}
-                  {% set fullURL = post.url + post.data.featured_image | string %}
-                  {% homepageImage fullURL %}
-                {% endif %}
-
-              {% elif post.data.support_images %}
-                {% if './' in post.data.support_images[0] | string  %}
-                  {% homepageImage post.data.support_images[0] %}
-                {% else %}
-                  {% set fullURL =  post.url + post.support_images[0] | string %}
-                  {% homepageImage fullURL %}
-                {% endif %}
-              {% endif %}
-          </div>
+          <div class="image">{% if post.data.featured_image %}{% if './' in post.data.featured_image | string%}{% homepageImage post.data.featured_image %}{% else %}{% set fullURL = post.url + post.data.featured_image | string %}{% homepageImage fullURL %}{% endif %}{% elif post.data.support_images %}{% if './' in post.data.support_images[0] | string%}{% homepageImage post.data.support_images[0] %}{% else %}{% set fullURL =post.url + post.support_images[0] | string %}% homepageImage fullURL %}{% endif %}{% endif %}</div>
           <div class="title">{{ post.data.title }}</div>
           <div class="year">{{ post.data.year }}</div>
           <div class="warnickNumber" data-id="1">{{ post.data.warnickNumber }}</div>

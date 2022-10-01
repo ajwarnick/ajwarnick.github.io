@@ -11,7 +11,7 @@
 - Document does not have a meta description
 - Max width for grid view
 
-- Remove lazy load from main work image
+<!-- - Remove lazy load from main work image -->
 - cache policy
 - serve font from same domain???
 
@@ -19,10 +19,10 @@
 
 - Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children.
 
-- Remove auto play on video
-- Consider marking your touch and wheel event listeners as passive to improve your page's scroll performance. (PLYR ISSUE)
+<!-- - Remove auto play on video -->
+<!-- - Consider marking your touch and wheel event listeners as passive to improve your page's scroll performance. (PLYR ISSUE) -->
 
-- <frame> or <iframe> elements do not have a title
+<!-- - <frame> or <iframe> elements do not have a title -->
 
 - Links do not have a discernible name
 
