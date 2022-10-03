@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Mueller Report (After Jenny Holzer) (For Kazimir Malevich)
 slug: muellerreport
-warnickNumber: "xx.00.22.003"
+warnickNumber: "19.11::PRT:89:E.ULTD"
 
 tags:
   - work

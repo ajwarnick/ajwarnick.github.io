@@ -1,23 +1,22 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: Untitled (Gereen)
-slug: green
-warnickNumber: "22.11::SCPT:21"
+title: Newscape
+slug: newscape
+warnickNumber: "22.02::DGT:65"
 
 tags:
   - work
-  - pada
 
-type: "sculpture"
+type: "Website"
 year: "2022"
-featured_image: "IMG_4440.jpg"
+featured_image: ""
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Cardboard"
-  - "Acrylic Paint"
+  - "Custom Software"
+  - "New York Times Images"
 
 # edition: 
 #   number: 
@@ -30,9 +29,9 @@ description:
   short: ""
   long: ""
 
-# 6 feet x 8 feet x 14 inches
-dimensions_sort: "62208"
-dimensions: 'Dimensions Variable'
+
+dimensions_sort: "2000"
+dimensions: 'Dimensions Variable '
 
 available: true
 price: ""
@@ -51,12 +50,11 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-support_images: 
-  - "./src/work/green/IMG_4466.jpg"
-  - "./src/work/green/IMG_4441.jpg"  
-  - "./src/work/green/IMG_4440.jpg"
-  - "./src/work/green/IMG_4432.jpg"
-
+# support_images: 
+#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
+#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
+#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
+#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
 
 # video:
 #   - ""

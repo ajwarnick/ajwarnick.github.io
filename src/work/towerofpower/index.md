@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Tower of Power
 slug: towerofpower
-warnickNumber: "xx"
+warnickNumber: "22.05::SCPT:49"
 
 tags:
   - work

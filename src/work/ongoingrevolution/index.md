@@ -3,10 +3,11 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Ongoing Revolution
 slug: ongoingrevolution
-warnickNumber: "xx.00.22.003"
+warnickNumber: "22.08::SCPT:32"
 
 tags:
   - work
+  - pada
 
 type: "sculpture"
 year: "2022"

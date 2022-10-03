@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: "The Just Is Nothing Else Than The Advantage Of The Stronger"
 slug: thejustisnothingelsethantheadvantageofthestronger
-warnickNumber: "xx.00.22.003"
+warnickNumber: "19.10::SCPT:54"
 
 tags:
   - work

@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: "15 24-Hour News Sources"
 slug: 24-hournews
-warnickNumber: "xx.00.22.003"
+warnickNumber: "19.01::VID:71"
 
 tags:
   - work

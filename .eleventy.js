@@ -301,6 +301,8 @@ module.exports = function(eleventyConfig) {
         return [...tagSet];
     });
 
+
+
     eleventyConfig.addCollection("worksByYear", function (collection) {
         const itemsPerPage = 5;
         let blogpostsByCategories = []; // The Big Fish
@@ -445,6 +447,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addCollection("news", function(collectionApi) {
         return collectionApi.getFilteredByGlob("src/news/*");
     });
+
+    
 
     eleventyConfig.addPassthroughCopy("img");
     // eleventyConfig.addPassthroughCopy('js');

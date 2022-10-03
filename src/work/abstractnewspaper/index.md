@@ -3,7 +3,7 @@ layout: layouts/work.njk
 permalink: work/abstractnewspaper/index.html
 title: Abstract Newspaper
 slug: abstractnewspaper
-warnickNumber: "00.00.00.xx"
+warnickNumber: "21.16::SCPT:65"
 tags:
   - work
 

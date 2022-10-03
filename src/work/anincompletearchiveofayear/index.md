@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: An Incomplete Archive Of A Year
 slug: anincompletearchiveofayear
-warnickNumber: "xx.00.22.003"
+warnickNumber: "20.01::PH:73"
 
 tags:
   - work

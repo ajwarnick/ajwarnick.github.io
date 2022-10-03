@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Untitled (Blue)
 slug: blue
-warnickNumber: "xx.00.22.003"
+warnickNumber: "22.07::TEX:58"
 
 tags:
   - work

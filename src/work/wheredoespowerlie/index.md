@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Where Does Power Lie?
 slug: wheredoespowerlie
-warnickNumber: "xx.00.22.003"
+warnickNumber: "19.02::PRT:50"
 
 tags:
   - work

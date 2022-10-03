@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Letter Station
 slug: letterstation
-warnickNumber: "xx.00.22.003"
+warnickNumber: "21.13::SND:39"
 
 tags:
   - work

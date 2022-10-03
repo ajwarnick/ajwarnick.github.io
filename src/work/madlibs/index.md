@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Madlibs
 slug: madlibs
-warnickNumber: "xx.00.22.003"
+warnickNumber: "21.14::PRT:58:E.ULTD"
 
 tags:
   - work

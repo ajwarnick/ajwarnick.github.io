@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Unnatural Deeds Do Breed Unnatural Troubles
 slug: unnaturaldeedsdobreedunnaturaltroubles
-warnickNumber: "xx.00.22.003"
+warnickNumber: " 19.09::SCPT:91"
 
 tags:
   - work

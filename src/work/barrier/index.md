@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Barreira União Fabril
 slug: barrier
-warnickNumber: "xx"
+warnickNumber: "22.11::SCPT:44"
 
 tags:
   - work

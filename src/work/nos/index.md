@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: Nós
 slug: nos
-warnickNumber: "xx.00.22.003"
+warnickNumber: "22.09::SCPT:44"
 
 tags:
   - work

@@ -3,7 +3,7 @@ layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
 title: "Secrets Obscured Through Language #3"
 slug: secretsobscuredthroughlanguage
-warnickNumber: 
+warnickNumber: "19.15::DWG:03"
 
 tags:
   - work
