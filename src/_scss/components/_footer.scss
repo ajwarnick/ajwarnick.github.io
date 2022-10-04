@@ -165,7 +165,7 @@
   
 .footer .filters{
     position: fixed;
-    bottom: 0;
+    bottom: -1rem;
     left: var(--padding);
     right: var(--padding);
     grid-template-columns: 1fr 1fr 1fr;

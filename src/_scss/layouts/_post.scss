@@ -4,7 +4,7 @@
 
   display: grid;
   grid-template-columns: 4fr 4fr 4fr;
-  gap: var(--gap);
+  gap: calc(var(--gap) * 2);
   
   @media screen and (min-width: 750px) and (max-width: 1150px) {
       grid-template-columns: 6fr 6fr;
@@ -12,6 +12,7 @@
   
   @media screen and (max-width: 750px) {
       grid-template-columns: 1fr;
+      gap: calc(var(--gap) * 3);
   }
 }  
   .news .news__item {

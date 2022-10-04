@@ -2,6 +2,7 @@
 
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="blue">
 <meta name="theme-color" media="(prefers-color-scheme: dark)"  content="black">
+<meta name=”robots” content="index, follow">
 
 <link rel="icon" type="image/x-icon” href="/favicon.ico" sizes="any" />
 <link rel="manifest" href="/manifest.json">
@@ -10,6 +11,7 @@
 <meta property="og:title" content="{% if title.length %} {{ title }} {% else %} Works {% endif %}" />
 <meta property="og:site_name" content="Anthony Warnick" />
 <meta property="og:description" content="{% if description.short.length %}{{ description.short }}{% else %}{{ site.description }}{% endif %}"/>
+<meta name="description" content="{% if description.short.length %}{{ description.short }}{% else %}{{ site.description }}{% endif %}" />
 
 {% if featured_image %} 
     {% set myURL = featured_image | string %}

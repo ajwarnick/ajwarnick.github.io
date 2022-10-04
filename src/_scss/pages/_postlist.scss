@@ -30,7 +30,7 @@ $screen-xl-min: 1px;
       line-height: 1.1rem;
       display: grid;
       border-bottom: var(--border-size) solid var(--main-color);
-      grid-template-columns: 3fr 6ch 1fr 2fr 2fr 12ch;
+      grid-template-columns: 3fr 6ch 2fr 2fr 2fr 12ch;
       grid-gap: 1rem;
       padding: 1rem 1rem;
 
@@ -41,10 +41,12 @@ $screen-xl-min: 1px;
 
       @media (max-width: $screen-sm-max) { 
         grid-template-columns: 3fr 6ch 2fr 2fr;
+        top: calc(var(--border-size) + var(--gap) + 2rem);
       }
 
       @media (max-width: $screen-xs-max) { 
         grid-template-columns: 3fr 6ch 2fr;
+        top: calc(var(--border-size) + var(--gap) + 2rem);
       }
     }
 
@@ -101,7 +103,7 @@ $screen-xl-min: 1px;
       text-align: left;
     
       display: grid;
-      grid-template-columns: 3fr 6ch 1fr 2fr 2fr 12ch;
+      grid-template-columns: 3fr 6ch 2fr 2fr 2fr 12ch;
       grid-gap: 1rem;
 
       
@@ -170,6 +172,10 @@ $screen-xl-min: 1px;
     
     li:hover .image {
       display: block !important;
+
+      @media screen and (max-width: 600px) {
+        display: none !important;
+      }
     }
 
     .year {
@@ -302,6 +308,12 @@ $screen-xl-min: 1px;
             width: calc(100% - 0.1rem);
             // margin-top: 1.5rem;
           }
+        }
+
+        .image:empty + .title{
+          display: block;
+          position: absolute;
+          padding: 1rem;
         }
     
         .image img {

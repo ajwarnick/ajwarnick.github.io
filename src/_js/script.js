@@ -34,14 +34,12 @@ let workList = new List("work-list", options);
     // let works = document.querySelectorAll("list li")
     document.querySelectorAll(".list li").forEach(function (obj) {
       let img = obj.querySelector(".image");
-      console.log({img});
       let x = getRandomInt(window.innerWidth - img.offsetWidth);
       let y = getRandomInt(window.innerHeight - img.offsetHeight);
 
       img.style.display = "none";
       img.style.top = y + "px";
       img.style.left = x + "px";
-
     });
   }
 })();
