@@ -1,38 +1,39 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: News Is Breaking
-slug: newsisbreaking
-warnickNumber: "21.07::SCPT:65"
+title: Infinite Sleep
+slug: infinitesleep
+warnickNumber: "18.03::SCPT:03"
+
 tags:
   - work
+  - w2s
 
-type: sculpture
-year: "2021"
-featured_image: "News_Is_Breaking-3.jpeg"
+type: "sculpture"
+year: "2018"
+featured_image: "_MG_9825.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Clear acrylic"
-  - "Galvanized Steel"
+  - "Prisoner Produced Pillows"
 
 # edition: 
 #   number: 
 #   proofs: 
 #   limitless: true
 
-color: '#FF0000'
+# color: ''
+
 description:
-  short: Public sculpture currently installed at Wassaic Project Wassaic, NY. 
-  long: Public sculpture made of clear acrylic currently installed at Wassaic Project Wassaic, NY. I think about the news as a lens through which we view the world, and the world as a backdrop to the events we live through. In the studio, I play with words as often as objects, and this billboard plays with how the attention economy has broken our consideration of information.
+  short: "A pillar created from 32 textured vinyl covered pillows produced by and for those incarcerated."
+  long: "'Infinite Sleep' consists of an eleven foot pillar mimicking Brâncuși's Endless Column created from 32 textured vinyl pillows. Those incarcerated at Allen-Oakwood Correctional Institution in Lima, Ohio manufactured these pillows for use by other prisoners in the state of Ohio. This work is a continuation of my engagement with charged materials generally and the prison industrial complex specifically, and exemplifies my use of physical presence to engage the viewer both conceptually and phenomenologically."
 
-
-dimensions_sort: "18000"
-dimensions: '120” x 50” x 3”'
+dimensions_sort: "49368"
+dimensions: '132" x 17" x 22"'
 
 available: true
-price: "$4,000"
+price: "NFS"
 
 # collaborators:
 #   - {
@@ -42,18 +43,18 @@ price: "$4,000"
 
 visibility: true
 
-links:
-  - [
-      "Public Art in Wassaic",
-      "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-    ]
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
 
 support_images: 
-  - "./src/work/newsisbreaking/News_Is_Breaking-1.jpeg"
-  - "./src/work/newsisbreaking/News_Is_Breaking-2.jpeg"
-#   - "./src/work/newsisbreaking/News_Is_Breaking-4.jpeg"
-#   - "./src/work/newsisbreaking/News_Is_Breaking-5.jpeg"
-#   - "./src/work/newsisbreaking/News_Is_Breaking-6.jpeg"
+  - "./src/work/infinitesleep/_MG_9833.jpg"
+  - "./src/work/infinitesleep/_MG_9831.jpg"
+  - "./src/work/infinitesleep/_MG_9827.jpg"
+  - "./src/work/infinitesleep/_MG_9825-2.jpg"
+
 
 # video:
 #   - ""
@@ -73,10 +74,10 @@ support_images:
 #     link: "/img/61_1-warnick-greece-show.jpg"
 #   }
 
-location: "Wassaic, NY"
+# location: ""
 
-collection:
- - "Walker Art Center"
+# collection:
+#  - ""
 
 # exhibitions:
 #   - {

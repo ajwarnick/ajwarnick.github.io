@@ -1,23 +1,12 @@
-- Footer on mobile 
-- padding for Footer all pages
-- post text size mobile 
-- spacing news post grouping page mobile 
 - document work flow (with and without node_modules)
-- image url issues??
-- place holder if no featured image grid view
 
 - Deal with smaller images
 ----------------------------------------------------------
-- Document does not have a meta description
 - Max width for grid view
 
 <!-- - Remove lazy load from main work image -->
 - cache policy
 - serve font from same domain???
-
-- [aria-*] attributes do not match their roles
-
-- Elements with an ARIA [role] that require children to contain a specific [role] are missing some or all of those required children.
 
 <!-- - Remove auto play on video -->
 <!-- - Consider marking your touch and wheel event listeners as passive to improve your page's scroll performance. (PLYR ISSUE) -->

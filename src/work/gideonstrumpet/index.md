@@ -1,38 +1,41 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: News Is Breaking
-slug: newsisbreaking
-warnickNumber: "21.07::SCPT:65"
+title: Gideon's Trumpet
+slug: gideonstrumpet
+warnickNumber: "18.06:PRT:43"
+
 tags:
   - work
+  - w2s
 
-type: sculpture
-year: "2021"
-featured_image: "News_Is_Breaking-3.jpeg"
+type: "print"
+year: "2018"
+featured_image: "_MG_9783-Edit_crop.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Clear acrylic"
-  - "Galvanized Steel"
+  - "Bond Paper"
+  - "Toner"
 
 # edition: 
 #   number: 
 #   proofs: 
 #   limitless: true
 
-color: '#FF0000'
+# color: ''
+
 description:
-  short: Public sculpture currently installed at Wassaic Project Wassaic, NY. 
-  long: Public sculpture made of clear acrylic currently installed at Wassaic Project Wassaic, NY. I think about the news as a lens through which we view the world, and the world as a backdrop to the events we live through. In the studio, I play with words as often as objects, and this billboard plays with how the attention economy has broken our consideration of information.
+  short: ""
+  long: ""
 
 
-dimensions_sort: "18000"
-dimensions: '120” x 50” x 3”'
+dimensions_sort: "3696"
+dimensions: '24 @ 11" x 14" (each)'
 
 available: true
-price: "$4,000"
+price: ""
 
 # collaborators:
 #   - {
@@ -42,18 +45,15 @@ price: "$4,000"
 
 visibility: true
 
-links:
-  - [
-      "Public Art in Wassaic",
-      "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-    ]
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
 
 support_images: 
-  - "./src/work/newsisbreaking/News_Is_Breaking-1.jpeg"
-  - "./src/work/newsisbreaking/News_Is_Breaking-2.jpeg"
-#   - "./src/work/newsisbreaking/News_Is_Breaking-4.jpeg"
-#   - "./src/work/newsisbreaking/News_Is_Breaking-5.jpeg"
-#   - "./src/work/newsisbreaking/News_Is_Breaking-6.jpeg"
+  - "./src/work/gideonstrumpet/_MG_9790.jpg"
+  - "./src/work/gideonstrumpet/_MG_9778.jpg"
 
 # video:
 #   - ""
@@ -73,10 +73,10 @@ support_images:
 #     link: "/img/61_1-warnick-greece-show.jpg"
 #   }
 
-location: "Wassaic, NY"
+# location: ""
 
-collection:
- - "Walker Art Center"
+# collection:
+#  - ""
 
 # exhibitions:
 #   - {
