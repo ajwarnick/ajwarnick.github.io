@@ -1,39 +1,37 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: Madlibs
-slug: madlibs
-warnickNumber: "21.14::PRT:58:E.ULTD"
+title: withinthiszonestatesofexceptionloseallpower
+slug: withinthiszonestatesofexceptionloseallpower
+warnickNumber: 19.11::DWG:32
 
 tags:
   - work
   - billings
 
-type: "print"
-year: "2021"
-featured_image: "madlib_2.jpg"
+type: "drawing"
+year: "2018"
+featured_image: "_DSC7859.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Custom Software"
-  - "Toner"
-  - "Bond Paper"
+  - "Powdered Graphite"
 
-edition: 
+# edition: 
 #   number: 
 #   proofs: 
-  limitless: true
+#   limitless: true
 
 # color: ''
 
 description:
-  short: "Unique limitless takeaways germinated by a piece of custom software written to scrape the New York Times for headlines and convert them to Madlibs"
-  long: "Unique limitless takeaways germinated by a piece of custom software written to scrape the New York Times for headlines and convert them to Madlibs"
+  short: "A powdered graphite drawing on the floor of the gallery that was slowly destroyed by the movement of viewers."
+  long: "A powdered graphite drawing on the floor of the gallery that was slowly destroyed by the movement of viewers."
 
 
-dimensions_sort: "187"
-dimensions: '11” x 17”'
+dimensions_sort: "6912"
+dimensions: '96” x 72”'
 
 available: true
 price: ""
@@ -46,15 +44,16 @@ price: ""
 
 visibility: true
 
-links:
-  - [
-      "Live generated Mad Libs",
-      "http://projectspace.anthonywarnick.com/madlibs/",
-    ]
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
 
 support_images: 
-  - "./src/work/madlibs/madlib_1.png"
-#   - "./src/work/madlibs/madlib_3.jpg"
+  - "./src/work/withinthiszonestatesofexceptionloseallpower/_DSC7759.jpg"
+  - "./src/work/withinthiszonestatesofexceptionloseallpower/_DSC7846.jpg"
+  - "./src/work/withinthiszonestatesofexceptionloseallpower/_DSC8040.jpg"
 
 # video:
 #   - ""

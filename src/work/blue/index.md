@@ -16,7 +16,7 @@ featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "tarpaulin"
+  - "Tarpaulin"
 
 # edition: 
 #   number: 
