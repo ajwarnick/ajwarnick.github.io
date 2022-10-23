@@ -126,12 +126,10 @@ async function supportImage(src){
     }
 
     let metadata = await Image(result, {
-        widths: [600, 1800],
+        widths: [600, 1800, null],
         formats: ["avif", "webp", "jpeg"],
         outputDir: "_site/img",
     });
-
-    // return JSON.stringify(metadata);
 
     // todo: make lightbox work with advanced image formates
     return `<a href="${metadata.jpeg[1].url}" 

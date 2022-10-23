@@ -1,22 +1,22 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: Newscape
-slug: newscape
-warnickNumber: "22.02::DGT:65"
+title: One Hundred And Fifty More
+slug: onehundredandfiftymore
+warnickNumber: 17.09::DGT:80
 
 tags:
   - work
+  - augsburg
 
 type: "website"
-year: "2022"
-featured_image: ""
+year: "2017"
+featured_image: "screenshot2022-10-22at6.06.44pm.png"
 featured_audio: ""
 featured_video: ""
 
 materials: 
   - "Custom Software"
-  - "New York Times Images"
 
 # edition: 
 #   number: 
@@ -26,15 +26,15 @@ materials:
 # color: ''
 
 description:
-  short: ""
-  long: ""
+  short: "The film, The Defiant Ones (1968) slowed down so that it will take 150 years to play through. This is packaged as a custom application that plays only where we are in the film."
+  long: "The film, The Defiant Ones (1968) slowed down so that it will take 150 years to play through. This is packaged as a custom application that plays only where we are in the film."
 
 
-dimensions_sort: "2000"
-dimensions: 'Dimensions Variable '
+dimensions_sort: "1500000"
+dimensions: '150 Years'
 
 available: true
-price: ""
+price: "NSF"
 
 # collaborators:
 #   - {
@@ -52,12 +52,12 @@ visibility: true
 
 # support_images: 
 #   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
-#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
 
 # video:
-#   - ""
+#   - {
+#     video: "https://iframe.mediadelivery.net/embed/21069/51283ab6-8f4c-40b8-9d03-58ac4d71df9c",
+#     thumb: "https://vz-6d76e30c-3d3.b-cdn.net/51283ab6-8f4c-40b8-9d03-58ac4d71df9c/thumbnail.jpg",
+#   }
 
 # audio:
 #   - "/audio/audio.mp3"

@@ -1,40 +1,40 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: Newscape
-slug: newscape
-warnickNumber: "22.02::DGT:65"
+title: Mal d'Archive
+slug: maldarchive
+warnickNumber: 18.07::PERF:14
 
 tags:
   - work
 
-type: "website"
-year: "2022"
-featured_image: ""
+type: "performance"
+year: "2018"
+featured_image: "IMG_9157.jpg"
 featured_audio: ""
-featured_video: ""
+featured_video: "https://iframe.mediadelivery.net/embed/21069/ecbd45ba-81b1-44c6-82e7-98b7eb9e6a18"
 
 materials: 
-  - "Custom Software"
-  - "New York Times Images"
+  - "Court Records"
+  - "Fire"
 
-# edition: 
-#   number: 
-#   proofs: 
+edition: 
+  number: 3
+  proofs: 1
 #   limitless: true
 
 # color: ''
 
 description:
-  short: ""
-  long: ""
+  short: "The perforative burning of a stolen court records"
+  long: "The performances are gestures intended to express an idea through the insertion of bodies into systems. For example, the perforative burning of a stolen prisoner records as in Mal d’Archive. Resulting in a rumination on what condemns, is it the judge or the archive? The work is both object and performance."
 
 
-dimensions_sort: "2000"
-dimensions: 'Dimensions Variable '
+dimensions_sort: "300"
+dimensions: '00:00:44'
 
 available: true
-price: ""
+price: "NFS"
 
 # collaborators:
 #   - {
@@ -50,11 +50,9 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-# support_images: 
-#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
-#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
+support_images: 
+  - "./src/work/maldarchive/IMG_9157.jpg"
+  - "./src/work/maldarchive/IMG_9160.jpg"
 
 # video:
 #   - ""

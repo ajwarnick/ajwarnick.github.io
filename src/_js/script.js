@@ -95,7 +95,6 @@ let workList = new List("work-list", options);
 })();
 
 
-
 // 
 // 
 // Lightbox

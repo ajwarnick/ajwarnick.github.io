@@ -52,12 +52,12 @@ visibility: true
 
 # support_images: 
 #   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
-#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
 
 # video:
-#   - ""
+#   - {
+#     video: "https://iframe.mediadelivery.net/embed/21069/51283ab6-8f4c-40b8-9d03-58ac4d71df9c",
+#     thumb: "https://vz-6d76e30c-3d3.b-cdn.net/51283ab6-8f4c-40b8-9d03-58ac4d71df9c/thumbnail.jpg",
+#   }
 
 # audio:
 #   - "/audio/audio.mp3"

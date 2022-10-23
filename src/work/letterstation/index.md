@@ -8,7 +8,7 @@ warnickNumber: "21.13::SND:39"
 tags:
   - work
 
-type: "Sound"
+type: "sound"
 year: "2021"
 featured_image: "letterstation.jpg"
 featured_audio: ""

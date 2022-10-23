@@ -9,9 +9,9 @@ tags:
   - work
   - pada
 
-type: "drawing"
+type: "sculpture"
 year: "2022"
-# featured_image: "IMG_4380.jpg"
+featured_image: "IMG_4380.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -51,12 +51,12 @@ visibility: true
 #     ]
 
 support_images: 
-  # - "./src/work/blue/IMG_4377.jpg"
-  # - "./src/work/blue/IMG_4380.jpg"
-  # - "./src/work/blue/IMG_4396.jpg"
-  # - "./src/work/blue/IMG_4400.jpg"
-  # - "./src/work/blue/IMG_4422.jpg"
-  # - "./src/work/blue/IMG_4429.jpg"
+  - "./src/work/blue/IMG_4377.jpg"
+  - "./src/work/blue/IMG_4380.jpg"
+  - "./src/work/blue/IMG_4396.jpg"
+  - "./src/work/blue/IMG_4400.jpg"
+  - "./src/work/blue/IMG_4422.jpg"
+  - "./src/work/blue/IMG_4429.jpg"
 
 
 

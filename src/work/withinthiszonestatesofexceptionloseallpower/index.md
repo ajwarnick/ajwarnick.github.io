@@ -8,6 +8,7 @@ warnickNumber: 19.11::DWG:32
 tags:
   - work
   - billings
+  - augsburg
 
 type: "drawing"
 year: "2018"

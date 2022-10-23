@@ -1,22 +1,22 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: Newscape
-slug: newscape
-warnickNumber: "22.02::DGT:65"
+title: To Say Something Is Always To Do Something
+slug: tosaysomethingisalwaystodosomething
+warnickNumber: 18.05::DGT:38
 
 tags:
   - work
+  - w2s
 
-type: "website"
-year: "2022"
-featured_image: ""
+type: "generative"
+year: "2018"
+featured_image: "MVI_9881-0001.png"
 featured_audio: ""
-featured_video: ""
+featured_video: "https://iframe.mediadelivery.net/embed/21069/32ecfcf0-98f8-4b5a-bb8e-c8e83960bbcd?"
 
 materials: 
   - "Custom Software"
-  - "New York Times Images"
 
 # edition: 
 #   number: 
@@ -30,8 +30,8 @@ description:
   long: ""
 
 
-dimensions_sort: "2000"
-dimensions: 'Dimensions Variable '
+dimensions_sort: ""
+dimensions: 'Dementions Variable'
 
 available: true
 price: ""
@@ -50,14 +50,18 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-# support_images: 
-#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
-#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
+support_images: 
+  - "./src/work/tosaysomethingisalwaystodosomething/_MG_9879.jpg"
 
-# video:
-#   - ""
+video:
+  - {
+    video: "https://iframe.mediadelivery.net/embed/21069/51283ab6-8f4c-40b8-9d03-58ac4d71df9c",
+    thumb: "https://vz-6d76e30c-3d3.b-cdn.net/51283ab6-8f4c-40b8-9d03-58ac4d71df9c/thumbnail.jpg",
+  }
+  - {
+    video: "https://iframe.mediadelivery.net/embed/21069/32ecfcf0-98f8-4b5a-bb8e-c8e83960bbcd",
+    thumb: "https://vz-6d76e30c-3d3.b-cdn.net/32ecfcf0-98f8-4b5a-bb8e-c8e83960bbcd/thumbnail.jpg",
+  }
 
 # audio:
 #   - "/audio/audio.mp3"

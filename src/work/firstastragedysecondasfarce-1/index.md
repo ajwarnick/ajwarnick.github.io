@@ -1,22 +1,22 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: Newscape
-slug: newscape
-warnickNumber: "22.02::DGT:65"
+title: "First As Tragedy, Second As Farce (Work Still #1)"
+slug: firstastragedysecondasfarce1
+warnickNumber: 18.12::PH:83
 
 tags:
   - work
+  - augsburg
 
-type: "website"
-year: "2022"
+type: "photography"
+year: "2018"
 featured_image: ""
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Custom Software"
-  - "New York Times Images"
+  - "Archival Pigment Print"
 
 # edition: 
 #   number: 
@@ -30,8 +30,8 @@ description:
   long: ""
 
 
-dimensions_sort: "2000"
-dimensions: 'Dimensions Variable '
+dimensions_sort: "2772"
+dimensions: '44" x 63"'
 
 available: true
 price: ""
@@ -52,12 +52,12 @@ visibility: true
 
 # support_images: 
 #   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
-#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
 
 # video:
-#   - ""
+#   - {
+#     video: "https://iframe.mediadelivery.net/embed/21069/51283ab6-8f4c-40b8-9d03-58ac4d71df9c",
+#     thumb: "https://vz-6d76e30c-3d3.b-cdn.net/51283ab6-8f4c-40b8-9d03-58ac4d71df9c/thumbnail.jpg",
+#   }
 
 # audio:
 #   - "/audio/audio.mp3"

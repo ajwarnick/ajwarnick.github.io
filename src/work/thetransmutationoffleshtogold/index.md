@@ -1,22 +1,22 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: Newscape
-slug: newscape
-warnickNumber: "22.02::DGT:65"
+title: The Transmutation Of Flesh To Gold
+slug: thetransmutationoffleshtogold
+warnickNumber: 18.02::SCPT:675
 
 tags:
   - work
+  - w2s
 
-type: "website"
-year: "2022"
-featured_image: ""
+type: "sculpture"
+year: "2018"
+featured_image: "_MG_9839.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Custom Software"
-  - "New York Times Images"
+  - "Offset Prints Produced by those incaerated at Pickaway Correctional Institution"
 
 # edition: 
 #   number: 
@@ -26,15 +26,15 @@ materials:
 # color: ''
 
 description:
-  short: ""
-  long: ""
+  short: "A stack of $100 dollar bills equal to the $162,510,000, the profits for Correction Corporation of America for 2017"
+  long: "A stack of $100 dollar bills equal to the $162,510,000, the profits for Correction Corporation of America for 2017"
 
 
-dimensions_sort: "2000"
-dimensions: 'Dimensions Variable '
+dimensions_sort: "110592"
+dimensions: 'Dimensions Variable'
 
 available: true
-price: ""
+price: "NFS"
 
 # collaborators:
 #   - {
@@ -50,11 +50,9 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-# support_images: 
-#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
-#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
+support_images: 
+  - "./src/work/thetransmutationoffleshtogold/_MG_9841.jpg"
+  - "./src/work/thetransmutationoffleshtogold/_MG_9837.jpg"
 
 # video:
 #   - ""
