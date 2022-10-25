@@ -11,7 +11,7 @@ tags:
 
 type: "photography"
 year: "2018"
-featured_image: ""
+featured_image: "augsburg-15.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -33,8 +33,21 @@ description:
 dimensions_sort: "2772"
 dimensions: '44" x 63"'
 
-available: true
-price: ""
+available: false
+price: "NFS"
+
+support_images: 
+  - "./src/work/firstastragedysecondasfarce-2/augsburg-16.jpg"
+  - "./src/work/firstastragedysecondasfarce-2/augsburg-115.jpg"
+
+# video:
+#   - {
+#     video: "https://iframe.mediadelivery.net/embed/21069/51283ab6-8f4c-40b8-9d03-58ac4d71df9c",
+#     thumb: "https://vz-6d76e30c-3d3.b-cdn.net/51283ab6-8f4c-40b8-9d03-58ac4d71df9c/thumbnail.jpg",
+#   }
+
+# audio:
+#   - "/audio/audio.mp3"
 
 # collaborators:
 #   - {
@@ -48,19 +61,7 @@ visibility: true
 #   - [
 #       "Public Art in Wassaic",
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-#     ]
-
-# support_images: 
-#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
-
-# video:
-#   - {
-#     video: "https://iframe.mediadelivery.net/embed/21069/51283ab6-8f4c-40b8-9d03-58ac4d71df9c",
-#     thumb: "https://vz-6d76e30c-3d3.b-cdn.net/51283ab6-8f4c-40b8-9d03-58ac4d71df9c/thumbnail.jpg",
-#   }
-
-# audio:
-#   - "/audio/audio.mp3"
+#   
 
 # assets: 
 #   - {

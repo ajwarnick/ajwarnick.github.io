@@ -53,6 +53,7 @@ visibility: true
 support_images: 
   - "./src/work/thetransmutationoffleshtogold/_MG_9841.jpg"
   - "./src/work/thetransmutationoffleshtogold/_MG_9837.jpg"
+  - "./src/work/thetransmutationoffleshtogold/money-1-2.jpg"
 
 # video:
 #   - ""

@@ -27,8 +27,8 @@ materials:
 # color: ''
 
 description:
-  short: ""
-  long: ""
+  short: "24 frames removed from the film Gideon's Trumpet covering the second during which Clarence Earl Gideon is sentneced to Gideon five years in the state prison. This moment of <i>performative language</i> changed his life simply because he was poor. Clarence Earl Gideon's case eveturally made it to the Supreme Court and was pivitol in establishing a right to representation regardless of wealth."
+  long: "24 frames removed from the film Gideon's Trumpet covering the second during which Clarence Earl Gideon is sentneced to Gideon five years in the state prison. This moment of <i>performative language</i> changed his life simply because he was poor. Clarence Earl Gideon's case eveturally made it to the Supreme Court and was pivitol in establishing a right to representation regardless of wealth."
 
 
 dimensions_sort: "3696"

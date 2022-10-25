@@ -10,7 +10,7 @@ tags:
 
 type: "website"
 year: "2022"
-featured_image: ""
+featured_image: "Newscape-1.png"
 featured_audio: ""
 featured_video: ""
 
@@ -36,6 +36,11 @@ dimensions: 'Dimensions Variable '
 available: true
 price: ""
 
+support_images: 
+  - "./src/work/newscape/Newscape-3.png"
+  - "./src/work/newscape/Newscape-2.png"
+  - "./src/work/newscape/Newscape-4.png"
+
 # collaborators:
 #   - {
 #     name: "Danni O'Brien",
@@ -50,11 +55,7 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-# support_images: 
-#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_3.jpg"
-#   - "./src/work/criamosoquenaotemos/criamos_4.jpg"
-#   - "./src/work/criamosoquenaotemos/takeaway.jpg"
+
 
 # video:
 #   - ""

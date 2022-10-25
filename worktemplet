@@ -16,7 +16,6 @@ featured_video: ""
 
 materials: 
   - ""
-  - ""
 
 # edition: 
 #   number: 
@@ -29,29 +28,16 @@ description:
   short: ""
   long: ""
 
-
 dimensions_sort: ""
 dimensions: ''
 
 available: true
 price: ""
 
-# collaborators:
-#   - {
-#     name: "Danni O'Brien",
-#     link: "http://www.danielleobrienart.com/"
-#   }
-
 visibility: true
 
-# links:
-#   - [
-#       "Public Art in Wassaic",
-#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-#     ]
-
 # support_images: 
-#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
+#   - "./"
 
 # video:
 #   - {
@@ -74,10 +60,23 @@ visibility: true
 #     link: "/img/61_1-warnick-greece-show.jpg"
 #   }
 
+# collaborators:
+#   - {
+#     name: "Danni O'Brien",
+#     link: "http://www.danielleobrienart.com/"
+#   }
+
+
 # location: ""
 
 # collection:
 #  - ""
+
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
 
 # exhibitions:
 #   - {

@@ -14,7 +14,7 @@ featured_audio: ""
 featured_video: "https://iframe.mediadelivery.net/embed/21069/e5df2630-7c05-485d-94a8-a9d2f368a6ca?autoplay=true"
 
 materials: 
-  - "Video (color, sound)"
+  - "Video (Color, Sound)"
 
 # edition: 
 #   number: 

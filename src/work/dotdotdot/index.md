@@ -12,8 +12,11 @@ year: "2021"
 featured_image: "dotdotdot.jpeg"
 featured_audio: ''
 featured_video: https://iframe.mediadelivery.net/embed/21069/c1759cf6-8c17-4d3e-ae9c-abe7519c7d26?autoplay=true
+
 materials:
-- "Video (color, sound)"
+ - "Video (Color, Sound)"
+
+
 color: "#FF0000"
 description:
   short: '21 second excerpt (HD Video), full length 58 minutes 24 seconds three channel presentation of Fox News Primetime from August 28, 2021.'

@@ -11,7 +11,7 @@ tags:
 
 type: "photography"
 year: "2018"
-featured_image: ""
+featured_image: "augsburg-78.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -33,25 +33,16 @@ description:
 dimensions_sort: "2772"
 dimensions: '44" x 63"'
 
-available: true
-price: ""
-
-# collaborators:
-#   - {
-#     name: "Danni O'Brien",
-#     link: "http://www.danielleobrienart.com/"
-#   }
+available: false
+price: "NFS"
 
 visibility: true
 
-# links:
-#   - [
-#       "Public Art in Wassaic",
-#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-#     ]
 
-# support_images: 
-#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
+support_images: 
+  - "./src/work/firstastragedysecondasfarce-1/augsburg-6.jpg"
+  - "./src/work/firstastragedysecondasfarce-1/augsburg-116.jpg"
+
 
 # video:
 #   - {
@@ -72,6 +63,18 @@ visibility: true
 #     type: "image",
 #     title: "Image from Greace",
 #     link: "/img/61_1-warnick-greece-show.jpg"
+#   }
+
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
+
+# collaborators:
+#   - {
+#     name: "Danni O'Brien",
+#     link: "http://www.danielleobrienart.com/"
 #   }
 
 # location: ""

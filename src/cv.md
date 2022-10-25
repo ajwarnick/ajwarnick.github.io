@@ -10,9 +10,13 @@ anthony@anthonywarnick.com
 
 ## Exhibitions
 
+### 2023
+_AOVx_ at Minnesota Museum of American Art, St. Paul, MN (_Forthcoming_)
+
 ### 2022
-*AOVx* at Minnesota Museum of American Art, St. Paul, MN (*Forthcoming*)  
-*Color* at CICA Museum, Gimpo-si, Gyeonggi-do, Korea (*Forthcoming*)  
+_A Changing World_, ImageOHIO (FotoFocus 2022 Biennial), Columbus, OH  
+_034_, PADA, Barreiro, Portugal  
+*Color* at CICA Museum, Gimpo-si, Gyeonggi-do, Korea  
 [*Salina Biennial*](https://www.salinaartcenter.org/2022-salina-biennial) at Salina Art Center, Salina, KS  
 [*UNDERCURRENTS*](https://elycenter.org/undercurrent) at Ely Center of Contemporary Art, New Haven, CT  
 
