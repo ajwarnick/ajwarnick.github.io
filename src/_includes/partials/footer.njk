@@ -1,14 +1,5 @@
 <!-- start of partials/footer -->
 <div class="footer">
-    <div class="triggers">
-      <div class="filter-icon filter-trigger"><div></div><div></div><div></div></div>
-      <div class="trigger-gap">
-        <!-- <span class="copy-left">🄯</span>  Anthony Warnick  -->
-      </div>
-      <div class="lightbox-trigger"></div>
-      <div class="grid-trigger"><div></div><div></div><div></div><div></div></div>
-      <div class="mode-toggle" aria-label="toggle dark mode"></div>
-    </div>
     <div class="filters">
       <div>
         <div class="filter_category">Years</div>
@@ -32,6 +23,15 @@
             <a href="{{ tagUrl | url }}" class="tag">{{ material.title | title }}</a>{% if not loop.last %}, {% endif %}
         {% endfor %}
       </div>
+    </div>
+    <div class="triggers">
+      <div class="filter-icon filter-trigger"><div></div><div></div><div></div></div>
+      <div class="trigger-gap">
+        <!-- <span class="copy-left">🄯</span>  Anthony Warnick  -->
+      </div>
+      <div class="lightbox-trigger"></div>
+      <div class="grid-trigger"><div></div><div></div><div></div><div></div></div>
+      <div class="mode-toggle" aria-label="toggle dark mode"></div>
     </div>
 </div> 
 <!-- end of partials/footer -->
