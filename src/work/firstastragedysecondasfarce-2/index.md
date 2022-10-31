@@ -39,6 +39,7 @@ price: "NFS"
 support_images: 
   - "./src/work/firstastragedysecondasfarce-2/augsburg-16.jpg"
   - "./src/work/firstastragedysecondasfarce-2/augsburg-115.jpg"
+  - "./src/work/firstastragedysecondasfarce-2/Print-2.jpg"
 
 # video:
 #   - {

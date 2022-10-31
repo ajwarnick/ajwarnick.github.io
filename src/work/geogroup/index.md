@@ -1,22 +1,22 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: "First As Tragedy, Second As Farce (Work Still #1)"
-slug: firstastragedysecondasfarce1
-warnickNumber: 18.12::PH:83
+title: Portrait of the Directors of The GEO Group, Inc. (After Francis Galton)
+slug: geogroup
+warnickNumber: 17.06::PH:63
 
 tags:
   - work
-  - augsburg
+  - spaces
 
 type: "photography"
-year: "2018"
-featured_image: "augsburg-78.jpg"
+year: "2017"
+featured_image: "IMG_0231.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Archival Pigment Print"
+  - "Archival pigment print"
 
 # edition: 
 #   number: 
@@ -26,24 +26,20 @@ materials:
 # color: ''
 
 description:
-  short: ""
-  long: ""
+  short: "The group portraits of the directors of the three largest corporations that own and administer private prisons in the United States were produced through a process of photographic layering developed by Francis Galton."
+  long: "The group portraits of the directors of the three largest corporations that own and administer private prisons in the United States were produced through a process of photographic layering developed by Francis Galton. With this process Galton (an early figure in Eugenics) believed that the typical face could be captured through averaging the images of Jewish men or criminals, for example. He believed that groups were guilty based on race. Here the process has been flipped and those depicted are those profiting from the current system."
 
+dimensions_sort: "540"
+dimensions: '20" x 27"'
 
-dimensions_sort: "2772"
-dimensions: '44" x 63"'
-
-available: false
-price: "NFS"
+available: true
+price: "$1,200"
 
 visibility: true
 
-
 support_images: 
-  - "./src/work/firstastragedysecondasfarce-1/augsburg-6.jpg"
-  - "./src/work/firstastragedysecondasfarce-1/augsburg-116.jpg"
-  - "./src/work/firstastragedysecondasfarce-1/Print-1.jpg"
-
+  - "./src/work/geogroup/Geo_alined_enlarged_Bicubic_Smoother_crop.jpg"
+  - "./src/work/geogroup/IMG_0239.jpg"
 
 # video:
 #   - {
@@ -66,22 +62,23 @@ support_images:
 #     link: "/img/61_1-warnick-greece-show.jpg"
 #   }
 
-# links:
-#   - [
-#       "Public Art in Wassaic",
-#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-#     ]
-
 # collaborators:
 #   - {
 #     name: "Danni O'Brien",
 #     link: "http://www.danielleobrienart.com/"
 #   }
 
+
 # location: ""
 
 # collection:
 #  - ""
+
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
 
 # exhibitions:
 #   - {

@@ -1,22 +1,22 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: "First As Tragedy, Second As Farce (Work Still #1)"
-slug: firstastragedysecondasfarce1
-warnickNumber: 18.12::PH:83
+title: Untitled (White)
+slug: white
+warnickNumber: 17.07::TEX:27
 
 tags:
   - work
-  - augsburg
+  - spaces
 
-type: "photography"
-year: "2018"
-featured_image: "augsburg-78.jpg"
+type: "textile"
+year: "2017"
+featured_image: "IMG_0279.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Archival Pigment Print"
+  - "Disassembled American produced by those incarcerated in the state of Ohio"
 
 # edition: 
 #   number: 
@@ -26,24 +26,19 @@ materials:
 # color: ''
 
 description:
-  short: ""
-  long: ""
+  short: "This fabric wall hanging was modeled on the Christmas paper chains children produce to celebrate the season. This chain was produced from the white stripes of disassembled American flags. These flags were produced by those incarceratedin the state of Ohio."
+  long: "This fabric wall hanging was modeled on the Christmas paper chains children produce to celebrate the season. This chain was produced from the white stripes of disassembled American flags. These flags were produced by those incarcerated in the state of Ohio."
 
+dimensions_sort: "4000"
+dimensions: 'Dimensions Variable'
 
-dimensions_sort: "2772"
-dimensions: '44" x 63"'
-
-available: false
+available: true
 price: "NFS"
 
 visibility: true
 
-
 support_images: 
-  - "./src/work/firstastragedysecondasfarce-1/augsburg-6.jpg"
-  - "./src/work/firstastragedysecondasfarce-1/augsburg-116.jpg"
-  - "./src/work/firstastragedysecondasfarce-1/Print-1.jpg"
-
+  - "./src/work/white/IMG_0303.jpg"
 
 # video:
 #   - {
@@ -66,22 +61,23 @@ support_images:
 #     link: "/img/61_1-warnick-greece-show.jpg"
 #   }
 
-# links:
-#   - [
-#       "Public Art in Wassaic",
-#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-#     ]
-
 # collaborators:
 #   - {
 #     name: "Danni O'Brien",
 #     link: "http://www.danielleobrienart.com/"
 #   }
 
+
 # location: ""
 
 # collection:
 #  - ""
+
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
 
 # exhibitions:
 #   - {

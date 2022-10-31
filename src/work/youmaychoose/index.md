@@ -1,22 +1,22 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: "First As Tragedy, Second As Farce (Work Still #1)"
-slug: firstastragedysecondasfarce1
-warnickNumber: 18.12::PH:83
+title: You May Choose
+slug: youmaychoose
+warnickNumber: 17.01::PRT:11
 
 tags:
   - work
-  - augsburg
+  - spaces
 
-type: "photography"
-year: "2018"
-featured_image: "augsburg-78.jpg"
+type: "print"
+year: "2017"
+featured_image: ""
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Archival Pigment Print"
+  - "Offset Prints Produced by those incaerated at Pickaway Correctional Institution"
 
 # edition: 
 #   number: 
@@ -26,24 +26,19 @@ materials:
 # color: ''
 
 description:
-  short: ""
-  long: ""
+  short: "This series of limitless take-away off-set prints was produced by those incarcerated at the Pickaway Correctional Institution in Orient, Ohio. The prints retain the material charge and weight of their history, and as each viewer takes a print they wrestle with the issues of our contemporary system. The prints ultimately implicate all of us in the prison industrial complex. And once we have this knowledge we must choose how one should act. "
+  long: "This series of limitless take-away off-set prints was produced by those incarcerated at the Pickaway Correctional Institution in Orient, Ohio. The prints retain the material charge and weight of their history, and as each viewer takes a print they wrestle with the issues of our contemporary system. The prints ultimately implicate all of us in the prison industrial complex. And once we have this knowledge we must choose how one should act. "
 
+dimensions_sort: "432"
+dimensions: '18" x 24"'
 
-dimensions_sort: "2772"
-dimensions: '44" x 63"'
-
-available: false
-price: "NFS"
+available: true
+price: "NSF"
 
 visibility: true
 
-
-support_images: 
-  - "./src/work/firstastragedysecondasfarce-1/augsburg-6.jpg"
-  - "./src/work/firstastragedysecondasfarce-1/augsburg-116.jpg"
-  - "./src/work/firstastragedysecondasfarce-1/Print-1.jpg"
-
+# support_images: 
+#   - "./"
 
 # video:
 #   - {
@@ -66,22 +61,23 @@ support_images:
 #     link: "/img/61_1-warnick-greece-show.jpg"
 #   }
 
-# links:
-#   - [
-#       "Public Art in Wassaic",
-#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-#     ]
-
 # collaborators:
 #   - {
 #     name: "Danni O'Brien",
 #     link: "http://www.danielleobrienart.com/"
 #   }
 
+
 # location: ""
 
 # collection:
 #  - ""
+
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
 
 # exhibitions:
 #   - {
