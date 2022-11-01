@@ -49,11 +49,11 @@ support_images:
 
 visibility: true
 
-# links:
-#   - [
-#       "Public Art in Wassaic",
-#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
-#     ]
+links:
+  - [
+      "Online Version | Project Space",
+      "https://projectspace.anthonywarnick.com/newscape/",
+    ]
 
 
 

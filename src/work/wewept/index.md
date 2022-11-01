@@ -1,57 +1,43 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: One Hundred And Fifty More
-slug: onehundredandfiftymore
-warnickNumber: 17.09::DGT:80
+title: "We Wept (After Bas Jan Ader)"
+slug: wewept
+warnickNumber: 16.02::VID:51
 
 tags:
   - work
-  - augsburg
 
-type: "website"
-year: "2017"
-featured_image: "screenshot2022-10-22at6.06.44pm.png"
+type: "video"
+year: "2016"
+featured_image: ""
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Custom Software"
+  - "Tears"
 
-# edition: 
-#   number: 
-#   proofs: 
+edition: 
+  number: 3
+  proofs: 1
 #   limitless: true
 
 # color: ''
 
 description:
-  short: "The film, The Defiant Ones (1968) slowed down so that it will take 150 years to play through. This is packaged as a custom application that plays only where we are in the film."
-  long: "The film, The Defiant Ones (1968) slowed down so that it will take 150 years to play through. This is packaged as a custom application that plays only where we are in the film."
+  short: ""
+  long: ""
 
-
-dimensions_sort: "1500000"
-dimensions: '150 Years'
+dimensions_sort: "400"
+dimensions: '00:12:27'
 
 available: true
-price: "NSF"
-
-# collaborators:
-#   - {
-#     name: "Danni O'Brien",
-#     link: "http://www.danielleobrienart.com/"
-#   }
+price: "$1,200"
 
 visibility: true
 
-links:
-  - [
-      "Online Version | Project Space",
-      "https://projectspace.anthonywarnick.com/One_Hundred_And_Fifty_More/",
-    ]
-
 # support_images: 
-#   - "./src/work/criamosoquenaotemos/criamos_2.jpg"
+#   - "./"
 
 # video:
 #   - {
@@ -74,10 +60,23 @@ links:
 #     link: "/img/61_1-warnick-greece-show.jpg"
 #   }
 
+# collaborators:
+#   - {
+#     name: "Danni O'Brien",
+#     link: "http://www.danielleobrienart.com/"
+#   }
+
+
 # location: ""
 
 # collection:
 #  - ""
+
+# links:
+#   - [
+#       "Public Art in Wassaic",
+#       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
+#     ]
 
 # exhibitions:
 #   - {
