@@ -10,7 +10,7 @@ tags:
 
 type: "photography"
 year: "2016"
-featured_image: ""
+featured_image: "IMG_7997-Edit.jpg"
 featured_audio: ""
 featured_video: ""
 

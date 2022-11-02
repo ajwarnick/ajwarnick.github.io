@@ -17,9 +17,9 @@ featured_video: ""
 materials: 
   - "Archival Pigment Print"
 
-# edition: 
-#   number: 
-#   proofs: 
+edition: 
+  number: 1
+  proofs: 1
 #   limitless: true
 
 # color: ''

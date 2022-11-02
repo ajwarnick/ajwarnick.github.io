@@ -10,7 +10,7 @@ tags:
 
 type: "sculpture"
 year: "2016"
-featured_image: ""
+featured_image: "IMG_6895.jpg"
 featured_audio: ""
 featured_video: ""
 

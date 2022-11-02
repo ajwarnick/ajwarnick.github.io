@@ -1,23 +1,21 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: Illegal Documents
-slug: illegaldocuments
-warnickNumber: 16.06::PTG:22
+title: An Artist Without Debt Is No Artist (After Mladen Stilinović)
+slug: anartistwithoutdebtisnoartist
+warnickNumber: 15.02::TEX:45
 
 tags:
   - work
 
-type: "painting"
-year: "2016"
-featured_image: "IMG_6974.jpg"
+type: "textile"
+year: "2015"
+featured_image: "IMG_4578.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Latex Paint"
-  - "Drop Cloth"
-  - "Day Labor"
+  - "Cotton Cloth"
 
 # edition: 
 #   number: 
@@ -27,21 +25,23 @@ materials:
 # color: ''
 
 description:
-  short: "A painting produced by an undocumented worker from El Salvador following a set of instructions given by the artist."
-  long: "A painting produced by an undocumented worker from El Salvador following a set of instructions given by the artist."
+  short: "Banner produced in the same manner as Stilinović’s An Artist Who Cannot Speak English Is No Artist to draw attention to both the historic creative indebtedness and financial position of contemporary artist."
+  long: "Banner produced in the same manner as Stilinović’s An Artist Who Cannot Speak English Is No Artist to draw attention to both the historic creative indebtedness and financial position of contemporary artist."
 
-dimensions_sort: "7776"
-dimensions: '108" x 72"'
+dimensions_sort: "4320"
+dimensions: '72” x 60”'
 
 available: true
-price: ""
+price: "NFS"
 
 visibility: true
 
 support_images: 
-  - "./src/work/illegaldocuments/IMG_6963.jpg"
-  - "./src/work/illegaldocuments/IMG_6995.jpg"
-  - "./src/work/illegaldocuments/IMG_6997.jpg"
+  - "./src/work/anartistwithoutdebtisnoartist/IMG_4548.jpg"
+  - "./src/work/anartistwithoutdebtisnoartist/IMG_4545.jpg"
+  - "./src/work/anartistwithoutdebtisnoartist/IMG_4525.jpg"
+  - "./src/work/anartistwithoutdebtisnoartist/IMG_4521.jpg"
+  - "./src/work/anartistwithoutdebtisnoartist/IMG_4518.jpg"
 
 # video:
 #   - {

@@ -10,7 +10,7 @@ tags:
 
 type: "sculpture"
 year: "2015"
-featured_image: ""
+featured_image: "IMG_6753.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -36,8 +36,12 @@ price: ""
 
 visibility: true
 
-# support_images: 
-#   - "./"
+support_images: 
+  - "./src/work/500footsystem/IMG_6755.jpg"
+  - "./src/work/500footsystem/IMG_6767.jpg"
+  - "./src/work/500footsystem/IMG_6842.jpg"
+  - "./src/work/500footsystem/IMG_7013.jpg"
+  - "./src/work/500footsystem/IMG_7017.jpg"
 
 # video:
 #   - {
