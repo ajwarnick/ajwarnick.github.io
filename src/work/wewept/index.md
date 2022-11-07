@@ -10,9 +10,9 @@ tags:
 
 type: "video"
 year: "2016"
-featured_image: ""
+featured_image: "wewept-1.png"
 featured_audio: ""
-featured_video: ""
+featured_video: "https://iframe.mediadelivery.net/embed/21069/c3551723-6951-4102-927f-f38bc6fe25e4"
 
 materials: 
   - "Tears"
@@ -36,8 +36,15 @@ price: "$1,200"
 
 visibility: true
 
-# support_images: 
-#   - "./"
+support_images: 
+  - "./src/work/wewept/wewept-1.png"
+  - "./src/work/wewept/wewept-2.png"
+  - "./src/work/wewept/wewept-3.png"
+  - "./src/work/wewept/wewept-4.png"
+  - "./src/work/wewept/IMG_9671.jpg"
+  - "./src/work/wewept/IMG_9673.jpg"
+  - "./src/work/wewept/IMG_9674.jpg"
+  - "./src/work/wewept/IMG_9681.jpg"
 
 # video:
 #   - {

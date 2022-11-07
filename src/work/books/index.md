@@ -10,7 +10,7 @@ tags:
 
 type: "installation"
 year: "2015"
-featured_image: ""
+featured_image: "IMG_5063.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -38,8 +38,11 @@ price: ""
 
 visibility: true
 
-# support_images: 
-#   - "./"
+support_images: 
+  - "./src/work/books/IMG_5948.jpg"
+  - "./src/work/books/IMG_5445.jpg"
+  - "./src/work/books/IMG_5081.jpg"
+  - "./src/work/books/BookStamp.jpg"
 
 # video:
 #   - {

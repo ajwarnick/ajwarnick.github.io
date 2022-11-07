@@ -5,6 +5,11 @@ eleventyNavigation:
 templateClass: cv
 ---
 
+Bio:
+
+Anthony Warnick investigates the intersection of social systems and capital. He lives and works in Manhattan, Kansas. Warnick holds a MFA in Sculpture from the Cranbrook Academy of Art and a BFA from Minneapolis College of Art and Design in Web + Multimedia Environments. He works between digital media and sculpture producing works in media as varied as film, porcelain, software, and paper. These works have been exhibited nationally and internationally at Carnation Contemporary (Portland, OR), Ely Center of Contemporary Art (New Haven, CT), SPACES Gallery (Cleveland, OH), Museum of Contemporary Art (Detroit, MI), Urban Institute for Contemporary Arts (Grand Rapids, MI), Concordia University (Montreal, Quebec), and CICA Museum (Gimpo-si, Gyeonggi-do, Korea). Warnick's work has been supported with residencies at SOMA (Mexico City), PADA (Barreiro, Portugal), Elsewhere (Greensboro, NC), Wassaic Project (Wassaic, NY), and Futurefarmers (San Francisco, CA). 
+
+
 Anthony Warnick  
 anthony@anthonywarnick.com  
 

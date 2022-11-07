@@ -11,7 +11,7 @@ tags:
 
 type: "textile"
 year: "2017"
-featured_image: ""
+featured_image: "IMG_0283.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -37,8 +37,11 @@ price: ""
 
 visibility: true
 
-# support_images: 
-#   - "./"
+support_images: 
+  - "./src/work/whattotheprisoneristhefourthofjuly/IMG_0247.jpg"
+  - "./src/work/whattotheprisoneristhefourthofjuly/IMG_0256.jpg"
+  - "./src/work/whattotheprisoneristhefourthofjuly/IMG_0297.jpg"
+  - "./src/work/whattotheprisoneristhefourthofjuly/IMG_0301.jpg"
 
 # video:
 #   - {

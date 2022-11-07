@@ -10,7 +10,7 @@ tags:
 
 type: "photography"
 year: "2016"
-featured_image: ""
+featured_image: "illegaldocuments-front.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -36,8 +36,8 @@ price: ""
 
 visibility: true
 
-# support_images: 
-#   - "./"
+support_images: 
+  - "./src/work/illegaldocumentexchange/illegaldocuments-back.jpg"
 
 # video:
 #   - {

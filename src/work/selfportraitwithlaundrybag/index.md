@@ -37,8 +37,9 @@ price: ""
 
 visibility: true
 
-# support_images: 
-#   - "./"
+support_images: 
+  - "./src/work/selfportraitwithlaundrybag/IMG_9652.jpg"
+  - "./src/work/selfportraitwithlaundrybag/IMG_9660.jpg"
 
 # video:
 #   - {

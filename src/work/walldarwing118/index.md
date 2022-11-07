@@ -10,7 +10,7 @@ tags:
 
 type: "drawing"
 year: "2016"
-featured_image: ""
+featured_image: "IMG_7529.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -39,8 +39,11 @@ price: "NFS"
 
 visibility: true
 
-# support_images: 
-#   - "./"
+support_images: 
+  - "./src/work/walldarwing118/IMG_7618.jpg"
+  - "./src/work/walldarwing118/IMG_7624.jpg"
+  - "./src/work/walldarwing118/walldrawinginstructions.jpg"
+  - "./src/work/walldarwing118/img_7710_edit.tif"
 
 # video:
 #   - {

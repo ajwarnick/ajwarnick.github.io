@@ -11,7 +11,7 @@ tags:
 
 type: "print"
 year: "2017"
-featured_image: ""
+featured_image: "IMG_0292.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -37,8 +37,9 @@ price: "NSF"
 
 visibility: true
 
-# support_images: 
-#   - "./"
+support_images: 
+  - "./src/work/youmaychoose/IMG_8608.jpg"
+  - "./src/work/youmaychoose/IMG_0290.jpg"
 
 # video:
 #   - {

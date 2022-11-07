@@ -11,7 +11,7 @@ tags:
 type: "installation"
 year: "2016
 "
-featured_image: ""
+featured_image: "IMG_7746.jpg"
 featured_audio: ""
 featured_video: ""
 
@@ -38,8 +38,10 @@ price: ""
 
 visibility: true
 
-# support_images: 
-#   - "./"
+support_images: 
+  - "./src/work/crossfire/IMG_7758.jpg"
+  - "./src/work/crossfire/IMG_7827_edit.jpg"
+  - "./src/work/crossfire/IMG_7831.jpg"
 
 # video:
 #   - {
