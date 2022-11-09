@@ -8,5 +8,7 @@ templateClass: list-view
 
 {% for material in collections.workByMaterials %}
     {% set tagUrl %}/materials/{{ material.slug }}/{% endset %}
-    <p><a href="{{ tagUrl | url }}" class="tag">{{ material.title | title }}</a></p>
+    <ul>
+        <li><a href="{{ tagUrl | url }}" class="tag">{{ material.title | title }}</a></li>
+    </ul>
 {% endfor %}

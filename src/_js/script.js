@@ -165,7 +165,8 @@ const lightboxInIt = () => {
 
         const iframe = document.createElement('iframe');
         iframe.setAttribute('allowfullscreen', '');
-        iframe.setAttribute('allow', 'accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;');
+        iframe.setAttribute('loading', 'lazy');
+        iframe.setAttribute('allow', 'accelerometer; gyroscope; encrypted-media; picture-in-picture;');
         iframe.src = content.data.bunnyUrl;
         content.element.appendChild(iframe);
       }

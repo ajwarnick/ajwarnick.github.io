@@ -23,7 +23,7 @@ templateClass: tmpl-work
          <div class="hero_video">
             {% set videolink = featured_video %}
             {% include "components/bunny.njk" %}
-            <a class="lightbox" data-pswp-type="bunny-video" data-bunny-url="{{ videolink }}" href="#" target="_blank"></a>
+            <a class="lightbox" data-pswp-type="bunny-video" data-bunny-url="{{ videolink }}?autoplay=false" href="#" target="_blank"></a>
         </div>
 
     {% elif featured_audio %}
@@ -137,7 +137,7 @@ templateClass: tmpl-work
                     {% set audiolink = track %}
                     {% include "components/audioplayer.njk" %}
                 {% endfor %} 
-                
+
                 {% for bunny in video %}
                     {% include "components/bunny-lightbox.njk" %}
                 {% endfor %}  

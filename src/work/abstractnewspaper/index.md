@@ -9,7 +9,7 @@ tags:
 
 type: sculpture
 year: "2021"
-featured_image: "abstractnewspaper-1.jpg" 
+featured_image: "Warnick_Anthony_Abstract_News_Paper_2.jpg" 
 # featured_audio: ""
 # featured_video: ""
 
@@ -32,7 +32,7 @@ dimensions_sort: "858"
 dimensions: '11” x 13” x 6”'
 
 available: true
-# price: "$4,000"
+price: "$2,000"
 
 # collaborators:
 #   - {
@@ -48,12 +48,10 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-# support_images: 
-#   - "./work/betwixtandbetween/betwixtandbetween-1.jpg"
-#   - "./work/newsisbreaking/News_Is_Breaking-2.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-4.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-5.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-6.tif"
+support_images: 
+  - "./src/work/abstractnewspaper/Warnick_Anthony_Abstract_News_Paper_1.jpg"
+  - "./src/work/abstractnewspaper/Warnick_Anthony_Abstract_News_Paper_3.jpg"
+
 
 # video:
 #   - ""
