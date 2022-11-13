@@ -9,8 +9,7 @@ tags:
   - work
 
 type: "installation"
-year: "2016
-"
+year: "2016"
 featured_image: "IMG_7746.jpg"
 featured_audio: ""
 featured_video: ""
