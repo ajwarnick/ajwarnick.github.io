@@ -1,25 +1,26 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: The Library
-slug: thelibrary
-warnickNumber: 13.09::INST:80
+title: One-Room Schoolhouse
+slug: oneroomschoolhouse
+warnickNumber: 13.06::INST:96
 
 tags:
   - work
 
-type: "Installation"
+type: "installation"
 year: "2013"
-featured_image: "_MG_4647.jpg"
+featured_image: "main.jpg"
 featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Bond Paper"
-  - "Words"
-  - "Custom Software"
-  - "Patrons"
-
+  - "2x4"
+  - "OSB"
+  - "Pedagogy"
+  - "Chalkboards"
+  - "Students"
+  - "Cast Iron Wood Burning Stove"
 
 # edition: 
 #   number: 
@@ -29,11 +30,11 @@ materials:
 # color: ''
 
 description:
-  short: "A fully functional library comprised of books downloaded from the internet which have had their language altered by custom software. Generously made possible by the Jerome Foundation through Northern Lights MN."
-  long: "A fully functional library comprised of books downloaded from the internet which have had their language altered by custom software. Generously made possible by the Jerome Foundation through Northern Lights MN."
+  short: "Building on the traditions of the rural one-room schoolhouses, a one-room schoolhouse was built on a frozen lake to model an all-inclusive, non-hierarchical learning process."
+  long: "Building on the traditions of the rural one-room schoolhouses, a one-room schoolhouse was built on a frozen lake to model an all-inclusive, non-hierarchical learning process."
 
-dimensions_sort: "500000"
-dimensions: 'Dementions Variable'
+dimensions_sort: "5308416"
+dimensions: '192" x 192" x 144"'
 
 available: true
 price: "NFS"
@@ -41,23 +42,16 @@ price: "NFS"
 visibility: true
 
 support_images: 
-  - "./src/work/thelibrary/_MG_4651.jpg"
-  - "./src/work/thelibrary/IMG_0210.jpg"
-  - "./src/work/thelibrary/IMG_0224.jpg"
-  - "./src/work/thelibrary/IMG_0228.jpg"
-  - "./src/work/thelibrary/IMG_0344.jpg"
-  - "./src/work/thelibrary/IMG_0354.jpg"
-  - "./src/work/thelibrary/IMG_0355.jpg"
-  - "./src/work/thelibrary/IMG_0392-2.jpg"
-  - "./src/work/thelibrary/IMG_0360.jpg"
-  - "./src/work/thelibrary/IMG_0390.jpg"
-  - "./src/work/thelibrary/IMG_0437.jpg"
-  - "./src/work/thelibrary/IMG_0410.jpg"
-  - "./src/work/thelibrary/IMG_0407.jpg"
-  - "./src/work/thelibrary/IMG_0392.jpg"
-  - "./src/work/thelibrary/IMG_0493.jpg"
-  - "./src/work/thelibrary/_MG_4648.jpg"
-  
+  - "./src/work/oneroomschoolhouse/dsci0304.jpg"
+  - "./src/work/oneroomschoolhouse/fireplaceweb.jpg"
+  - "./src/work/oneroomschoolhouse/hbweb.jpg"
+  - "./src/work/oneroomschoolhouse/opening-day-1.jpg"
+  - "./src/work/oneroomschoolhouse/schoolhouse-interior.jpg"
+  - "./src/work/oneroomschoolhouse/shelvesweb.jpg"
+  - "./src/work/oneroomschoolhouse/132796435302.jpg"
+  - "./src/work/oneroomschoolhouse/132796441512.jpg"
+  - "./src/work/oneroomschoolhouse/132796443815.jpg"
+  - "./src/work/oneroomschoolhouse/shelvesweb.jpg"
 
 # video:
 #   - {
