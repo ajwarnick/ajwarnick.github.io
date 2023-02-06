@@ -8,7 +8,7 @@ warnickNumber: 13.09::INST:80
 tags:
   - work
 
-type: "Installation"
+type: "installation"
 year: "2013"
 featured_image: "_MG_4647.jpg"
 featured_audio: ""

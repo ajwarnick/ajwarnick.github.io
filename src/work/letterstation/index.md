@@ -7,6 +7,7 @@ warnickNumber: "21.13::SND:39"
 
 tags:
   - work
+  - msu
 
 type: "sound"
 year: "2021"

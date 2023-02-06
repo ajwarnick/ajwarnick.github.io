@@ -7,6 +7,7 @@ warnickNumber: "19.01::VID:71"
 
 tags:
   - work
+  - msu
 
 type: "video"
 year: "2021"

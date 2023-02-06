@@ -7,7 +7,7 @@ warnickNumber: 19.11::DWG:32
 
 tags:
   - work
-  - billings
+  - msu
   - augsburg
 
 type: "drawing"

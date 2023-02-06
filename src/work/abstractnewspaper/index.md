@@ -6,6 +6,7 @@ slug: abstractnewspaper
 warnickNumber: "21.16::SCPT:65"
 tags:
   - work
+  - msu
 
 type: sculpture
 year: "2021"

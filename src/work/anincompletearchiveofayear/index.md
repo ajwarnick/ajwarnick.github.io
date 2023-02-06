@@ -7,6 +7,7 @@ warnickNumber: "20.01::PH:73"
 
 tags:
   - work
+  - msu
 
 type: "photography"
 year: "2020"

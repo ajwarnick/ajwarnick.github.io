@@ -1,13 +1,13 @@
 ---
 layout: layouts/work.njk
 # permalink: work/newsisbreaking/index.html
-title: Madlibs
+title: Mad Libs
 slug: madlibs
 warnickNumber: "21.14::PRT:58:E.ULTD"
 
 tags:
   - work
-  - billings
+  - msu
 
 type: "print"
 year: "2021"

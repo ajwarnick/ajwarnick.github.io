@@ -7,6 +7,7 @@ warnickNumber: "22.02::DGT:65"
 
 tags:
   - work
+  - msu
 
 type: "website"
 year: "2022"
