@@ -29,7 +29,7 @@ description:
   long: "A delicate balance of Rakes that have only been used by prisoners to do yard work at the Lansing Correctional Facility in Lansing, Kansas."
 
 dimensions_sort: "540"
-dimensions: 'Dementions Variable'
+dimensions: 'Dimensions Variable'
 
 available: true
 price: "NFS"

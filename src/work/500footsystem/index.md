@@ -29,7 +29,7 @@ description:
   long: "A 500 foot extension cord created with two plug ends and displayed in such a way that if a switch is thrown the circuit would short circuit."
 
 dimensions_sort: ""
-dimensions: 'Dementions Variable'
+dimensions: 'Dimensions Variable'
 
 available: true
 price: ""

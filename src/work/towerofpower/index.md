@@ -32,7 +32,7 @@ description:
 
 
 dimensions_sort: "186624"
-dimensions: 'Dementions Variable'
+dimensions: 'Dimensions Variable'
 
 available: false
 price: "NFS"

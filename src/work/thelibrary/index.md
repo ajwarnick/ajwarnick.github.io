@@ -33,7 +33,7 @@ description:
   long: "A fully functional library comprised of books downloaded from the internet which have had their language altered by custom software. Generously made possible by the Jerome Foundation through Northern Lights MN."
 
 dimensions_sort: "500000"
-dimensions: 'Dementions Variable'
+dimensions: 'Dimensions Variable'
 
 available: true
 price: "NFS"

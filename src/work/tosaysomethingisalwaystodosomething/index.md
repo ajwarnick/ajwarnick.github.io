@@ -31,7 +31,7 @@ description:
 
 
 dimensions_sort: ""
-dimensions: 'Dementions Variable'
+dimensions: 'Dimensions Variable'
 
 available: true
 price: ""

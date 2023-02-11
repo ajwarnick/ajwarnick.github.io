@@ -30,7 +30,7 @@ description:
   long: ""
 
 dimensions_sort: "62208"
-dimensions: 'Dementions Variable'
+dimensions: 'Dimensions Variable'
 # About 72 x 36 x 72
 
 available: true

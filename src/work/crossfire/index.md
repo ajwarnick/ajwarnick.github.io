@@ -30,7 +30,7 @@ description:
   long: "System consisting of two alternating slide projections to be used for realization of our implication in the military industrial complex."
 
 dimensions_sort: ""
-dimensions: 'Dementions Variable'
+dimensions: 'Dimensions Variable'
 
 available: true
 price: ""
