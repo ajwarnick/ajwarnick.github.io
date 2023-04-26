@@ -16,7 +16,8 @@ anthony@anthonywarnick.com
 ## Exhibitions
 
 ### 2023
-_AOVx_ at Minnesota Museum of American Art, St. Paul, MN (_Forthcoming_)
+_News is Breaking_ (solo) at Northcutt Steele Gallery, Montana State University, Billings, MT (_Forthcoming_)  
+_6x6_ at Rochester Contemporary Art Center, Rochester, NY 
 
 ### 2022
 _A Changing World_, ImageOHIO (FotoFocus 2022 Biennial), Columbus, OH  
