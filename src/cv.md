@@ -17,7 +17,8 @@ anthony@anthonywarnick.com
 
 ### 2023
 _News is Breaking_ (solo) at Northcutt Steele Gallery, Montana State University, Billings, MT (_Forthcoming_)  
-_6x6_ at Rochester Contemporary Art Center, Rochester, NY 
+_6x6_ at Rochester Contemporary Art Center, Rochester, NY  
+_Pop Up_ at Mark A. Chapman Gallery, Kansas State Univeristy, Manhattan, KS  
 
 ### 2022
 _A Changing World_, ImageOHIO (FotoFocus 2022 Biennial), Columbus, OH  
