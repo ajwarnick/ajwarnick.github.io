@@ -11,7 +11,7 @@ type: video
 year: "2021"
 featured_image: "./src/work/betwixtandbetween/betwixtandbetween-2000.jpg" 
 featured_audio: ""
-featured_video: "https://iframe.mediadelivery.net/embed/21069/e5df2630-7c05-485d-94a8-a9d2f368a6ca?autoplay=true"
+featured_video: "https://iframe.mediadelivery.net/embed/21069/e5df2630-7c05-485d-94a8-a9d2f368a6ca"
 
 materials: 
   - "Video (Color, Sound)"
@@ -47,15 +47,12 @@ visibility: true
 #       "https://www.wassaicproject.org/exhibitions/public-art#block-yui_3_17_2_1_1635259463800_75918",
 #     ]
 
-# support_images: 
-#   - "./work/betwixtandbetween/betwixtandbetween-1.jpg"
-#   - "./work/newsisbreaking/News_Is_Breaking-2.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-4.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-5.tif"
-#   - "./work/newsisbreaking/News_Is_Breaking-6.tif"
+support_images: 
+  - "./src/work/betwixtandbetween/betwixtandbetween-2000.jpg"
 
-video:
-  - "https://iframe.mediadelivery.net/embed/21069/?autoplay=true"
+
+# video:
+#   - "https://iframe.mediadelivery.net/embed/21069/?autoplay=true"
 
 # audio:
 #   - "/audio/audio.mp3"

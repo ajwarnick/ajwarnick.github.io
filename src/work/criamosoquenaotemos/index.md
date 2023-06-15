@@ -50,10 +50,10 @@ visibility: true
 #     ]
 
 support_images: 
-  - "criamos_2.jpg"
-  - "criamos_3.jpg"
-  - "criamos_4.jpg"
-  - "takeaway.jpg"
+  - "./src/work/criamosoquenaotemos/criamos_2.jpg"
+  - "./src/work/criamosoquenaotemos/criamos_3.jpg"
+  - "./src/work/criamosoquenaotemos/criamos_4.jpg"
+  - "./src/work/criamosoquenaotemos/takeaway.jpg"
 
 # video:
 #   - ""
