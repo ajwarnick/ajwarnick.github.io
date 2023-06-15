@@ -15,7 +15,11 @@ anthony@anthonywarnick.com
 
 ## Exhibitions
 
+### 2024
+_AOVx_ at Minnesota Museum of American Art, St. Paul, MN (Forthcoming)
+
 ### 2023
+_Vitreous Floaters_ (solo) at THe Neon Heater, Findlay, OH (_Forthcoming_)  
 _News is Breaking_ (solo) at Northcutt Steele Gallery, Montana State University, Billings, MT (_Forthcoming_)  
 _6x6_ at Rochester Contemporary Art Center, Rochester, NY  
 _Pop Up_ at Mark A. Chapman Gallery, Kansas State Univeristy, Manhattan, KS  
