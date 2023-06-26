@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/ajwarnick/ajwarnick.github.io#readme",
   "dependencies": {
-    "photoswipe": "^5.2.4",
+    "photoswipe": "^5.3.7",
     "wavesurfer.js": "^6.1.0"
   }
 }
