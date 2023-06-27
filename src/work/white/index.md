@@ -16,7 +16,7 @@ featured_audio: ""
 featured_video: ""
 
 materials: 
-  - "Disassembled American produced by those incarcerated in the state of Ohio"
+  - "Disassembled American flags produced by those incarcerated in the state of Ohio"
 
 # edition: 
 #   number: 
