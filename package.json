@@ -27,7 +27,7 @@
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "lodash": "^4.17.21",
-    "npm-run-all": "^4.1.5",
+    "npm-run-all": "^4.1.2",
     "parcel": "^2.8.3",
     "sass": "^1.62.1",
     "sharp": "^0.32.1"
@@ -41,7 +41,9 @@
   },
   "homepage": "https://github.com/ajwarnick/ajwarnick.github.io#readme",
   "dependencies": {
+    "list.js": "^2.3.1",
     "photoswipe": "^5.3.7",
+    "tachyonjs": "^2.0.1",
     "wavesurfer.js": "^6.1.0"
   }
 }
