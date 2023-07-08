@@ -1,0 +1,3501 @@
+
+{
+  "posts": [
+    
+      {
+        "title": "15 24-Hour News Sources",
+        "url": "",
+        "warnickNumber": "19.01::VID:71",
+        "type": "video",
+        "year": "2021",
+        "featured_image": "24-hournews-1.png",
+        "edition": [object Object],
+        "dimensions_test": "",
+        "dimensions": "Live Feed",
+        "description" : {
+            "short": "This work is a stream of the following news channels: BBC News Channel, Sky News, Euronews, France 24, RT, Deutsche Welle, NHK World, CCTV News Channel, New Delhi Television (NDTV), Al Jazeera, Al Arabiya, A24, SABC News, CNN, Fox News Channel, and MSNBC",
+            "long": "This work is a stream of the following news channels: BBC News Channel, Sky News, Euronews, France 24, RT, Deutsche Welle, NHK World, CCTV News Channel, New Delhi Television (NDTV), Al Jazeera, Al Arabiya, A24, SABC News, CNN, Fox News Channel, and MSNBC"
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "msu"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/24-hournews/24-hournews-1.png"
+            ,
+            
+                "./src/work/24-hournews/24-hournews-2.png"
+            ,
+            
+                "./src/work/24-hournews/24-hournews-3.png"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Video (Color, Sound)"
+            
+            
+        ],
+        "available": true,
+        "price": "$1,500",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "500 Foot System For the Destruction of an Electrical Circuit",
+        "url": "",
+        "warnickNumber": "15.09::SCPT:96",
+        "type": "sculpture",
+        "year": "2015",
+        "featured_image": "IMG_6753.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "A 500 foot extension cord created with two plug ends and displayed in such a way that if a switch is thrown the circuit would short circuit.",
+            "long": "A 500 foot extension cord created with two plug ends and displayed in such a way that if a switch is thrown the circuit would short circuit."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/500footsystem/IMG_6755.jpg"
+            ,
+            
+                "./src/work/500footsystem/IMG_6767.jpg"
+            ,
+            
+                "./src/work/500footsystem/IMG_6842.jpg"
+            ,
+            
+                "./src/work/500footsystem/IMG_7013.jpg"
+            ,
+            
+                "./src/work/500footsystem/IMG_7017.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Altered Extension Cord"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Abstract Landscape",
+        "url": "",
+        "warnickNumber": "13.08::DGT:35",
+        "type": "website",
+        "year": "2013",
+        "featured_image": "screenshot2022-12-02at2.05.31pm.png",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Custom Software"
+            
+            
+        ],
+        "available": true,
+        "price": "NSF",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Abstract Newspaper",
+        "url": "",
+        "warnickNumber": "21.16::SCPT:65",
+        "type": "sculpture",
+        "year": "2021",
+        "featured_image": "Warnick_Anthony_Abstract_News_Paper_2.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "11” x 13” x 6”",
+        "description" : {
+            "short": "A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form.",
+            "long": "A daily updated stack of ten New York Times that has been programmatically altered rendering the information to pure form."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "msu"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/abstractnewspaper/Warnick_Anthony_Abstract_News_Paper_1.jpg"
+            ,
+            
+                "./src/work/abstractnewspaper/Warnick_Anthony_Abstract_News_Paper_3.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Newsprint"
+            ,
+            
+                "Ink"
+            
+            
+        ],
+        "available": true,
+        "price": "$2,000",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "All History Is Present",
+        "url": "",
+        "warnickNumber": "19.21::SCPT:94",
+        "type": "Sculpture",
+        "year": "2019",
+        "featured_image": "allhistoryispresent_3.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/allhistoryispresent/allhistoryispresent_1.jpg"
+            ,
+            
+                "./src/work/allhistoryispresent/allhistoryispresent_2.jpg"
+            ,
+            
+                "./src/work/allhistoryispresent/allhistoryispresent_4.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Altered Art History Slide"
+            ,
+            
+                "Overhead Projector"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "An Artist Without Debt Is No Artist (After Mladen Stilinović)",
+        "url": "",
+        "warnickNumber": "15.02::TEX:45",
+        "type": "textile",
+        "year": "2015",
+        "featured_image": "IMG_4578.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "72” x 60”",
+        "description" : {
+            "short": "Banner produced in the same manner as Stilinović’s An Artist Who Cannot Speak English Is No Artist to draw attention to both the historic creative indebtedness and financial position of contemporary artist.",
+            "long": "Banner produced in the same manner as Stilinović’s An Artist Who Cannot Speak English Is No Artist to draw attention to both the historic creative indebtedness and financial position of contemporary artist."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/anartistwithoutdebtisnoartist/IMG_4548.jpg"
+            ,
+            
+                "./src/work/anartistwithoutdebtisnoartist/IMG_4545.jpg"
+            ,
+            
+                "./src/work/anartistwithoutdebtisnoartist/IMG_4525.jpg"
+            ,
+            
+                "./src/work/anartistwithoutdebtisnoartist/IMG_4521.jpg"
+            ,
+            
+                "./src/work/anartistwithoutdebtisnoartist/IMG_4518.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Cotton Cloth"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "And Counting",
+        "url": "",
+        "warnickNumber": "18.04::VID:50",
+        "type": "video",
+        "year": "2018",
+        "featured_image": "andcounting.jpg",
+        "edition": [object Object],
+        "dimensions_test": "",
+        "dimensions": "00:03:55",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/andcounting/andcounting.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Acrylic"
+            ,
+            
+                "Video (Color, Sound)"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "An Incomplete Archive Of A Year",
+        "url": "",
+        "warnickNumber": "20.01::PH:73",
+        "type": "photography",
+        "year": "2020",
+        "featured_image": "2020_01_12_img_4.jpg.print.5x7.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020.",
+            "long": "An archive of programmatically altered images sourced daily from the images on the front page of the New York Times throughout the whole of 2020."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "msu"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/anincompletearchiveofayear/test.jpg"
+            ,
+            
+                "./src/work/anincompletearchiveofayear/2020_02_15_img_0.jpg.print.5x10.jpg"
+            ,
+            
+                "./src/work/anincompletearchiveofayear/2020_02_14_img_1.jpg.print.4x6.jpg"
+            ,
+            
+                "./src/work/anincompletearchiveofayear/2020_01_30_img_4.jpg.print.5x10.jpg"
+            ,
+            
+                "./src/work/anincompletearchiveofayear/2020_01_18_img_1.jpg.print.5x7.jpg"
+            ,
+            
+                "./src/work/anincompletearchiveofayear/2020_01_12_img_4.jpg.print.5x7.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Chromogenic Prints"
+            ,
+            
+                "Custom Software"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Bad News Travels Fast",
+        "url": "",
+        "warnickNumber": "19.22::DGT:18",
+        "type": "website",
+        "year": "2019",
+        "featured_image": "screenshot2022-12-02at1.34.41pm.png",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/badnewstravelsfast/screenshot2022-12-02at1.34.36pm.png"
+            ,
+            
+                "./src/work/badnewstravelsfast/screenshot2022-12-02at1.30.50pm.png"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Custom Software"
+            ,
+            
+                "New York Times Headlines"
+            
+            
+        ],
+        "available": true,
+        "price": "NSF",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Barreira União Fabril",
+        "url": "",
+        "warnickNumber": "22.11::SCPT:44",
+        "type": "sculpture",
+        "year": "2022",
+        "featured_image": "IMG_4464_thumb.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "108&quot; x 42&quot; x 30&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "pada"
+            ,
+            
+                "wassaic july 2023"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/barrier/IMG_4400.jpg"
+            ,
+            
+                "./src/work/barrier/IMG_4464.jpg"
+            ,
+            
+                "./src/work/barrier/IMG_4563.jpg"
+            ,
+            
+                "./src/work/barrier/IMG_4567.jpg"
+            ,
+            
+                "./src/work/barrier/IMG_4573.jpg"
+            ,
+            
+                "./src/work/barrier/IMG_4577.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Plastic White Carnation"
+            ,
+            
+                "Newsprint"
+            ,
+            
+                "Plastic Chain"
+            ,
+            
+                "Companhia União Fabril Barrier"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Betwixt and Between",
+        "url": "",
+        "warnickNumber": "21.11::VID:81",
+        "type": "video",
+        "year": "2021",
+        "featured_image": "./src/work/betwixtandbetween/betwixtandbetween-2000.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "00:13:07",
+        "description" : {
+            "short": "Public sculpture currently installed at Wassaic Project Wassaic, NY.",
+            "long": "Public sculpture made of clear acrylic currently installed at Wassaic Project Wassaic, NY. I think about the news as a lens through which we view the world, and the world as a backdrop to the events we live through. In the studio, I play with words as often as objects, and this billboard plays with how the attention economy has broken our consideration of information."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/betwixtandbetween/betwixtandbetween-2000.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Video (Color, Sound)"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Untitled (Blue)",
+        "url": "",
+        "warnickNumber": "22.07::TEX:58",
+        "type": "sculpture",
+        "year": "2022",
+        "featured_image": "IMG_4380.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "30&quot; x 15&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "pada"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/blue/IMG_4377.jpg"
+            ,
+            
+                "./src/work/blue/IMG_4380.jpg"
+            ,
+            
+                "./src/work/blue/IMG_4396.jpg"
+            ,
+            
+                "./src/work/blue/IMG_4400.jpg"
+            ,
+            
+                "./src/work/blue/IMG_4422.jpg"
+            ,
+            
+                "./src/work/blue/IMG_4429.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Tarpaulin"
+            
+            
+        ],
+        "available": false,
+        "price": "NFS",
+        "visibility": true,
+        "location": "Destroyed",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "The Books That Have Not Been Checked Out Between September 6, 2013, and April 18, 2015",
+        "url": "",
+        "warnickNumber": "15.08::INST:62",
+        "type": "installation",
+        "year": "2015",
+        "featured_image": "IMG_5063.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "75&quot; x 94&quot; x 58”",
+        "description" : {
+            "short": "A performance that created an object consisting of, 3,000 books that had not been checked out from the library at the Cranbrook Academy of Art during my time there. These books where manually found, checked out, stamped, and then hand carried to the final installation, resulting in a 75&quot; x 94&quot; x 58” monument to forgotten ideas.",
+            "long": "A performance that created an object consisting of, 3,000 books that had not been checked out from the library at the Cranbrook Academy of Art during my time there. These books where manually found, checked out, stamped, and then hand carried to the final installation, resulting in a 75&quot; x 94&quot; x 58” monument to forgotten ideas."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/books/IMG_5948.jpg"
+            ,
+            
+                "./src/work/books/IMG_5445.jpg"
+            ,
+            
+                "./src/work/books/IMG_5081.jpg"
+            ,
+            
+                "./src/work/books/BookStamp.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "3,000 Books"
+            ,
+            
+                "Offset Print"
+            ,
+            
+                "Labor"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Bus Stop for Bloomfield Hills",
+        "url": "",
+        "warnickNumber": "14.18::SCPT:77",
+        "type": "sculpture",
+        "year": "2014",
+        "featured_image": "1Q9A2726.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "5&quot; x 3&quot; x 132&quot;",
+        "description" : {
+            "short": "The installation of a new bus stop in a community that has banned buses to keep out undesirables. The bus stop was then used to catch the bus. After one week the city removed the bus stop.",
+            "long": "The installation of a new bus stop in a community that has banned buses to keep out undesirables. The bus stop was then used to catch the bus. After one week the city removed the bus stop."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/busstop/1Q9A2729.jpg"
+            ,
+            
+                "./src/work/busstop/1Q9A2743.jpg"
+            ,
+            
+                "./src/work/busstop/1Q9A2762.jpg"
+            ,
+            
+                "./src/work/busstop/DSC_7766.jpg"
+            ,
+            
+                "./src/work/busstop/bus install-1.jpg"
+            ,
+            
+                "./src/work/busstop/bus install-4.jpg"
+            ,
+            
+                "./src/work/busstop/bus install-2.jpg"
+            ,
+            
+                "./src/work/busstop/bus install-3.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Steel Sign"
+            ,
+            
+                "Bolts"
+            ,
+            
+                "Galvanized Steel"
+            ,
+            
+                "Dirt"
+            ,
+            
+                "Bus Schedule"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Portrait of the Directors of Corrections Corporation of America (After Francis Galton)",
+        "url": "",
+        "warnickNumber": "17.05::PH:25",
+        "type": "photography",
+        "year": "2017",
+        "featured_image": "IMG_0227.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "20&quot; x 27&quot;",
+        "description" : {
+            "short": "The group portraits of the directors of the three largest corporations that own and administer private prisons in the United States were produced through a process of photographic layering developed by Francis Galton.",
+            "long": "The group portraits of the directors of the three largest corporations that own and administer private prisons in the United States were produced through a process of photographic layering developed by Francis Galton. With this process Galton (an early figure in Eugenics) believed that the typical face could be captured through averaging the images of Jewish men or criminals, for example. He believed that groups were guilty based on race. Here the process has been flipped and those depicted are those profiting from the current system."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "spaces"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/correctionscorporationofamerica/IMG_0223.jpg"
+            ,
+            
+                "./src/work/correctionscorporationofamerica/IMG_0239.jpg"
+            ,
+            
+                "./src/work/correctionscorporationofamerica/Untitled-merge.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Archival pigment print"
+            
+            
+        ],
+        "available": true,
+        "price": "$1,200",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Criamos O Que Não Temos",
+        "url": "",
+        "warnickNumber": " 22.10::PRT:57:E.ULTD",
+        "type": "print",
+        "year": "2022",
+        "featured_image": "criamos_1.jpg",
+        "edition": [object Object],
+        "dimensions_test": "",
+        "dimensions": "30cm x 42cm",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "pada"
+            ,
+            
+                "wassaic july 2023"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/criamosoquenaotemos/criamos_2.jpg"
+            ,
+            
+                "./src/work/criamosoquenaotemos/criamos_3.jpg"
+            ,
+            
+                "./src/work/criamosoquenaotemos/criamos_4.jpg"
+            ,
+            
+                "./src/work/criamosoquenaotemos/takeaway.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Toner"
+            ,
+            
+                "Bond Paper"
+            
+            
+        ],
+        "available": true,
+        "price": "NSF",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Cross Fire (Mercenary/Invisible Hand)",
+        "url": "",
+        "warnickNumber": "16.03::INST:23",
+        "type": "installation",
+        "year": "2016",
+        "featured_image": "IMG_7746.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "System consisting of two alternating slide projections to be used for realization of our implication in the military industrial complex.",
+            "long": "System consisting of two alternating slide projections to be used for realization of our implication in the military industrial complex."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/crossfire/IMG_7758.jpg"
+            ,
+            
+                "./src/work/crossfire/IMG_7827_edit.jpg"
+            ,
+            
+                "./src/work/crossfire/IMG_7831.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Slide Projectors"
+            ,
+            
+                "80 Slides"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Dot Dot Dot",
+        "url": "",
+        "warnickNumber": "21.12::VID:64",
+        "type": "video",
+        "year": "2021",
+        "featured_image": "dotdotdot.jpeg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "00:58:24",
+        "description" : {
+            "short": "21 second excerpt (HD Video), full length 58 minutes 24 seconds three channel presentation of Fox News Primetime from August 28, 2021.",
+            "long": "21 second excerpt (HD Video), full length 58 minutes 24 seconds three channel presentation of Fox News Primetime from August 28, 2021."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "msu"
+            
+            
+        ],
+        "support_images" : [
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Video (Color, Sound)"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": false,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "First As Tragedy, Second As Farce (Work Still #1)",
+        "url": "",
+        "warnickNumber": "18.12::PH:83",
+        "type": "photography",
+        "year": "2018",
+        "featured_image": "augsburg-78.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "44&quot; x 63&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "augsburg"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/firstastragedysecondasfarce-1/augsburg-6.jpg"
+            ,
+            
+                "./src/work/firstastragedysecondasfarce-1/augsburg-116.jpg"
+            ,
+            
+                "./src/work/firstastragedysecondasfarce-1/Print-1.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Archival Pigment Print"
+            
+            
+        ],
+        "available": false,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "First As Tragedy, Second As Farce (Work Still #2)",
+        "url": "",
+        "warnickNumber": "18.13::PH:42",
+        "type": "photography",
+        "year": "2018",
+        "featured_image": "augsburg-15.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "44&quot; x 63&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "augsburg"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/firstastragedysecondasfarce-2/augsburg-16.jpg"
+            ,
+            
+                "./src/work/firstastragedysecondasfarce-2/augsburg-115.jpg"
+            ,
+            
+                "./src/work/firstastragedysecondasfarce-2/Print-2.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Archival Pigment Print"
+            
+            
+        ],
+        "available": false,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Four Black Words Online",
+        "url": "",
+        "warnickNumber": "19.23::DGT:86",
+        "type": "website",
+        "year": "2019",
+        "featured_image": "screenshot2022-12-02at1.48.49pm.png",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Text"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Portrait of the Directors of The GEO Group, Inc. (After Francis Galton)",
+        "url": "",
+        "warnickNumber": "17.06::PH:63",
+        "type": "photography",
+        "year": "2017",
+        "featured_image": "IMG_0231.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "20&quot; x 27&quot;",
+        "description" : {
+            "short": "The group portraits of the directors of the three largest corporations that own and administer private prisons in the United States were produced through a process of photographic layering developed by Francis Galton.",
+            "long": "The group portraits of the directors of the three largest corporations that own and administer private prisons in the United States were produced through a process of photographic layering developed by Francis Galton. With this process Galton (an early figure in Eugenics) believed that the typical face could be captured through averaging the images of Jewish men or criminals, for example. He believed that groups were guilty based on race. Here the process has been flipped and those depicted are those profiting from the current system."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "spaces"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/geogroup/Geo_alined_enlarged_Bicubic_Smoother_crop.jpg"
+            ,
+            
+                "./src/work/geogroup/IMG_0239.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Archival pigment print"
+            
+            
+        ],
+        "available": true,
+        "price": "$1,200",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Gideon&#39;s Trumpet",
+        "url": "",
+        "warnickNumber": "18.06:PRT:43",
+        "type": "print",
+        "year": "2018",
+        "featured_image": "_MG_9783-Edit_crop.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "24 @ 11&quot; x 14&quot; (each)",
+        "description" : {
+            "short": "24 frames removed from the film Gideon&#39;s Trumpet covering the second during which Clarence Earl Gideon is sentneced to Gideon five years in the state prison. This moment of &lt;i&gt;performative language&lt;/i&gt; changed his life simply because he was poor. Clarence Earl Gideon&#39;s case eveturally made it to the Supreme Court and was pivitol in establishing a right to representation regardless of wealth.",
+            "long": "24 frames removed from the film Gideon&#39;s Trumpet covering the second during which Clarence Earl Gideon is sentneced to Gideon five years in the state prison. This moment of &lt;i&gt;performative language&lt;/i&gt; changed his life simply because he was poor. Clarence Earl Gideon&#39;s case eveturally made it to the Supreme Court and was pivitol in establishing a right to representation regardless of wealth."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "w2s"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/gideonstrumpet/_MG_9790.jpg"
+            ,
+            
+                "./src/work/gideonstrumpet/_MG_9778.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Bond Paper"
+            ,
+            
+                "Toner"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Untitled (Gereen)",
+        "url": "",
+        "warnickNumber": "22.11::SCPT:21",
+        "type": "sculpture",
+        "year": "2022",
+        "featured_image": "IMG_4440.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "pada"
+            ,
+            
+                "wassaic july 2023"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/green/IMG_4466.jpg"
+            ,
+            
+                "./src/work/green/IMG_4441.jpg"
+            ,
+            
+                "./src/work/green/IMG_4440.jpg"
+            ,
+            
+                "./src/work/green/IMG_4432.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Cardboard"
+            ,
+            
+                "Acrylic Paint"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Illegal Document: Or Attempt at Equal Exchange",
+        "url": "",
+        "warnickNumber": "16.05::PH:31",
+        "type": "photography",
+        "year": "2016",
+        "featured_image": "illegaldocuments-front.jpg",
+        "edition": [object Object],
+        "dimensions_test": "",
+        "dimensions": "24” x 36”",
+        "description" : {
+            "short": "A photograph of a document that make me ‘legal’. [my social security card is printed life size in the chromogenic color print.] I gave one of the two prints to an undocumented worker in addition to his day rate for the creation of a painting.",
+            "long": "A photograph of a document that make me ‘legal’. [my social security card is printed life size in the chromogenic color print.] I gave one of the two prints to an undocumented worker in addition to his day rate for the creation of a painting."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/illegaldocumentexchange/illegaldocuments-back.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Archival Pigment Print"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Illegal Documents",
+        "url": "",
+        "warnickNumber": "16.06::PTG:22",
+        "type": "painting",
+        "year": "2016",
+        "featured_image": "IMG_6974.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "108&quot; x 72&quot;",
+        "description" : {
+            "short": "A painting produced by an undocumented worker from El Salvador following a set of instructions given by the artist.",
+            "long": "A painting produced by an undocumented worker from El Salvador following a set of instructions given by the artist."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/illegaldocuments/IMG_6963.jpg"
+            ,
+            
+                "./src/work/illegaldocuments/IMG_6995.jpg"
+            ,
+            
+                "./src/work/illegaldocuments/IMG_6997.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Latex Paint"
+            ,
+            
+                "Drop Cloth"
+            ,
+            
+                "Day Labor"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Infinite Colors (for Gerhard Richter)",
+        "url": "",
+        "warnickNumber": "14.11::DGT:42",
+        "type": "website",
+        "year": "2014",
+        "featured_image": "screenshot2022-12-02at2.01.09pm.png",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Custom Software"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Infinite Sleep",
+        "url": "",
+        "warnickNumber": "18.03::SCPT:03",
+        "type": "sculpture",
+        "year": "2018",
+        "featured_image": "_MG_9825.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "132&quot; x 17&quot; x 22&quot;",
+        "description" : {
+            "short": "A pillar created from 32 textured vinyl covered pillows produced by and for those incarcerated.",
+            "long": "&#39;Infinite Sleep&#39; consists of an eleven foot pillar mimicking Brâncuși&#39;s Endless Column created from 32 textured vinyl pillows. Those incarcerated at Allen-Oakwood Correctional Institution in Lima, Ohio manufactured these pillows for use by other prisoners in the state of Ohio. This work is a continuation of my engagement with charged materials generally and the prison industrial complex specifically, and exemplifies my use of physical presence to engage the viewer both conceptually and phenomenologically."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "w2s"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/infinitesleep/_MG_9833.jpg"
+            ,
+            
+                "./src/work/infinitesleep/_MG_9831.jpg"
+            ,
+            
+                "./src/work/infinitesleep/_MG_9827.jpg"
+            ,
+            
+                "./src/work/infinitesleep/_MG_9825-2.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Prisoner Produced Pillows"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Jein (For When It Is Imperative To Say Yes And No Simultaneously)",
+        "url": "",
+        "warnickNumber": "16.08::TEX:39",
+        "type": "textile",
+        "year": "2016",
+        "featured_image": "IMG_9645.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "36&quot; x 24&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/jein/IMG_9636.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Cotton Cloth"
+            ,
+            
+                "Archival Pigment Print"
+            
+            
+        ],
+        "available": true,
+        "price": "$200",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Letter Station",
+        "url": "",
+        "warnickNumber": "21.13::SND:39",
+        "type": "sound",
+        "year": "2021",
+        "featured_image": "letterstation.jpg",
+        "edition": [object Object],
+        "dimensions_test": "",
+        "dimensions": "Live Feed",
+        "description" : {
+            "short": "This work broadcasts a voice reading the current New York Times headlines in NATO code.",
+            "long": "This work broadcasts a voice reading the current New York Times headlines in NATO code."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "msu"
+            
+            
+        ],
+        "support_images" : [
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Radio Broadcast"
+            ,
+            
+                "Custom Software"
+            ,
+            
+                "New York Times Headlines"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Mad Libs",
+        "url": "",
+        "warnickNumber": "21.14::PRT:58:E.ULTD",
+        "type": "print",
+        "year": "2021",
+        "featured_image": "madlib_2.jpg",
+        "edition": [object Object],
+        "dimensions_test": "",
+        "dimensions": "11” x 17”",
+        "description" : {
+            "short": "Unique limitless takeaways germinated by a piece of custom software written to scrape the New York Times for headlines and convert them to Madlibs",
+            "long": "Unique limitless takeaways germinated by a piece of custom software written to scrape the New York Times for headlines and convert them to Madlibs"
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "msu"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/madlibs/madlib_1.png"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Custom Software"
+            ,
+            
+                "Toner"
+            ,
+            
+                "Bond Paper"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Mal d&#39;Archive",
+        "url": "",
+        "warnickNumber": "18.07::PERF:14",
+        "type": "performance",
+        "year": "2018",
+        "featured_image": "IMG_9157.jpg",
+        "edition": [object Object],
+        "dimensions_test": "",
+        "dimensions": "00:00:44",
+        "description" : {
+            "short": "The perforative burning of a stolen court records",
+            "long": "The performances are gestures intended to express an idea through the insertion of bodies into systems. For example, the perforative burning of a stolen prisoner records as in Mal d’Archive. Resulting in a rumination on what condemns, is it the judge or the archive? The work is both object and performance."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/maldarchive/IMG_9157.jpg"
+            ,
+            
+                "./src/work/maldarchive/IMG_9160.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Court Records"
+            ,
+            
+                "Fire"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Portrait of the Directors of MTC Management and Training Corporation (After Francis Galton)",
+        "url": "",
+        "warnickNumber": "17.04::PH:80",
+        "type": "photography",
+        "year": "2017",
+        "featured_image": "IMG_0236.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "20&quot; x 27&quot;",
+        "description" : {
+            "short": "The group portraits of the directors of the three largest corporations that own and administer private prisons in the United States were produced through a process of photographic layering developed by Francis Galton.",
+            "long": "The group portraits of the directors of the three largest corporations that own and administer private prisons in the United States were produced through a process of photographic layering developed by Francis Galton. With this process Galton (an early figure in Eugenics) believed that the typical face could be captured through averaging the images of Jewish men or criminals, for example. He believed that groups were guilty based on race. Here the process has been flipped and those depicted are those profiting from the current system."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "spaces"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/managementandtrainingcorporation/IMG_0239.jpg"
+            ,
+            
+                "./src/work/managementandtrainingcorporation/Group3_enlarged_crop.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Archival pigment print"
+            
+            
+        ],
+        "available": true,
+        "price": "$1,200",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Mueller Report (After Jenny Holzer) (For Kazimir Malevich)",
+        "url": "",
+        "warnickNumber": "19.11::PRT:89:E.ULTD",
+        "type": "print",
+        "year": "2019",
+        "featured_image": "muellerreport-1.jpg",
+        "edition": [object Object],
+        "dimensions_test": "",
+        "dimensions": "11” x 17”",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Bond Paper"
+            ,
+            
+                "Toner"
+            
+            
+        ],
+        "available": true,
+        "price": "Free",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Newscape",
+        "url": "",
+        "warnickNumber": "22.02::DGT:65",
+        "type": "website",
+        "year": "2022",
+        "featured_image": "Newscape-1.png",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable ",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "msu"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/newscape/Newscape-3.png"
+            ,
+            
+                "./src/work/newscape/Newscape-2.png"
+            ,
+            
+                "./src/work/newscape/Newscape-4.png"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Custom Software"
+            ,
+            
+                "New York Times Images"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "News Is Breaking",
+        "url": "",
+        "warnickNumber": "21.07::SCPT:65",
+        "type": "sculpture",
+        "year": "2021",
+        "featured_image": "News_Is_Breaking-3.jpeg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "120” x 50” x 3”",
+        "description" : {
+            "short": "Public sculpture currently installed at Wassaic Project Wassaic, NY.",
+            "long": "Public sculpture made of clear acrylic currently installed at Wassaic Project Wassaic, NY. I think about the news as a lens through which we view the world, and the world as a backdrop to the events we live through. In the studio, I play with words as often as objects, and this billboard plays with how the attention economy has broken our consideration of information."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/newsisbreaking/News_Is_Breaking-1.jpeg"
+            ,
+            
+                "./src/work/newsisbreaking/News_Is_Breaking-2.jpeg"
+            
+            
+        ],
+        "collection":[
+            
+                "Walker Art Center"
+            
+            
+        ],
+        "materials":[
+            
+                "Clear acrylic"
+            ,
+            
+                "Galvanized Steel"
+            
+            
+        ],
+        "available": true,
+        "price": "$4,000",
+        "visibility": true,
+        "location": "Wassaic, NY",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Nós",
+        "url": "",
+        "warnickNumber": "22.09::SCPT:44",
+        "type": "sculpture",
+        "year": "2022",
+        "featured_image": "nos_3.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "89&quot; x 4½&quot; x 83&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "pada"
+            ,
+            
+                "wassaic july 2023"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/nos/nos_2.jpg"
+            ,
+            
+                "./src/work/nos/nos_6.jpg"
+            ,
+            
+                "./src/work/nos/nos_4.jpg"
+            ,
+            
+                "./src/work/nos/nos_5.jpg"
+            ,
+            
+                "./src/work/nos/nos_1.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Tarpaulin"
+            ,
+            
+                "Cotton Canvas"
+            ,
+            
+                "Acrylic Paint"
+            ,
+            
+                "PVC"
+            ,
+            
+                "Terracotta Brick"
+            
+            
+        ],
+        "available": true,
+        "price": "NSF",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "One Hundred And Fifty More",
+        "url": "",
+        "warnickNumber": "17.09::DGT:80",
+        "type": "website",
+        "year": "2017",
+        "featured_image": "screenshot2022-10-22at6.06.44pm.png",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "150 Years",
+        "description" : {
+            "short": "The film, The Defiant Ones (1968) slowed down so that it will take 150 years to play through. This is packaged as a custom application that plays only where we are in the film.",
+            "long": "The film, The Defiant Ones (1968) slowed down so that it will take 150 years to play through. This is packaged as a custom application that plays only where we are in the film."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "augsburg"
+            
+            
+        ],
+        "support_images" : [
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Custom Software"
+            
+            
+        ],
+        "available": true,
+        "price": "NSF",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "One-Room Schoolhouse",
+        "url": "",
+        "warnickNumber": "13.06::INST:96",
+        "type": "installation",
+        "year": "2013",
+        "featured_image": "main.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "192&quot; x 192&quot; x 144&quot;",
+        "description" : {
+            "short": "Building on the traditions of the rural one-room schoolhouses, a one-room schoolhouse was built on a frozen lake to model an all-inclusive, non-hierarchical learning process.",
+            "long": "Building on the traditions of the rural one-room schoolhouses, a one-room schoolhouse was built on a frozen lake to model an all-inclusive, non-hierarchical learning process."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/oneroomschoolhouse/dsci0304.jpg"
+            ,
+            
+                "./src/work/oneroomschoolhouse/fireplaceweb.jpg"
+            ,
+            
+                "./src/work/oneroomschoolhouse/hbweb.jpg"
+            ,
+            
+                "./src/work/oneroomschoolhouse/opening-day-1.jpg"
+            ,
+            
+                "./src/work/oneroomschoolhouse/schoolhouse-interior.jpg"
+            ,
+            
+                "./src/work/oneroomschoolhouse/shelvesweb.jpg"
+            ,
+            
+                "./src/work/oneroomschoolhouse/132796435302.jpg"
+            ,
+            
+                "./src/work/oneroomschoolhouse/132796441512.jpg"
+            ,
+            
+                "./src/work/oneroomschoolhouse/132796443815.jpg"
+            ,
+            
+                "./src/work/oneroomschoolhouse/shelvesweb.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "2x4"
+            ,
+            
+                "OSB"
+            ,
+            
+                "Pedagogy"
+            ,
+            
+                "Chalkboards"
+            ,
+            
+                "Students"
+            ,
+            
+                "Cast Iron Wood Burning Stove"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Ongoing Revolution",
+        "url": "",
+        "warnickNumber": "22.08::SCPT:32",
+        "type": "sculpture",
+        "year": "2022",
+        "featured_image": "Ongoing_Revolution_2.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "14.57&quot; x 8&quot; x 8&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "pada"
+            ,
+            
+                "wassaic july 2023"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/ongoingrevolution/Ongoing_Revolution_1.jpg"
+            ,
+            
+                "./src/work/ongoingrevolution/Ongoing_Revolution_3.jpg"
+            ,
+            
+                "./src/work/ongoingrevolution/Ongoing_Revolution_4.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Grelha de Sardinha"
+            ,
+            
+                "Bandeira Verde-Rubra"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Prisoners Dilemma: Or The Passage Of Time With Aimless Labor",
+        "url": "",
+        "warnickNumber": "16.07::SCPT:43",
+        "type": "sculpture",
+        "year": "2016",
+        "featured_image": "IMG_6895.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "A delicate balance of Rakes that have only been used by prisoners to do yard work at the Lansing Correctional Facility in Lansing, Kansas.",
+            "long": "A delicate balance of Rakes that have only been used by prisoners to do yard work at the Lansing Correctional Facility in Lansing, Kansas."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Rakes"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Untitled (Red)",
+        "url": "",
+        "warnickNumber": "22.06::DWG:50",
+        "type": "drawing",
+        "year": "2022",
+        "featured_image": "untitled_red_1.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "24&quot; x 32&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "pada"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/red/untitled_red_2.jpg"
+            ,
+            
+                "./src/work/red/untitled_red_3.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Newsprint"
+            ,
+            
+                "Spray Paint"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Secrets Obscured Through Language #3",
+        "url": "",
+        "warnickNumber": "19.15::DWG:03",
+        "type": "drawing",
+        "year": "2019",
+        "featured_image": "secretsobscuredthroughlanguage_1.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "8.5&quot; x 11&quot;",
+        "description" : {
+            "short": "Linear B tablet transcribed while thinking of things I would never say.",
+            "long": "Linear B tablet transcribed while thinking of things I would never say."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/secretsobscuredthroughlanguage/secretsobscuredthroughlanguage_3.jpg"
+            ,
+            
+                "./src/work/secretsobscuredthroughlanguage/secretsobscuredthroughlanguage_2.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Engineering Paper"
+            ,
+            
+                "Marker"
+            
+            
+        ],
+        "available": true,
+        "price": "$1,200",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Self Portrait with Laundry Bag",
+        "url": "",
+        "warnickNumber": "16.01::PH:56",
+        "type": "photography",
+        "year": "2016",
+        "featured_image": "IMG_7997-Edit.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "24” x 36”",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/selfportraitwithlaundrybag/IMG_9652.jpg"
+            ,
+            
+                "./src/work/selfportraitwithlaundrybag/IMG_9660.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Archival Pigment Print"
+            ,
+            
+                "Silk"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Silhouette Of Factory",
+        "url": "",
+        "warnickNumber": "17.10::PRT:27",
+        "type": "print",
+        "year": "2017",
+        "featured_image": "IMG_8610.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "18&quot; x 24&quot;",
+        "description" : {
+            "short": "This series of limitless take-away off-set prints was produced by those incarcerated at the Pickaway Correctional Institution in Orient, Ohio. The prints retain the material charge and weight of their history, and as each viewer takes a print they wrestle with the issues of our contemporary system. The prints ultimately implicate all of us in the prison industrial complex. And once we have this knowledge we must choose how one should act. ",
+            "long": "This series of limitless take-away off-set prints was produced by those incarcerated at the Pickaway Correctional Institution in Orient, Ohio. The prints retain the material charge and weight of their history, and as each viewer takes a print they wrestle with the issues of our contemporary system. The prints ultimately implicate all of us in the prison industrial complex. And once we have this knowledge we must choose how one should act. "
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "spaces"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/silhouetteoffactory/IMG_8608.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Offset Prints Produced by those incaerated at Pickaway Correctional Institution"
+            
+            
+        ],
+        "available": true,
+        "price": "NSF",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "The Just Is Nothing Else Than The Advantage Of The Stronger",
+        "url": "",
+        "warnickNumber": "19.10::SCPT:54",
+        "type": "sculpture",
+        "year": "2019",
+        "featured_image": "thejustisnothingelsethantheadvantageofthestronger_1.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/thejustisnothingelsethantheadvantageofthestronger/thejustisnothingelsethantheadvantageofthestronger_2.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Gold"
+            ,
+            
+                "Marble Brick from the Acropolis of Athens"
+            ,
+            
+                "Surplus Military Blankets"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "The Library",
+        "url": "",
+        "warnickNumber": "13.09::INST:80",
+        "type": "installation",
+        "year": "2013",
+        "featured_image": "_MG_4647.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "A fully functional library comprised of books downloaded from the internet which have had their language altered by custom software. Generously made possible by the Jerome Foundation through Northern Lights MN.",
+            "long": "A fully functional library comprised of books downloaded from the internet which have had their language altered by custom software. Generously made possible by the Jerome Foundation through Northern Lights MN."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/thelibrary/_MG_4651.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0210.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0224.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0228.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0344.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0354.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0355.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0392-2.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0360.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0390.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0437.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0410.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0407.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0392.jpg"
+            ,
+            
+                "./src/work/thelibrary/IMG_0493.jpg"
+            ,
+            
+                "./src/work/thelibrary/_MG_4648.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Bond Paper"
+            ,
+            
+                "Words"
+            ,
+            
+                "Custom Software"
+            ,
+            
+                "Patrons"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "The Pen",
+        "url": "",
+        "warnickNumber": "18.01::INST:63",
+        "type": "installation",
+        "year": "2018",
+        "featured_image": "_MG_9888-HDR.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "12&quot; x 15&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "w2s"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/thepen/_MG_9907-HDR.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Neon"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "The Transmutation Of Flesh To Gold",
+        "url": "",
+        "warnickNumber": "18.02::SCPT:675",
+        "type": "sculpture",
+        "year": "2018",
+        "featured_image": "_MG_9839.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "A stack of $100 dollar bills equal to the $162,510,000, the profits for Correction Corporation of America for 2017",
+            "long": "A stack of $100 dollar bills equal to the $162,510,000, the profits for Correction Corporation of America for 2017"
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "w2s"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/thetransmutationoffleshtogold/_MG_9841.jpg"
+            ,
+            
+                "./src/work/thetransmutationoffleshtogold/_MG_9837.jpg"
+            ,
+            
+                "./src/work/thetransmutationoffleshtogold/money-1-2.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Offset Prints Produced by those incaerated at Pickaway Correctional Institution"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "This Was Produced With Forced Labor",
+        "url": "",
+        "warnickNumber": "17.08::PRT:68",
+        "type": "print",
+        "year": "2017",
+        "featured_image": "IMG_0289.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "18&quot; x 24&quot;",
+        "description" : {
+            "short": "This series of limitless take-away off-set prints was produced by those incarcerated at the Pickaway Correctional Institution in Orient, Ohio. The prints retain the material charge and weight of their history, and as each viewer takes a print they wrestle with the issues of our contemporary system. The prints ultimately implicate all of us in the prison industrial complex. And once we have this knowledge we must choose how one should act. ",
+            "long": "This series of limitless take-away off-set prints was produced by those incarcerated at the Pickaway Correctional Institution in Orient, Ohio. The prints retain the material charge and weight of their history, and as each viewer takes a print they wrestle with the issues of our contemporary system. The prints ultimately implicate all of us in the prison industrial complex. And once we have this knowledge we must choose how one should act. "
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "spaces"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/thiswasproducedwithforcedlabor/IMG_8608.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Offset Prints Produced by those incaerated at Pickaway Correctional Institution"
+            
+            
+        ],
+        "available": true,
+        "price": "NSF",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "To Say Something Is Always To Do Something",
+        "url": "",
+        "warnickNumber": "18.05::DGT:38",
+        "type": "generative",
+        "year": "2018",
+        "featured_image": "MVI_9881-0001.png",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "w2s"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/tosaysomethingisalwaystodosomething/_MG_9879.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Custom Software"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Tower of Power",
+        "url": "",
+        "warnickNumber": "22.05::SCPT:49",
+        "type": "sculpture",
+        "year": "2022",
+        "featured_image": "IMG_4500.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "pada"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/towerofpower/IMG_4491.jpg"
+            ,
+            
+                "./src/work/towerofpower/IMG_4505.jpg"
+            ,
+            
+                "./src/work/towerofpower/IMG_4508.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Stainless Steel Bird Spikes"
+            ,
+            
+                "Plastic Fruit Crates"
+            
+            
+        ],
+        "available": false,
+        "price": "NFS",
+        "visibility": true,
+        "location": "Distroyed",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Unnatural Deeds Do Breed Unnatural Troubles",
+        "url": "",
+        "warnickNumber": " 19.09::SCPT:91",
+        "type": "sculpture",
+        "year": "2019",
+        "featured_image": "unnaturaldeedsdobreedunnaturaltroubles_2.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "18&quot; x 15&quot; x 6&quot;",
+        "description" : {
+            "short": "A gilded textured vinyl covered pillow produced by and for those incarcerated. The pillow was manufactured by those incarcerated at Allen-Oakwood Correctional Institution in Lima, Ohio.",
+            "long": "A gilded textured vinyl covered pillow produced by and for those incarcerated. The pillow was manufactured by those incarcerated at Allen-Oakwood Correctional Institution in Lima, Ohio."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/unnaturaldeedsdobreedunnaturaltroubles/unnaturaldeedsdobreedunnaturaltroubles_1.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Gold"
+            ,
+            
+                "Prisoner Produced Pillow"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Wall Darwing #118 (After Sol LeWitt)",
+        "url": "",
+        "warnickNumber": "16.04::DWG:81",
+        "type": "drawing",
+        "year": "2016",
+        "featured_image": "IMG_7529.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "72&quot; x 120&quot;",
+        "description" : {
+            "short": "This work is a Sol LeWitt wall drawing drawn by a unemployed veteran who was paid for his time in gold.",
+            "long": "This work is a Sol LeWitt wall drawing drawn by a unemployed veteran who was paid for his time in gold."
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/walldarwing118/IMG_7618.jpg"
+            ,
+            
+                "./src/work/walldarwing118/IMG_7624.jpg"
+            ,
+            
+                "./src/work/walldarwing118/walldrawinginstructions.jpg"
+            ,
+            
+                "./src/work/walldarwing118/img_7710_edit.tif"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Labor"
+            ,
+            
+                "Veteran"
+            ,
+            
+                "Graphite"
+            ,
+            
+                "Gold"
+            
+            
+        ],
+        "available": false,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "We Wept (After Bas Jan Ader)",
+        "url": "",
+        "warnickNumber": "16.02::VID:51",
+        "type": "video",
+        "year": "2016",
+        "featured_image": "wewept-1.png",
+        "edition": [object Object],
+        "dimensions_test": "",
+        "dimensions": "00:12:27",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/wewept/wewept-1.png"
+            ,
+            
+                "./src/work/wewept/wewept-2.png"
+            ,
+            
+                "./src/work/wewept/wewept-3.png"
+            ,
+            
+                "./src/work/wewept/wewept-4.png"
+            ,
+            
+                "./src/work/wewept/IMG_9671.jpg"
+            ,
+            
+                "./src/work/wewept/IMG_9673.jpg"
+            ,
+            
+                "./src/work/wewept/IMG_9674.jpg"
+            ,
+            
+                "./src/work/wewept/IMG_9681.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Tears"
+            
+            
+        ],
+        "available": true,
+        "price": "$1,200",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "What To The Prisoner Is The Fourth Of July?",
+        "url": "",
+        "warnickNumber": "17.03::TEX:15",
+        "type": "textile",
+        "year": "2017",
+        "featured_image": "IMG_0283.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "72&quot; x 96&quot;",
+        "description" : {
+            "short": "The text embroidered into the flag is adapted from Frederick Douglass, and asks “What to the prisoner is the Fourth of July?” The tapestry is produced from the red stripes of disassembled American flags. These flags were produced by prison labor in the state of Ohio.",
+            "long": "The text embroidered into the flag is adapted from Frederick Douglass, and asks “What to the prisoner is the Fourth of July?” The tapestry is produced from the red stripes of disassembled American flags. These flags were produced by prison labor in the state of Ohio."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "spaces"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/whattotheprisoneristhefourthofjuly/IMG_0247.jpg"
+            ,
+            
+                "./src/work/whattotheprisoneristhefourthofjuly/IMG_0256.jpg"
+            ,
+            
+                "./src/work/whattotheprisoneristhefourthofjuly/IMG_0297.jpg"
+            ,
+            
+                "./src/work/whattotheprisoneristhefourthofjuly/IMG_0301.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Disassembled American flags produced by those incarcerated in the state of Ohio"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Where Does Power Lie?",
+        "url": "",
+        "warnickNumber": "19.02::PRT:50",
+        "type": "Photography",
+        "year": "2019",
+        "featured_image": "wheredoespowerlie_5.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "3&quot; x 5&quot;",
+        "description" : {
+            "short": "",
+            "long": ""
+        },
+        "tags": [ 
+            
+                "work"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/wheredoespowerlie/wheredoespowerlie_1.jpg"
+            ,
+            
+                "./src/work/wheredoespowerlie/wheredoespowerlie_2.jpg"
+            ,
+            
+                "./src/work/wheredoespowerlie/wheredoespowerlie_3.jpg"
+            ,
+            
+                "./src/work/wheredoespowerlie/wheredoespowerlie_4.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Vintage Postcard"
+            ,
+            
+                "Custom Stamp"
+            
+            
+        ],
+        "available": true,
+        "price": "$300",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "Untitled (White)",
+        "url": "",
+        "warnickNumber": "17.07::TEX:27",
+        "type": "textile",
+        "year": "2017",
+        "featured_image": "IMG_0279.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "Dimensions Variable",
+        "description" : {
+            "short": "This fabric wall hanging was modeled on the Christmas paper chains children produce to celebrate the season. This chain was produced from the white stripes of disassembled American flags. These flags were produced by those incarceratedin the state of Ohio.",
+            "long": "This fabric wall hanging was modeled on the Christmas paper chains children produce to celebrate the season. This chain was produced from the white stripes of disassembled American flags. These flags were produced by those incarcerated in the state of Ohio."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "spaces"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/white/IMG_0303.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Disassembled American flags produced by those incarcerated in the state of Ohio"
+            
+            
+        ],
+        "available": true,
+        "price": "NFS",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "withinthiszonestatesofexceptionloseallpower",
+        "url": "",
+        "warnickNumber": "19.11::DWG:32",
+        "type": "drawing",
+        "year": "2018",
+        "featured_image": "_DSC7859.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "96” x 72”",
+        "description" : {
+            "short": "A powdered graphite drawing on the floor of the gallery that was slowly destroyed by the movement of viewers.",
+            "long": "A powdered graphite drawing on the floor of the gallery that was slowly destroyed by the movement of viewers."
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "msu"
+            ,
+            
+                "augsburg"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/withinthiszonestatesofexceptionloseallpower/_DSC7759.jpg"
+            ,
+            
+                "./src/work/withinthiszonestatesofexceptionloseallpower/_DSC7846.jpg"
+            ,
+            
+                "./src/work/withinthiszonestatesofexceptionloseallpower/_DSC8040.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Powdered Graphite"
+            
+            
+        ],
+        "available": true,
+        "price": "",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      },
+    
+      {
+        "title": "You May Choose",
+        "url": "",
+        "warnickNumber": "17.01::PRT:11",
+        "type": "print",
+        "year": "2017",
+        "featured_image": "IMG_0292.jpg",
+        "edition": ,
+        "dimensions_test": "",
+        "dimensions": "18&quot; x 24&quot;",
+        "description" : {
+            "short": "This series of limitless take-away off-set prints was produced by those incarcerated at the Pickaway Correctional Institution in Orient, Ohio. The prints retain the material charge and weight of their history, and as each viewer takes a print they wrestle with the issues of our contemporary system. The prints ultimately implicate all of us in the prison industrial complex. And once we have this knowledge we must choose how one should act. ",
+            "long": "This series of limitless take-away off-set prints was produced by those incarcerated at the Pickaway Correctional Institution in Orient, Ohio. The prints retain the material charge and weight of their history, and as each viewer takes a print they wrestle with the issues of our contemporary system. The prints ultimately implicate all of us in the prison industrial complex. And once we have this knowledge we must choose how one should act. "
+        },
+        "tags": [ 
+            
+                "work"
+            ,
+            
+                "spaces"
+            
+            
+        ],
+        "support_images" : [
+            
+                "./src/work/youmaychoose/IMG_8608.jpg"
+            ,
+            
+                "./src/work/youmaychoose/IMG_0290.jpg"
+            
+            
+        ],
+        "collection":[
+            
+        ],
+        "materials":[
+            
+                "Offset Prints Produced by those incaerated at Pickaway Correctional Institution"
+            
+            
+        ],
+        "available": true,
+        "price": "NSF",
+        "visibility": true,
+        "location": "",
+        "exhibitions": [
+            
+        ],
+        "collaborators":[
+            
+        ],
+        "links":""
+      }
+    
+  ]
+}
