@@ -6,6 +6,8 @@ slug: criamosoquenaotemos
 warnickNumber: " 22.10::PRT:57:E.ULTD"
 tags:
   - work
+  - pada
+  - "wassaic july 2023"
 
 type: print
 year: "2022"

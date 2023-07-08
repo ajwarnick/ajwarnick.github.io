@@ -4,7 +4,7 @@ pagination:
   data: collections.everything
   size: 1
   alias: tag
-permalink: collection/{{ tag }}/index.html
+permalink: collection/{{ tag | slugify }}/index.html
 renderData:
   title: Tagged “{{ tag }}”
 templateClass: list-view

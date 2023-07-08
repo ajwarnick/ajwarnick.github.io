@@ -8,6 +8,7 @@ warnickNumber: "22.09::SCPT:44"
 tags:
   - work
   - pada
+  - "wassaic july 2023"
 
 type: "sculpture"
 year: "2022"

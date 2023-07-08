@@ -30,7 +30,7 @@ description:
   long: "The text embroidered into the flag is adapted from Frederick Douglass, and asks “What to the prisoner is the Fourth of July?” The tapestry is produced from the red stripes of disassembled American flags. These flags were produced by prison labor in the state of Ohio."
 
 dimensions_sort: "6912"
-dimensions: '72" 96"'
+dimensions: '72" x 96"'
 
 available: true
 price: ""
