@@ -452,9 +452,13 @@ module.exports = function(eleventyConfig) {
     // eleventyConfig.addPassthroughCopy('js');
     // eleventyConfig.addPassthroughCopy('audio');
     eleventyConfig.addPassthroughCopy('.nojekyll');
-    eleventyConfig.addPassthroughCopy({ "src/static" : "/" });
-    eleventyConfig.addPassthroughCopy({ "node_modules/tachyonjs/tachyon.min.js": "js" });
-    eleventyConfig.addPassthroughCopy({ "node_modules/list.js/dist/list.min.js": "js" });
+
+    
+    eleventyConfig.addPassthroughCopy({ 
+        "src/static" : "/",  
+        "node_modules/tachyonjs/tachyon.min.js": "js/tachyon.min.js", 
+        "node_modules/list.js/dist/list.min.js": "js/list.min.js"
+    });
 
     return {
         dir: {
