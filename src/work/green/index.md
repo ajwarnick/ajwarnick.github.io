@@ -29,7 +29,7 @@ materials:
 
 description:
   short: ""
-  long: ""
+  long: "Found cardboard from the industrial park surrounding PADA manufactured to look like aluminum with the underside painted the green from the Portuguese flag."
 
 # 6 feet x 8 feet x 14 inches
 dimensions_sort: "62208"

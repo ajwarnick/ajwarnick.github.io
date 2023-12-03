@@ -28,7 +28,7 @@ edition:
 
 description:
   short: ""
-  long: ""
+  long: "Free A3 takeaway with ID portraits of the workers from the old Companhia União Fabril (CUF) industrial park. These images where sourced from the CUF museum. The phrase surrounding the workers is a play on the company's motto, created by founder Alfredo da Silva \"What the country doesn’t have CUF creates.\" The new motto translates to \"what we don't have we create\" or \"we create what we don't have\" depending on where one starts reading."
 
 
 dimensions_sort: "1260"

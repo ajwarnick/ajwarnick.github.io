@@ -29,7 +29,7 @@ materials:
 
 description:
   short: ""
-  long: ""
+  long: "The BBQ sardine holder was ubiquitous in my time in Portugal with the Feast of St. Anthony (Festival of Sardines) taking place in the greater Lisbon metro area while I was in residence. In this work a modernist monochrome is created by strategically folding a Portuguese flag which was imported from China."
 
 dimensions_sort: "5826"
 dimensions: '14.57" x 8" x 8"'

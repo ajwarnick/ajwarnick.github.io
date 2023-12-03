@@ -22,15 +22,15 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-img": "^3.1.0",
+    "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "lodash": "^4.17.21",
     "npm-run-all": "^4.1.2",
-    "parcel": "^2.8.3",
-    "sass": "^1.62.1",
-    "sharp": "^0.32.1"
+    "parcel": "^2.10.3",
+    "sass": "^1.69.5",
+    "sharp": "^0.33.0"
   },
   "repository": {
     "type": "git",

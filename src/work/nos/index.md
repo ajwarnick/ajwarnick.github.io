@@ -32,7 +32,7 @@ materials:
 
 description:
   short: ""
-  long: ""
+  long: "Recreation of the Companhia União Fabril (CUF) Flag found in the museum at their former industrial park. In my recreation the name of the corporation was replaced with the Portuguese collective pronoun for we."
 
 
 dimensions_sort: "33241"
